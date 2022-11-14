@@ -1,0 +1,68 @@
+enabled: true
+streams:
+  schemes:
+    blueprints:
+      type: ReadOnlyStream
+      paths:
+        - 'themes://amaury-carrade/blueprints'
+header:
+  title: '<span>Amaury</span>&nbsp;Carrade'
+  tagline: ''
+  image:
+    'user/themes/amaury-carrade/user-assets/Avatar vert circulaire centré.png':
+      name: 'Avatar vert circulaire centré.png'
+      full_path: 'Avatar vert circulaire centré.png'
+      type: image/png
+      size: 61175
+      path: 'user/themes/amaury-carrade/user-assets/Avatar vert circulaire centré.png'
+tags_cloud:
+  enabled: true
+  threshold: 0
+meta:
+  contact_page: /legal
+email: amaury@carrade.eu
+siret: 88385983700014
+footer:
+  pages:
+    - /legal
+social:
+  -
+    title: Twitter
+    link: 'https://twitter.com/AmauryPi'
+    icon_type: fab
+    icon: fa-twitter
+  -
+    title: Instagram
+    link: 'https://instagram.com/amaurypi'
+    icon_type: fab
+    icon: fa-instagram
+  -
+    title: Mastodon
+    link: 'https://mamot.fr/@amaurypi'
+    icon_type: fab
+    icon: fa-mastodon
+  -
+    title: Twitch
+    link: 'https://twitch.tv/zestedesavoir'
+    icon_type: fab
+    icon: fa-twitch
+  -
+    title: GitHub
+    link: 'https://github.com/AmauryCarrade'
+    icon_type: fab
+    icon: fa-github
+  -
+    title: LinkedIn
+    link: 'https://linkedin.com/in/amaury-carrade/'
+    icon_type: fab
+    icon: fa-linkedin
+donations:
+  -
+    title: uTip
+    link: 'https://www.utip.io/amaurypi/'
+  -
+    title: PayPal
+    link: 'https://paypal.me/amaurycarrade'
+  -
+    title: GitHub
+    link: 'https://github.com/sponsors/AmauryCarrade'

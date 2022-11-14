@@ -1,0 +1,2 @@
+enabled: true
+zmd_server: 'http://nebulius.org:27272'

@@ -1,0 +1,6 @@
+enabled: true
+words_per_minute: 200
+format: '{minutes_short_count} {minutes_text}'
+round: minutes
+include_image_views: false
+seconds_per_image: '12,11,10,9,8,7,6,5,4,3'

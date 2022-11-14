@@ -1,0 +1,19 @@
+title: 'Amaury Carrade'
+default_lang: fr
+author:
+  name: 'Amaury Carrade'
+  email: amaury@carrade.eu
+taxonomies:
+  - category
+  - tag
+metadata:
+  description: ''
+summary:
+  enabled: true
+  format: short
+  size: 300
+  delimiter: '==='
+redirects: null
+routes: null
+blog:
+  route: /blog
