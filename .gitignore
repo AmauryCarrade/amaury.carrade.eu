@@ -1,0 +1,8 @@
+/*
+!/pages
+!/config
+!/.gitignore
+config/security.yaml
+config/security.yml
+config/plugins/git-sync.yaml
+config/plugins/git-sync.yml
