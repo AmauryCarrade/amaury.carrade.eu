@@ -70,4 +70,4 @@ surtitle: 'Créer des vocations'
 media_order: 'zestedesavoir.png,cafedessciences-playazur2022.jpeg,pintofscience.jpg'
 ---
 
-Car [rien n’est évident pour tout le monde](https://xkcd.com/1053/), et qu’il n’y a peu que je ne trouve plus satisfaisant que d’expliquer, transmettre, faire briller ! Je suis le président d’une association, [Zeste de Savoir](https://zestedesavoir.com), œuvrant entre autres dans la médiation scientifique, mais aussi membre du [Café des Sciences](https://cafe-sciences.org), association reconnue de vulgarisateurs⋅trices, et conférencier occasionnel.
+Car [rien n’est évident pour tout le monde](https://xkcd.com/1053/), et qu’il n’y a peu que je ne trouve plus satisfaisant que d’expliquer, transmettre, faire briller ! Je suis le président d’une association, [Zeste de Savoir](https://zestedesavoir.com), œuvrant entre autres dans la médiation scientifique, mais aussi membre du [Café des Sciences](https://cafe-sciences.org), association reconnue de vulgarisateurs⋅trices, et conférencier occasionnel…
