@@ -3,8 +3,9 @@ title: 'Mentions légales'
 homepage:
     invite: 'Les petites lignes'
 process:
-    markdown: true
     twig: true
+    zmarkdown: true
+    markdown: false
 ---
 
 Ce site est le site personnel et professionnel d'Amaury Carrade.

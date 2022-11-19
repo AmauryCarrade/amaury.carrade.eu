@@ -51,14 +51,14 @@ see_also:
         link:
             link: ''
         page:
-            page: /typography
+            page: /accueil
     -
         title: Conférences
         type: page
         link:
             link: ''
         page:
-            page: /typography
+            page: /accueil
 header_image:
     color: '#7a49b7'
     vertical_centering: 50
@@ -68,6 +68,7 @@ metadata:
     anchor: éducation
 surtitle: 'Transmettre les savoirs'
 media_order: 'zestedesavoir.png,cafedessciences-playazur2022.jpeg,pintofscience.jpg'
+published: false
 ---
 
 Framasoft est un réseau d'éducation populaire consacré principalement au logiciel libre. Il est soutenu depuis 2004 par l'association du même nom, après avoir été créé en novembre 2001 par Alexis Kauffmann, Paul Lunetta, et Georges Silva. Il s'organise collaborativement sur trois axes : promotion, diffusion et développement de logiciels libres, enrichissement de la culture libre et offre de services libres en ligne.
