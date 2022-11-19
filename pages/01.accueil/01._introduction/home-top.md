@@ -18,7 +18,7 @@ associations:
     -
         name: 'Électrons libres de la CSTI'
         title: 'Électrons libres de la <abbr title="Culture scientifique, technique et industrielle">CSTI</abbr>'
-        link: 'https://t.co'
+        link: 'https://amaury.carrade.eu/#'
         icon: 'Électrons libres de la CSTI Petite.png'
         icon_background: '#ffffff'
 media_order: 'logo-zestedesavoir.png,Café des Sciences sans texte Petite.png,Électrons libres de la CSTI Petite.png'
