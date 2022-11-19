@@ -66,5 +66,8 @@ home_bottom_links:
                 page: /accueil
 ---
 
-Engagé dans l'éducation, la formation et la vulgarisation… ainsi que le développement informatique et l'accessibilité.  
+Engagé dans l'éducation, la formation et la vulgarisation… ainsi que le développement informatique et l'accessibilité.
+
 Et quand il me reste un peu de temps libre, je créé des jeux.
+
+~_Ce site est tout neuf, la peinture est encore fraîche !_~
