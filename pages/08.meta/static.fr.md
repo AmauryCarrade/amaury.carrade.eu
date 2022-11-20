@@ -6,6 +6,7 @@ process:
     twig: true
     zmarkdown: true
     markdown: false
+menu: 'À propos'
 ---
 
 Vous êtes sur mon site web personnel et professionnel, utilisé comme vitrine numérique et pour publier, à un endroit fiable et persistant sous mon contrôle, des billets, brèves et articles. Ces derniers sont principalement autour de la culture scientifique et de l'accessibilité. Vous pouvez en retrouver certains [sur Zeste de Savoir](https://zestedesavoir.com/@Amaury).
