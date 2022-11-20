@@ -17,7 +17,7 @@ Je suis membre du [Café des Sciences](https://cafe-sciences.org), rassemblement
 
 Certains des articles de ce site sont co-écrits ; dans de tels cas, les autres auteurs sont systématiquement précisés en tête d'article. 
 
-[[i|Trucs légaux et remerciements]]
+[[i|Les machins légaux, là]]
 | Ce site web est hébergé par [SCALEWAY SAS](https://www.scaleway.com/fr/), BP 438, 75366 PARIS CEDEX 08, FRANCE. Le responsable de la publication est [Amaury Carrade](/contact). SIRET {{ config.theme.siret }} – TVA FR36883859837.
 | 
 | Sauf mention contraire, le contenu est placé sous licence [Creative Commons BY – SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.fr). Les données brutes du site sont [disponibles sur GitHub](https://github.com/AmauryCarrade/amaury.carrade.eu).
@@ -27,7 +27,6 @@ Certains des articles de ce site sont co-écrits ; dans de tels cas, les autres 
 | Les marques et logos reproduits sur le site sont déposés par les sociétés qui en sont propriétaires.
 |
 | Le site ne recueille pas d’informations personnelles, n'utilise pas de cookies de tierce partie, et ne dépose pas de cookies de suivi.
-|
-| Ce site est géré par [Grav](https://getgrav.org) en utilisant un [thème personnalisé](https://github.com/AmauryCarrade/grav-theme-amaury-carrade) repris du thème d'un de mes anciens sites webs, _Nébulius_, qui désormais redirige ici.
-|
-| Je tiens à remercier tout particulièrement **[Kiliann Becquet](https://kiliannbecquet.fr/)** pour ses suggestions quant au développement de Nébulius.
+
+[[i]]
+| Si vous voulez en savoir plus sur le fonctionnement technique de ce site web, [visitez le _Colophon_](/colophon).
