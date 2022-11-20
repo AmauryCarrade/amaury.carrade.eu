@@ -12,7 +12,7 @@ Ce site web est développé [avec le CMS Grav](https://getgrav.org/). Il a pour 
 
 L'installation de base de Grav est étendue grâce à [un thème personnel](https://github.com/AmauryCarrade/grav-theme-amaury-carrade), développé pour l'occasion, ainsi que [quelques plugins](https://github.com/AmauryCarrade/thestias-infra/blob/main/roles/amaury.carrade.eu/vars/main.yml). Le tout est [déployé par un _playbook_ Ansible](https://github.com/AmauryCarrade/thestias-infra), derrière _nginx_.
 
-En développant ce site web, j'ai pris soin à ce qu'il reste léger et accessible (ce serait un comble), tout en étant respectueux de la vie privée de ses visiteurs·euses. Côté serveur, une mise en cache agressive assure un temps de traitement des pages des plus rapides, proche d'un site statique. De plus, vous ne trouverez ici :
+En développant ce site web, j'ai pris soin à ce qu'il reste léger et accessible (ce serait un comble), tout en étant respectueux de la vie privée de ses visiteurs·euses. Côté serveur, une mise en cache agressive assure un temps de traitement des pages des plus rapides, proche d'un site statique — même si quelques améliorations sont encore possibles. De plus, vous ne trouverez ici :
 - pas de services de suivi appelant des services tiers : Grav me donne quelques légères statistiques similaires à ce qu'on pourrait extraire d'un fichier de log d'un serveur web, et cela me suffit amplement ;
 - pas de publicité, car tout le monde déteste cela, et moi avec (faites-vous une fleur, utilisez [uBlock Origin](https://ublockorigin.com/fr), même sur mobile[^ublock]) ;
 - pas de polices ou scripts hébergées sur des services pistant les utilisateurs, tel Google Fonts.
@@ -22,7 +22,7 @@ En développant ce site web, j'ai pris soin à ce qu'il reste léger et accessib
 Le contenu est rédigé avec Markdown, mais en divergeant du moteur natif de Grav : celui initialement développé pour Zeste de Savoir, [`zmarkdown`](https://github.com/zestedesavoir/zmarkdown), est [utilisé à la place](https://github.com/AmauryCarrade/grav-plugin-zmarkdown-engine). Il me permet, notamment :
 - d'importer plus facilement des contenus depuis ou vers Zeste de Savoir, étant donné que le même moteur Markdown est utilisé partout ;
 - de profiter d'un moteur plus complet et riche que celui de Grav ;
-- de gérer automatiquement la typographie française (accents typographiques, guillemets, espaces insécables normales ou fines, etc.).
+- de gérer automatiquement la typographie française (apostrophes typographiques, guillemets, espaces insécables normales ou fines, etc.).
 
 Trois polices de caractères sont utilisées sur ce site, choisies avec soin.
 - **[Fira Sans](https://mozilla.github.io/Fira)**, pour les textes des interfaces. Créée par Mozilla, c'est une police _sans serif_ très complète et dont j'aime beaucoup les traits, qui sait rester sobre tout en ayant, malgré tout, une certaine personnalité.
