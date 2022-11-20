@@ -1,5 +1,5 @@
 ---
-title: 'Mentions légales'
+title: 'À propos & mentions légales'
 homepage:
     invite: 'Les petites lignes'
 process:
