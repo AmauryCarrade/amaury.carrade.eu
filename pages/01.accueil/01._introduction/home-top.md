@@ -68,6 +68,6 @@ home_bottom_links:
 
 Engagé dans l'éducation, la formation et la vulgarisation… ainsi que le développement informatique et l'accessibilité.
 
-Et quand il me reste un peu de temps libre, je créé des jeux.
+Et quand il me reste un peu de temps libre, je crée des jeux.
 
 ~_Ce site est tout neuf, la peinture est encore fraîche !_~
