@@ -70,4 +70,4 @@ Engagé dans l'éducation, la formation et la vulgarisation… ainsi que le dév
 
 Et quand il me reste un peu de temps libre, je crée des jeux.
 
-~_Ce site est tout neuf, la peinture est encore fraîche !_~
+~_Ce site est neuf, la peinture est encore fraîche ! Et il manque deux sections ci-dessous._~
