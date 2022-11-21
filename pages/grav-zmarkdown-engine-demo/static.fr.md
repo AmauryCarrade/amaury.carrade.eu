@@ -5,7 +5,7 @@ homepage:
 ---
 
 [[i]]
-| This is a demo of the `zmarkdown` engine being used in a Grav website, *via* the [zmarkdown engine plugin](https://github.com/AmauryCarrade/grav-plugin-zmarkdown-engine). Everything in this page is written in pure-Markdown, without any shortcode.
+| This is a demo of the `zmarkdown` engine being used in a Grav website, *via* the [zmarkdown engine plugin](https://github.com/AmauryCarrade/grav-plugin-zmarkdown-engine). Everything in this page is written in pure-Markdown, without any shortcode. The visual output depends on your theme, tho (especially custom blocks—like informations, errors, etc.—, source codes, and maths—requires the $\KaTeX$ CSS).
 |
 | You can see other demos (and capabilities—did you know `zmarkdown` can also export in LaTeX and epub?) in the [project's demo page](https://zestedesavoir.github.io/zmarkdown/) and [in its repository](https://github.com/zestedesavoir/zmarkdown).
 
@@ -84,7 +84,7 @@ Table: You can do complex tables in pure Markdown! Bonus tips if you love ASCII 
 
 $$a \cdot x^2 + b \cdot x + c = 0 \quad \Longrightarrow \quad x = \frac {-b \pm \sqrt{b^2 - 4ac}}{2a}$$
 
-You can also inline formulas: $a \cdot x^2 + b \cdot x + c = 0$ with a single `$` sign before and after. This is using [KaTeX](https://katex.org) under the hood: fully server-side rendered, blazing fast to display!
+You can also inline formulas: $a \cdot x^2 + b \cdot x + c = 0$ with a single `$` sign before and after. This is using [$\KaTeX$](https://katex.org) under the hood: fully server-side rendered, blazing fast to display!
 
 ## Tech and source codes
 
@@ -144,13 +144,13 @@ Use ||Ctrl|| + ||C|| to copy.
 [[s|What's in it?]]
 | Secret blocks too! Boo
 
-> Ceci est une citation… 
-> sur plusieurs lignes
-Source: Citez vos sources !
+> This is a multi-lines…  
+> quote!
+Source: Quote your sources!
 
 
-[[neutre | Théorème de Pythagore]]
-| Un triangle ABC est rectangle en a si et seulement si $AB^2 + AC^2 = BC^2$
+[[neutre | Pythagoras theorem, in French]]
+| Un triangle ABC est rectangle en A si et seulement si $AB^2 + AC^2 = BC^2$
 
 Welcome on ZdS !
 
