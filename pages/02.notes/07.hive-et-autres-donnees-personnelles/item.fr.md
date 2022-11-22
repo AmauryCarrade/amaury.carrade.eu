@@ -15,4 +15,6 @@ media_order: pranav-kumar-jain-PR_0IPlMXgk-unsplash.jpg
 
 Techniquement, aucune.
 
-Oui, cette conclusion est provocatrice. Mais techniquement parlant, il n'y en a aucune
+Oui, cette conclusion est provocatrice. Mais techniquement parlant, il n'y en a aucune.
+
+Pour le contexte, [suite aux agissements d'un certain milliardaire après son rachat de Twitter](https://twitterisgoinggreat.com), 
