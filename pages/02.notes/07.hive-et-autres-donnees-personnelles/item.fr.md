@@ -9,7 +9,7 @@ header_image:
 license: by-sa
 visible: false
 abstract: 'Mastodon a été critiqué pour sa gestion des données personnelles, et Hive, un nouveau réseau social, a débarqué comme une fleur en promettant monts et merveilles. Qu''en est-il vraiment ?'
-published: true
+published: false
 media_order: pranav-kumar-jain-PR_0IPlMXgk-unsplash.jpg
 ---
 
