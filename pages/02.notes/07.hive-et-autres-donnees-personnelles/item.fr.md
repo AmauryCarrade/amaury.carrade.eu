@@ -17,4 +17,4 @@ Techniquement, aucune.
 
 Oui, cette conclusion est provocatrice. Mais techniquement parlant, il n'y en a aucune.
 
-Pour le contexte, [suite aux agissements d'un certain milliardaire après son rachat de Twitter](https://twitterisgoinggreat.com), 
+Pour le contexte, [suite aux agissements d'un certain milliardaire après son rachat de Twitter](https://twitterisgoinggreat.com), beaucoup de monde sur Twitter ont cherché une alternative. Une des plus prisées fut Mastodon, qui a gagné plusieurs millions de personnes en quelques jours à peine.
