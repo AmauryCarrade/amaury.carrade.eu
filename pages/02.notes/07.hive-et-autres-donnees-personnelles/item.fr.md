@@ -18,3 +18,5 @@ Techniquement, aucune.
 Oui, cette conclusion est provocatrice. Mais techniquement parlant, il n'y en a aucune.
 
 Pour le contexte, [suite aux agissements d'un certain milliardaire après son rachat de Twitter](https://twitterisgoinggreat.com), beaucoup de monde sur Twitter ont cherché une alternative. Une des plus prisées fut Mastodon, qui a gagné plusieurs millions de personnes en quelques jours à peine.
+
+Bien sûr, un tel mouvement a attiré les convoitises, et d'autres réseaux cherchent à profiter du pactole qu'est cette manne de nouvelles et nouveaux utilisateurs en recherche d'un nouveau lieu de sociabilisation. Aussi, les alternatives gagnant un énorme coup de projecteur, nombre de commentaires, retours, et critiques, sont adressées. Une bonne partie d'entre elles concernent la gestion des données personnelles.
