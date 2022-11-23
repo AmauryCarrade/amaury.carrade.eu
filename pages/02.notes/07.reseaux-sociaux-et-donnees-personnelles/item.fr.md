@@ -27,7 +27,7 @@ page-toc:
 
 Techniquement, aucune.
 
-Oui, cette conclusion est provocatrice. Mais techniquement parlant, il n'y en a aucune.
+Oui, cette conclusion introductive est provocatrice. Mais techniquement parlant, il n'y en a aucune.
 
 Pour le contexte, [suite aux agissements d'un certain milliardaire après son rachat de Twitter](https://twitterisgoinggreat.com), beaucoup de monde sur Twitter ont cherché une alternative. Une des plus prisées fut Mastodon, qui a gagné plusieurs millions de personnes en quelques jours à peine.
 
@@ -46,5 +46,9 @@ Les premières critiques sont arrivées sur Mastodon : les administrateurs d'ins
 [^instance]: Mastodon est un réseau décentralisé. Contrairement aux réseaux sociaux classiques, comme Twitter ou Instagram, il n'y a pas qu'un seul _Mastodon point com_ contrôlé par _Mastodon, Inc._ où tout le monde a un compte. Au contraire, il y a plein de « petits Mastodons » sur lesquels on peut s'inscrire, mais comme ces petits Mastodons communiquent tous entre eux, on peut communiquer avec tout le monde. Un peu comme les mails : il y a plein de fournisseurs (GMail, Orange, Free, les universités, ProtonMail, FastMail…), mais pas besoin d'être sur le même pour partager des messages : ils communiquent tous entre eux. Ces _petits Mastodons_ s'appellent des _instances_, dans la langue de Mastodon.
 
 [^fédi]: Le _fédivers_, contraction de _federated universe_ ou _univers fédéré_ en français, est l'ensemble des instances Mastodon connectées entre elles en réseau (on dit qu'elles sont _fédérées_).
+
+Il n'y a pas d'interface d'administration listant les messages privés de tout le monde. Cependant, les messages privés sont bien stockés, pour que vous puissiez les voir (c'est pas magique !). Une personne avec un accès à une machine hébergeant une instance Mastodon peut donc aller lire, directement dans la base de données, tous les messages. Il faudra filtrer un peu, car ils sont tous stockés ensemble, mais ce n'est pas très complexe pour quelqu'un avec des compétences techniques. C'est vrai pour toute personne avec un accès direct à la base de données, à savoir certain·es administrateurices d'instances, mais aussi les entreprises offrant des services d'hébergement d'instances Mastodon[^masto-host].
+
+[^masto-host]: Par exemple, [Masto.host](https://masto.host).
 
 https://soatok.blog/2022/11/22/towards-end-to-end-encryption-for-direct-messages-in-the-fediverse/
