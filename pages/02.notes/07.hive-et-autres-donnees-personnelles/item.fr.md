@@ -11,6 +11,16 @@ visible: false
 abstract: 'Mastodon a été critiqué pour sa gestion des données personnelles, et Hive, un nouveau réseau social, a débarqué comme une fleur en promettant monts et merveilles. Qu''en est-il vraiment ?'
 published: true
 media_order: pranav-kumar-jain-PR_0IPlMXgk-unsplash.jpg
+taxonomy:
+    category:
+        - Opinion
+    tag:
+        - mastodon
+        - fédivers
+        - twitter
+        - social
+        - 'données personnelles'
+        - sécurité
 ---
 
 Techniquement, aucune.
@@ -21,8 +31,8 @@ Pour le contexte, [suite aux agissements d'un certain milliardaire après son ra
 
 Bien sûr, un tel mouvement a attiré les convoitises, et d'autres réseaux cherchent à profiter du pactole qu'est cette manne de nouvelles et nouveaux utilisateurs en recherche d'un nouveau lieu de sociabilisation. Aussi, les alternatives gagnant un énorme coup de projecteur, nombre de commentaires, retours, et critiques, sont adressées. Une bonne partie d'entre elles concernent la gestion des données personnelles.
 
-Une alternative a brutalement émergé : Hive Social. Presque inconnu jusqu'alors, ce nouveau réseau promet monts et merveilles, malgré un certain nombre de problèmes de sécurité et de red flags[^hive-red] au moment où j'écris ces lignes.
+Une alternative a brutalement émergé : Hive Social. Presque inconnu jusqu'alors, ce nouveau réseau promet monts et merveilles, malgré un certain nombre de problèmes de sécurité et de _red flags_[^hive-red] au moment où j'écris ces lignes.
 
-
+[^hive-red]: Notamment : réseau centralisé, propriétaire, basé aux USA (donc soumis au Cloud Act), refusant de s'expliquer sur les agissements de certains collaborateurs, avec une sécurité faible, un mécène anonyme très généreux, une grande opacité sur le traitement des données personnelles, pas de DPO (donc pas conforme RGPD), des demandes d'autorisations extrêmement louches (accès à l'intégralité des médias exigé alors que ce n'est pas la façon normale de permettre d'envoyer des fichiers), géré par deux personnes…
 
 https://soatok.blog/2022/11/22/towards-end-to-end-encryption-for-direct-messages-in-the-fediverse/

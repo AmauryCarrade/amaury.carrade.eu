@@ -11,7 +11,7 @@ header_image:
     vertical_centering: 50
 taxonomy:
     category:
-        - Autres
+        - Miscellanées
     tag:
         - physique
         - mathématiques
