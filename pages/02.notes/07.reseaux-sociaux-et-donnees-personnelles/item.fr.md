@@ -51,4 +51,18 @@ Il n'y a pas d'interface d'administration listant les messages privés de tout l
 
 [^masto-host]: Par exemple, [Masto.host](https://masto.host).
 
+Concernant les mots de passe, c'est un peu plus subtil. Quand vous vous inscrivez, vous envoyez votre mot de passe qui est ensuite stocké de façon sécurisée, d'une telle façon qu'une personne ayant accès à la base de données _ne pourra pas retrouver le mot de passe_[^password-hash]. On est protégé de l'administrateurice mal intentionné·e… vraiment ? Eh non ! Car la transformation du mot de passe en version sécurisée est faite _sur le serveur_, donc rien n'empêche quelqu'un de malicieux de modifier le code pour stocker les mots de passe en douce…
+
+[^password-hash]: L'idée, c'est qu'on transforme le mot de passe avec un algorithme spécial qui fait qu'on peut calculer la version transformée avec le mot de passe d'origine, mais qu'il est impossible de revenir au mot de passe d'origine depuis la version transformée, sauf à avoir une puissance de calcul démesurée (on parle de [_hachage_](https://fr.wikipedia.org/wiki/Fonction_de_hachage)). Pour vérifier que le mot de passe est bon, on re-transforme le mot de passe entré lors de la connexion et on vérifie que la transformation correspond à ce qu'on a stocké.
+
+C'est pas très joyeux tout ça… Mastodon serait donc dangereux pour nos identifiants et données personnelles ? Il peut l'être, mais attendez, car le pire est à venir.
+
+# En réalité, tout ça, c'est vrai partout.
+
+Partout. Ce fonctionnement que je viens de décrire, avec ses défauts, c'est le fonctionnement de _quasiment tous les services que vous utilisez au quotidien_. Mastodon, certes, mais aussi Twitter, Instagram, Google, Facebook[^fb-quotidien], BeReal, votre forum favori, vos jeux en ligne… Ce fonctionnement (que ce soit pour les mots de passe ou le stockage des données), vous le retrouvez partout.
+
+Donc oui, Mastodon a ces failles… mais en réalité, quasi l'intégralité du web avec !
+
+[^fb-quotidien]: Ah non pardon, j'ai dit _au quotidien_.
+
 https://soatok.blog/2022/11/22/towards-end-to-end-encryption-for-direct-messages-in-the-fediverse/
