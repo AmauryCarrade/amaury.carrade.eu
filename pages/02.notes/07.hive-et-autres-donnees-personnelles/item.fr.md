@@ -1,5 +1,5 @@
 ---
-title: 'Mastodon, Hive, Twitter… données personnelles, quelle différence ?'
+title: 'Mastodon, Hive, Twitter… données perso, quelle différence ?'
 header_image:
     color: '#000000'
     vertical_centering: 50
@@ -9,7 +9,7 @@ header_image:
 license: by-sa
 visible: false
 abstract: 'Mastodon a été critiqué pour sa gestion des données personnelles, et Hive, un nouveau réseau social, a débarqué comme une fleur en promettant monts et merveilles. Qu''en est-il vraiment ?'
-published: false
+published: true
 media_order: pranav-kumar-jain-PR_0IPlMXgk-unsplash.jpg
 ---
 
@@ -21,7 +21,7 @@ Pour le contexte, [suite aux agissements d'un certain milliardaire après son ra
 
 Bien sûr, un tel mouvement a attiré les convoitises, et d'autres réseaux cherchent à profiter du pactole qu'est cette manne de nouvelles et nouveaux utilisateurs en recherche d'un nouveau lieu de sociabilisation. Aussi, les alternatives gagnant un énorme coup de projecteur, nombre de commentaires, retours, et critiques, sont adressées. Une bonne partie d'entre elles concernent la gestion des données personnelles.
 
-
+Une alternative a brutalement émergé : Hive Social. Presque inconnu jusqu'alors, ce nouveau réseau promet monts et merveilles, malgré un certain nombre de problèmes de sécurité et de red flags[^hive-red] au moment où j'écris ces lignes.
 
 
 
