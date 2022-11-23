@@ -29,11 +29,11 @@ Techniquement, aucune.
 
 Oui, cette conclusion introductive est provocatrice. Mais techniquement parlant, il n'y en a aucune.
 
-Pour le contexte, [suite aux agissements d'un certain milliardaire après son rachat de Twitter](https://twitterisgoinggreat.com), beaucoup de monde sur Twitter ont cherché une alternative. Une des plus prisées fut Mastodon, qui a gagné plusieurs millions de personnes en quelques jours à peine.
+Pour le contexte, [suite aux agissements d'un certain milliardaire après son rachat de Twitter](https://twitterisgoinggreat.com), bien du monde sur Twitter a cherché une alternative. [Mastodon](https://joinmastodon.org/fr) a gagné plusieurs millions de personnes en quelques jours à peine.
 
 Bien sûr, un tel mouvement a attiré les convoitises, et d'autres réseaux cherchent à profiter du pactole qu'est cette manne de nouvelles et nouveaux utilisateurs en recherche d'un nouveau lieu de sociabilisation. Aussi, les alternatives gagnant un énorme coup de projecteur, nombre de commentaires, retours, et critiques, sont adressées. Une bonne partie d'entre elles concernent la gestion des données personnelles.
 
-Une alternative a brutalement émergé : Hive Social. Presque inconnu jusqu'alors, ce nouveau réseau promet monts et merveilles, malgré un certain nombre de problèmes de sécurité et de _red flags_[^hive-red] au moment où j'écris ces lignes.
+Une alternative a brutalement émergé : [Hive Social](https://www.hivesocial.app). Presque inconnu jusqu'alors, ce nouveau réseau promet monts et merveilles, malgré un certain nombre de problèmes de sécurité et de _red flags_[^hive-red] au moment où j'écris ces lignes.
 
 [^hive-red]: Notamment : réseau centralisé, propriétaire, basé aux USA (donc soumis au Cloud Act), refusant de s'expliquer sur les agissements de certains collaborateurs, avec une sécurité faible, un mécène anonyme très généreux, une grande opacité sur le traitement des données personnelles, pas de DPO (donc pas conforme RGPD), des demandes d'autorisations extrêmement louches (accès à l'intégralité des médias exigé alors que ce n'est pas la façon normale de permettre d'envoyer des fichiers), géré par deux personnes…
 
@@ -61,7 +61,7 @@ C'est pas très joyeux tout ça… Mastodon serait donc dangereux pour nos ident
 
 Partout. Ce fonctionnement que je viens de décrire, avec ses défauts, c'est le fonctionnement de _quasiment tous les services que vous utilisez au quotidien_. Mastodon, certes, mais aussi Twitter, Instagram, Google, Facebook[^fb-quotidien], BeReal, votre forum favori, vos jeux en ligne… Ce fonctionnement (que ce soit pour les mots de passe ou le stockage des données), vous le retrouvez partout.
 
-Donc oui, Mastodon a ces failles… mais en réalité, quasi l'intégralité du web avec !
+Donc oui, Mastodon a ces failles… tout comme l'intégralité, ou presque, d'internet !
 
 [^fb-quotidien]: Ah non pardon, j'ai dit _au quotidien_.
 
