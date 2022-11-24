@@ -41,11 +41,11 @@ La question a donc émergé : face aux critiques concernant [la gestion des donn
 
 # Mastodon : toutes vos données lues des admins ?
 
-Les premières critiques sont arrivées sur Mastodon : les administrateurs d'instance[^instance] pourraient lire tous vos messages privés ! Voler vos mots de passe ! Et… c'est vrai. Contrairement à ce que certain·es ont pu affirmer, ce n'est pas une fonctionnalité intégrée à Mastodon (ou les autres réseaux similaires du _fédivers_[^fédi]), mais c'est totalement vrai.
+Les premières critiques sont arrivées sur Mastodon : les gestionnaires d'instance[^instance] pourraient lire tous vos messages privés ! Voler vos mots de passe ! Et… c'est vrai. Contrairement à ce que certain·es ont pu affirmer, ce n'est pas une fonctionnalité intégrée à Mastodon (ou les autres réseaux similaires du _fédivers_[^fédi]), mais c'est totalement vrai.
 
 [^instance]: Mastodon est un réseau décentralisé. Contrairement aux réseaux sociaux classiques, comme Twitter ou Instagram, il n'y a pas qu'un seul _Mastodon point com_ contrôlé par _Mastodon, Inc._ où tout le monde a un compte. Au contraire, il y a plein de « petits Mastodons » sur lesquels on peut s'inscrire, mais comme ces petits Mastodons communiquent tous entre eux, on peut communiquer avec tout le monde. Un peu comme les mails : il y a plein de fournisseurs (GMail, Orange, Free, les universités, ProtonMail, FastMail…), mais pas besoin d'être sur le même pour partager des messages : ils communiquent tous entre eux. Ces _petits Mastodons_ s'appellent des _instances_, dans la langue de Mastodon.
 
-[^fédi]: Le _fédivers_, contraction de _federated universe_ ou _univers fédéré_ en français, est l'ensemble des instances Mastodon connectées entre elles en réseau (on dit qu'elles sont _fédérées_).
+[^fédi]: Imaginez qu'avec votre compte Twitter, vous pouviez suivre, aimer, commenter, des gens sur Instagram, Facebook, Tumblr, ou autres ? Directement depuis Twitter, nativement intégré ? Et pareil depuis n'importe quelle autre plateforme ? Eh bien c'est ça, l'idée derrière le _fédivers_. Contraction de _federated universe_ (_univers fédéré_ en français), c'est l'ensemble des instances Mastodon, et d'autres réseaux sociaux conçus pour pouvoir communiquer tous ensemble ([PixelFed](https://pixelfed.org/), [PeerTube](https://joinpeertube.org/), [GNUSocial](https://fr.wikipedia.org/wiki/GNU_social), …) : on dit que tous ces réseaux sont _fédérés_ entre eux. Ça forme un immense réseau social unifié et totalement décentralisé.
 
 Il n'y a pas d'interface d'administration listant les messages privés de tout le monde. Cependant, les messages privés sont bien stockés quelque part — sinon, comment pourriez-vous les lire ? Une personne avec un accès à une machine hébergeant une instance Mastodon peut donc aller les consulter, directement dans la base de données. Il faudra filtrer un peu, car ils sont tous stockés ensemble, mais ce n'est pas très complexe pour quelqu'un avec des compétences techniques. C'est vrai pour toute personne avec un accès direct à la base de données, à savoir certain·es administrateurices d'instances, mais aussi les entreprises offrant des services d'hébergement d'instances Mastodon[^masto-host].
 
@@ -65,8 +65,22 @@ Partout. Ce fonctionnement que je viens de décrire, avec ses défauts, c'est le
 
 Donc oui, Mastodon a ces failles… tout comme l'intégralité, ou presque, d'internet !
 
-C'est là le message important : **ce problème est réel, et il est bien d'en avoir conscience, mais il existe presque partout**. La question se transforme de _est-ce que tel site web peut lire mes données personnelles ?_ (la réponse est généralement oui) en _est-ce que je peux faire confiance à ce site pour ne pas faire n'importe quoi avec mes données personnelles ?_.
+C'est là le message important : **ce problème est réel, et il est bien d'en avoir conscience, mais il existe presque partout**. La question n'est plus _est-ce que tel site web peut lire mes données personnelles ?_ (la réponse est généralement oui).
 
-Et la réponse est loin, très loin, d'être toujours simple.
+> Est-ce que je peux faire confiance à ce site pour ne pas faire n'importe quoi avec mes données personnelles ?
+> Source: La question que vous vous posez désormais.
+
+Et la réponse est loin, très loin, d'être toujours simple. Il faudra peser les intérêts de l'éditeur du site :
+- est-ce une entité commerciale qui pourrait vouloir faire de l'argent avec, ou est-ce géré par une entité sans but lucratif ?
+- est-ce géré par un·e individu·e qui pourrait avoir de la curiosité mal placée, ou être mal intentionnée ?
+- est-ce que l'hébergeur a un passif ? une charte d'engagement qui a été prouvée suivie par le passé ? des actions qui souligneraient sa crédibilité, ou feraient naître des doutes ?
+
+C'est peut-être une des grandes difficultés du réseau Mastodon (et plus généralement du Fédivers) : nous étions habitués, depuis l'explosion des réseaux sociaux commerciaux, à n'avoir qu'un seul actuel que nous n'avions pas vraiment le choix de rejoindre (par pression sociale, tout le monde étant là). On se contentait de ressentir (ou non) un pincement de culpabilité en cochant la case _j'ai lu les conditions d'utilisation et la charte sur les données personnelles_ sans rien lire, et on oubliait tout ça bien vite. Désormais, il y a du choix — quelle instance ? —, et le problème des données personnelles se ressent plus fort car il est plus _concret_ : ce n'est plus une société un peu anonyme, c'est quelques personnes, des vraies personnes avec des intentions et des biais, qui gèreraient nos précieuses données personnelles.
+
+C'est toute la difficulté du monde associatif, dont l'esprit des réseaux  sociaux décentralisés n'est pas si loin, et la source de bien des _dramas_ en son sein : on retrouve les biais humains et on s'en méfie d'autant plus que c'est concret, alors qu'une grosse entreprise… c'est très abstrait finalement.
+
+Mais pourtant, la question à se poser est bien la même. Pour revenir à Hive Social, c'est une entreprise derrière, et c'est tout joli tout mignon, mais c'est… géré par deux personnes et un investisseur _anonyme et très généreux_. Quelles sont leurs intentions ? Ce n'est pas précisé, sinon conquérir un marché juteux qu'est celui des très nombreuses personnes fuyant Twitter[^comm-lgbt-hive]. Peut-on leur faire confiance, en l'état ? C'est à chacun d'en juger. Mais il serait dommage de ne le faire que sur le fait que c'est un réseau avec une jolie interface, en oubliant de regarder tout le reste. De la même façon qu'il serait dommage de faire confiance aveugle en une instance Mastodon juste car l'admin a l'air gentil.
+
+[^comm-lgbt-hive]: Ce qui rend très logique la communication inclusive et pro-LGBT de HiveSocial : qui fuit Twitter ? Certainement pas les gens de droite et extrême droite qui se retrouvent très bien dans la nouvelle politique de sois-disant _free speech_.
 
 https://soatok.blog/2022/11/22/towards-end-to-end-encryption-for-direct-messages-in-the-fediverse/
