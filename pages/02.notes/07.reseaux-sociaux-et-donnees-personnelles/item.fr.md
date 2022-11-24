@@ -94,6 +94,8 @@ Tout n'est en réalité pas perdu : on _peut_ avoir confiance.
 
 Une solution, un peu radicale et fort peu réaliste au demeurant, est de contrôler _tout_. Pour Mastodon, ce serait contrôler sa propre instance, mais aussi les instances avec lesquelles des messages sont échangés, le navigateur de toute personne la visitant… ce n'est pas une sinécure, quand c'est même _possible_.
 
+Heureusement, il y a une autre solution : le _chiffrement de bout en bout_. Oui bon ok, c'était dans le titre.
 
+L'idée est simple : les messages sont chiffrés sur les téléphones/ordinateurs de chacun des membres de l'échange, puis envoyés. Ainsi, les serveurs ne voient plus les messages, juste un gloubi-boulga chiffré, impossible à comprendre. Il existe d'autres techniques pour protéger les mots de passe de la même façon.
 
 https://soatok.blog/2022/11/22/towards-end-to-end-encryption-for-direct-messages-in-the-fediverse/
