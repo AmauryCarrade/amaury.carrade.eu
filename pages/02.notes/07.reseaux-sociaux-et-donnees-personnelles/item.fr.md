@@ -92,7 +92,7 @@ Figure: Or, are they?
 
 Tout n'est en réalité pas perdu : on _peut_ avoir confiance.
 
-Une solution, un peu radicale et fort peu réaliste au demeurant, est de contrôler _tout_ : sa propre instance Mastodon, par exemple, mais les instances avec lesquelles des messages sont échangés, le navigateur de toute personne la visitant… ce n'est pas une sinécure, quand c'est même _possible_.
+Une solution, un peu radicale et fort peu réaliste au demeurant, est de contrôler _tout_. Pour Mastodon, ce serait contrôler sa propre instance, mais aussi les instances avec lesquelles des messages sont échangés, le navigateur de toute personne la visitant… ce n'est pas une sinécure, quand c'est même _possible_.
 
 
 
