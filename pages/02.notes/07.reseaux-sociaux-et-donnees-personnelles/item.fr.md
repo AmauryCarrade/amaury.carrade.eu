@@ -88,4 +88,12 @@ Nous sommes donc condamné·es à être à la merci du doute. Nos données perso
 ![Michaël Stevens (VSauce), sur fond noir, fait une moue typique en disant “Or, are they?”](or-are-they-vsauce.jpeg?resize=512)
 Figure: Or, are they?
 
+# Le chiffrement de bout en bout, notre sauveur
+
+Tout n'est en réalité pas perdu : on _peut_ avoir confiance.
+
+Une solution, un peu radicale et fort peu réaliste au demeurant, est de contrôler _tout_ : sa propre instance Mastodon, par exemple, mais les instances avec lesquelles des messages sont échangés, le navigateur de toute personne la visitant… ce n'est pas une sinécure, quand c'est même _possible_.
+
+
+
 https://soatok.blog/2022/11/22/towards-end-to-end-encryption-for-direct-messages-in-the-fediverse/
