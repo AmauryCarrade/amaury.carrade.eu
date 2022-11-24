@@ -81,6 +81,11 @@ C'est toute la difficulté du monde associatif, dont l'esprit des réseaux  soci
 
 Mais pourtant, la question à se poser est bien la même. Pour revenir à Hive Social, c'est une entreprise derrière, et c'est tout joli tout mignon, mais c'est… géré par deux personnes et un investisseur _anonyme et très généreux_. Quelles sont leurs intentions ? Ce n'est pas précisé, sinon conquérir un marché juteux qu'est celui des très nombreuses personnes fuyant Twitter[^comm-lgbt-hive]. Peut-on leur faire confiance, en l'état ? C'est à chacun d'en juger. Mais il serait dommage de ne le faire que sur le fait que c'est un réseau avec une jolie interface, en oubliant de regarder tout le reste. De la même façon qu'il serait dommage de faire confiance aveugle en une instance Mastodon juste car l'admin a l'air gentil.
 
-[^comm-lgbt-hive]: Ce qui rend très logique la communication inclusive et pro-LGBT de HiveSocial : qui fuit Twitter ? Certainement pas les gens de droite et extrême droite qui se retrouvent très bien dans la nouvelle politique de sois-disant _free speech_.
+[^comm-lgbt-hive]: Ce qui rend très logique la communication inclusive et pro-LGBT de HiveSocial : qui fuit Twitter ? Certainement pas les gens de droite et extrême droite qui se retrouvent très bien dans la nouvelle politique de sois-disant _free speech_. On pourrait argumenter que Hive existe déjà depuis deux ou trois ans, mais la problématique de la modération de Twitter fermant les yeux sur les attaques LGBTPhobes et autres était déjà la même, bien que pas aussi marquée qu'aujourd'hui.
+
+Nous sommes donc condamné·es à être à la merci du doute. Nos données personnelles sont condamnées à être traitées sans que l'on ne puisse jamais avoir une pleine confiance… _Or, are they?_
+
+![Michaël Stevens (VSauce), sur fond noir, fait une moue typique en disant “Or, are they?”](or-are-they-vsauce.png?resize=400)
+Figure:
 
 https://soatok.blog/2022/11/22/towards-end-to-end-encryption-for-direct-messages-in-the-fediverse/
