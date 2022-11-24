@@ -1,5 +1,5 @@
 ---
-title: 'Mastodon, Hive, Twitter… données perso, quelle différence ?'
+title: 'Nos chères données personnelles : Mastodon, Hive, Twitter… quelle différence ?'
 header_image:
     color: '#000000'
     vertical_centering: 50
