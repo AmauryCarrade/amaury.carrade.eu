@@ -98,4 +98,4 @@ Heureusement, il y a une autre solution : le _chiffrement de bout en bout_. Oui 
 
 L'idée est simple : les messages sont chiffrés sur les téléphones/ordinateurs de chacun des membres de l'échange, puis envoyés. Ainsi, les serveurs ne voient plus les messages, juste un gloubi-boulga chiffré, impossible à comprendre. Il existe d'autres techniques pour protéger les mots de passe de la même façon.
 
-https://soatok.blog/2022/11/22/towards-end-to-end-encryption-for-direct-messages-in-the-fediverse/
+Ça existe déjà pour le grand public : Signal est le précurseur (et toujours en tête technologiquement) ; WhatsApp affirme également être chiffré de bout en bout ; et côté Mastodon & co, ça arrive : la base technique le supporte, et [des expérimentations sont en cours](https://soatok.blog/2022/11/22/towards-end-to-end-encryption-for-direct-messages-in-the-fediverse/).
