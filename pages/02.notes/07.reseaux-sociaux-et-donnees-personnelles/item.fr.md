@@ -98,4 +98,24 @@ Heureusement, il y a une autre solution : le _chiffrement de bout en bout_. Oui 
 
 L'idée est simple : les messages sont chiffrés sur les téléphones/ordinateurs de chacun des membres de l'échange, puis envoyés. Ainsi, les serveurs ne voient plus les messages, juste un gloubi-boulga chiffré, impossible à comprendre. Il existe d'autres techniques pour protéger les mots de passe de la même façon.
 
-Ça existe déjà pour le grand public : Signal est le précurseur (et toujours en tête technologiquement) ; WhatsApp affirme également être chiffré de bout en bout ; et côté Mastodon & co, ça arrive : la base technique le supporte, et [des expérimentations sont en cours](https://soatok.blog/2022/11/22/towards-end-to-end-encryption-for-direct-messages-in-the-fediverse/).
+Ça existe déjà pour le grand public : [Signal est le précurseur](https://signal.org/fr/) (et toujours en tête technologiquement) ; WhatsApp affirme[^whatsapp] également être chiffré de bout en bout ; et côté Mastodon & co, ça arrive : la base technique le supporte, et [des expérimentations sont en cours](https://soatok.blog/2022/11/22/towards-end-to-end-encryption-for-direct-messages-in-the-fediverse/).
+
+[^whatsapp]: _Affirme_, car WhatsApp n'est pas une application open-source : nul ne peut vérifier que les messages sont _vraiment_ chiffrés de bout en bout, ni que Meta (Facebook) ne copie pas les messages à côté. On revient donc au besoin de faire confiance ; or, Meta _vit_ de l'exploitation des données personnelles. Peut-on vraiment leur faire confiance, quand la tentation est si grande d'exploiter financièrement des milliards de conversations ?
+
+Le bon chiffrement de bout en bout est difficile à mettre en place :
+
+- tout doit être open-source (sinon, comment être sûr que les données ne sont pas lues en douce par les applications en plus d'être envoyées chiffrées ?) ;
+- la sécurité doit être soigneusement gérée ;
+- le chiffrement doit être _total_ : ne chiffrer que les messages, mais pas les métadonnées (correspondants ou correspondantes, date et heure des messages, etc.) ne change pas tellement la situation, [vu tout ce qu'on peut tirer des seules métadonnées](https://ssd.eff.org/module/why-metadata-matters).
+
+Mais c'est la seule solution pour être 100% sûr de la non-exploitation de nos données. Et c'est possible en restant ergonomique : Signal le prouve, ainsi que tous les autres qui ont repris son protocole[^protocole-signal].
+
+[^protocole-signal]: Le protocole de Signal est la base technique permettant d'envoyer des messages chiffrés sans qu'aucun serveur intermédiaire ne puisse les lire. L'application Signal utilise, bien sûr, ce protocole, mais aussi WhatsApp et Telegram (en mode chiffré), du moins l'affirment-ils (cf. note précédente).
+
+---
+
+Bref. La gestion des données personnelles, c'est toujours aussi compliqué. Mais si je devais résumer :
+- n'oubliez pas que tous les réseaux sociaux peuvent accéder à toutes vos données, **même les messages privés**, sauf si le réseau est à la fois open-source et chiffré de bout en bout (par exemple, Signal) ;
+- dans tous les autres cas, **pesez soigneusement les intérêts personnels et lucratifs des plateformes** : ont-elles intérêt à regarder et/ou revendre vos données ? La réponse est rarement corrélée à la beauté de l'interface. Ni anti-corrélée, d'ailleurs. Mais en creusant un peu, et en étudiant les intérêts des différents acteurs (passant outre les éléments qui ne sont pas pertinents, tel _c'est un projet lancé par une jeune femme_), on peut faire la lumière — et éviter de mettre toutes nos billes dans un panier troué.
+
+La personne en qui vous pouvez avoir le plus confiance, c'est encore vous-même. Donc, si vous le pouvez, évitez de choisir un réseau social (même Mastodon) comme _hub_ de votre vie numérique. C'est trop risqué : tant ont tout perdu du jour au lendemain, sans moyen de revenir en arrière, sur décision arbitraire d'un réseau ou changement d'un algorithme de mise en avant. Préférez un site web, à vous, avec votre nom de domaine. Vous êtes légalement propriétaire du nom, ça ne coûte pas grand chose, et là, vous pouvez être tranquille que même si un réseau social change, disparaît, ou devient _rogue_, vous aurez toujours votre maison d'internet.
