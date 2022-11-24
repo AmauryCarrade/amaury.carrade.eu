@@ -10,7 +10,7 @@ license: by-sa
 visible: false
 abstract: 'Mastodon a été critiqué pour sa gestion des données personnelles, et Hive, un nouveau réseau social, a débarqué comme une fleur en promettant monts et merveilles. Qu''en est-il vraiment ? Je suis convaincu que le problème est bien plus profond que cela.'
 published: true
-media_order: pranav-kumar-jain-PR_0IPlMXgk-unsplash.jpg
+media_order: 'pranav-kumar-jain-PR_0IPlMXgk-unsplash.jpg,Capture d’écran 2022-11-24 à 14.37.46 - Grande.jpeg'
 taxonomy:
     category:
         - Opinion
@@ -83,9 +83,9 @@ Mais pourtant, la question à se poser est bien la même. Pour revenir à Hive S
 
 [^comm-lgbt-hive]: Ce qui rend très logique la communication inclusive et pro-LGBT de HiveSocial : qui fuit Twitter ? Certainement pas les gens de droite et extrême droite qui se retrouvent très bien dans la nouvelle politique de sois-disant _free speech_. On pourrait argumenter que Hive existe déjà depuis deux ou trois ans, mais la problématique de la modération de Twitter fermant les yeux sur les attaques LGBTPhobes et autres était déjà la même, bien que pas aussi marquée qu'aujourd'hui.
 
-Nous sommes donc condamné·es à être à la merci du doute. Nos données personnelles sont condamnées à être traitées sans que l'on ne puisse jamais avoir une pleine confiance… _Or, are they?_
+Nous sommes donc condamné·es à être à la merci du doute. Nos données personnelles sont condamnées à être traitées sans que l'on ne puisse jamais avoir une pleine confiance…
 
-![Michaël Stevens (VSauce), sur fond noir, fait une moue typique en disant “Or, are they?”](or-are-they-vsauce.png?resize=400)
-Figure:
+![Michaël Stevens (VSauce), sur fond noir, fait une moue typique en disant “Or, are they?”](or-are-they-vsauce.jpeg?resize=512)
+Figure: Or, are they?
 
 https://soatok.blog/2022/11/22/towards-end-to-end-encryption-for-direct-messages-in-the-fediverse/
