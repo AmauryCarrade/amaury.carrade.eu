@@ -65,7 +65,7 @@ Partout. Ce fonctionnement que je viens de décrire, avec ses défauts, c'est le
 
 Donc oui, Mastodon a ces failles… tout comme l'intégralité, ou presque, d'internet !
 
-C'est là le message important : **ce problème est réel, et il est bien d'en avoir conscience, mais il existe presque partout**. La question n'est plus _est-ce que tel site web peut lire mes données personnelles ?_ (la réponse est généralement oui).
+C'est là le message important : **ce problème est réel, et il est bien d'en avoir conscience, mais il existe presque partout**. La question n'est plus _est-ce que tel site web peut lire mes données personnelles ?_ (la réponse est quasi-systématiquement oui), mais plutôt…
 
 > Est-ce que je peux faire confiance à ce site pour ne pas faire n'importe quoi avec mes données personnelles ?
 > Source: La question que vous vous posez désormais.
@@ -75,20 +75,20 @@ Et la réponse est loin, très loin, d'être toujours simple. Il faudra peser le
 - est-ce géré par un·e individu·e qui pourrait avoir de la curiosité mal placée, ou être mal intentionnée ?
 - est-ce que l'hébergeur a un passif ? une charte d'engagement qui a été prouvée suivie par le passé ? des actions qui souligneraient sa crédibilité, ou feraient naître des doutes ?
 
-C'est peut-être une des grandes difficultés du réseau Mastodon (et plus généralement du Fédivers) : nous étions habitués, depuis l'explosion des réseaux sociaux commerciaux, à n'avoir qu'un seul actuel que nous n'avions pas vraiment le choix de rejoindre (par pression sociale, tout le monde étant là). On se contentait de ressentir (ou non) un pincement de culpabilité en cochant la case _j'ai lu les conditions d'utilisation et la charte sur les données personnelles_ sans rien lire, et on oubliait tout ça bien vite. Désormais, il y a du choix — quelle instance ? —, et le problème des données personnelles se ressent plus fort car il est plus _concret_ : ce n'est plus une société un peu anonyme, c'est quelques personnes, des vraies personnes avec des intentions et des biais, qui gèreraient nos précieuses données personnelles.
+C'est peut-être une des grandes difficultés du réseau Mastodon (et plus généralement du Fédivers) : nous étions habitués, depuis l'explosion des réseaux sociaux commerciaux, à n'avoir qu'un seul acteur pour chaque réseau social, que nous n'avions pas vraiment le choix de rejoindre, par pression sociale, tout le monde étant là. On se contentait de ressentir (ou non) un pincement de culpabilité en cochant la case _j'ai lu les conditions d'utilisation et la charte sur les données personnelles_ sans le faire, et on oubliait tout ça bien vite. Désormais, il y a du choix — quelle instance ? —, et le problème des données personnelles se ressent plus fort car il est plus _concret_ : ce n'est plus une société un peu anonyme, c'est quelques personnes, des vraies personnes avec des intentions et des biais, qui gèreraient nos précieuses données personnelles.
 
-C'est toute la difficulté du monde associatif, dont l'esprit des réseaux  sociaux décentralisés n'est pas si loin, et la source de bien des _dramas_ en son sein : on retrouve les biais humains et on s'en méfie d'autant plus que c'est concret, alors qu'une grosse entreprise… c'est très abstrait finalement.
+C'est toute la difficulté du monde associatif, dont l'esprit des réseaux  sociaux décentralisés n'est pas si loin, et la source de bien des _dramas_ en son sein : on retrouve les biais humains et on s'en méfie d'autant plus que c'est _concret_, alors qu'une grosse entreprise… c'est très abstrait finalement.
 
-Mais pourtant, la question à se poser est bien la même. Pour revenir à Hive Social, c'est une entreprise derrière, et c'est tout joli tout mignon, mais c'est… géré par deux personnes et un investisseur _anonyme et très généreux_. Quelles sont leurs intentions ? Ce n'est pas précisé, sinon conquérir un marché juteux qu'est celui des très nombreuses personnes fuyant Twitter[^comm-lgbt-hive]. Peut-on leur faire confiance, en l'état ? C'est à chacun d'en juger. Mais il serait dommage de ne le faire que sur le fait que c'est un réseau avec une jolie interface, en oubliant de regarder tout le reste. De la même façon qu'il serait dommage de faire confiance aveugle en une instance Mastodon juste car l'admin a l'air gentil.
+Mais pourtant, la question à se poser est bien la même. Pour revenir à Hive Social, c'est une entreprise derrière, et c'est tout joli tout mignon, mais c'est… géré par deux personnes et un investisseur _anonyme et très généreux_. Quelles sont leurs intentions ? Ce n'est pas précisé, sinon conquérir un marché juteux qu'est celui des très nombreuses personnes fuyant Twitter[^com-lgbt-hive]. Peut-on leur faire confiance, en l'état ? C'est à chacun d'en juger. Mais il serait dommage de ne le faire que sur le fait que c'est un réseau avec une jolie interface, en oubliant de regarder tout le reste. De la même façon qu'il serait dommage de faire confiance aveugle en une instance Mastodon juste car l'admin a l'air gentil.
 
-[^comm-lgbt-hive]: Ce qui rend très logique la communication inclusive et pro-LGBT de HiveSocial : qui fuit Twitter ? Certainement pas les gens de droite et extrême droite qui se retrouvent très bien dans la nouvelle politique de sois-disant _free speech_. On pourrait argumenter que Hive existe déjà depuis deux ou trois ans, mais la problématique de la modération de Twitter fermant les yeux sur les attaques LGBTPhobes et autres était déjà la même, bien que pas aussi marquée qu'aujourd'hui.
+[^com-lgbt-hive]: Ce qui rend très logique la communication inclusive et pro-LGBT de HiveSocial : qui fuit Twitter ? Certainement pas les gens de droite et extrême droite qui se retrouvent très bien dans la nouvelle politique de sois-disant _free speech_. On pourrait argumenter que Hive existe déjà depuis deux ou trois ans, mais la problématique de la modération de Twitter fermant les yeux sur les attaques LGBTPhobes et autres était déjà la même, bien que pas aussi marquée qu'aujourd'hui.
 
 Nous sommes donc condamné·es à être à la merci du doute. Nos données personnelles sont condamnées à être traitées sans que l'on ne puisse jamais avoir une pleine confiance…
 
 ![Michaël Stevens (VSauce), sur fond noir, fait une moue typique en disant “Or, are they?”](or-are-they-vsauce.jpeg?resize=512)
-Figure: Or, are they?
+Figure: **Or, are they?**
 
-# Le chiffrement de bout en bout, notre sauveur
+# Le chiffrement de bout en bout, notre sauveur ?
 
 Tout n'est en réalité pas perdu : on _peut_ avoir confiance.
 
@@ -118,4 +118,8 @@ Bref. La gestion des données personnelles, c'est toujours aussi compliqué. Mai
 - n'oubliez pas que tous les réseaux sociaux peuvent accéder à toutes vos données, **même les messages privés**, sauf si le réseau est à la fois open-source et chiffré de bout en bout (par exemple, Signal) ;
 - dans tous les autres cas, **pesez soigneusement les intérêts personnels et lucratifs des plateformes** : ont-elles intérêt à regarder et/ou revendre vos données ? La réponse est rarement corrélée à la beauté de l'interface. Ni anti-corrélée, d'ailleurs. Mais en creusant un peu, et en étudiant les intérêts des différents acteurs (passant outre les éléments qui ne sont pas pertinents, tel _c'est un projet lancé par une jeune femme_), on peut faire la lumière — et éviter de mettre toutes nos billes dans un panier troué.
 
-La personne en qui vous pouvez avoir le plus confiance, c'est encore vous-même. Donc, si vous le pouvez, évitez de choisir un réseau social (même Mastodon) comme _hub_ de votre vie numérique. C'est trop risqué : tant ont tout perdu du jour au lendemain, sans moyen de revenir en arrière, sur décision arbitraire d'un réseau ou changement d'un algorithme de mise en avant. Préférez un site web, à vous, avec votre nom de domaine. Vous êtes légalement propriétaire du nom, ça ne coûte pas grand chose, et là, vous pouvez être tranquille que même si un réseau social change, disparaît, ou devient _rogue_, vous aurez toujours votre maison d'internet.
+La personne en qui vous pouvez avoir le plus confiance, c'est encore vous-même. Donc, si vous le pouvez, évitez de choisir un réseau social comme cœur de votre vie numérique[^social-hub]. C'est trop risqué : tant ont tout perdu du jour au lendemain, sans moyen de revenir en arrière, sur décision arbitraire d'un réseau ou changement d'un algorithme de mise en avant.
+
+Préférez un site web, à vous, avec votre nom de domaine. Vous êtes légalement propriétaire du nom de domaine (tel `votrenom.com`), ça ne coûte pas grand chose, et vous pouvez être tranquille que même si un réseau social change, disparaît, ou devient _rogue_, vous aurez toujours votre maison d'internet.
+
+[^social-hub]: Même un réseau décentralisé ! Sauf si vous hébergez votre propre instance chez vous, sur votre nom de domaine, et sous votre contrôle.
