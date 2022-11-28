@@ -18,7 +18,7 @@ Je suis membre du [Café des Sciences](https://cafe-sciences.org), rassemblement
 Certains des articles de ce site sont co-écrits ; dans de tels cas, les autres auteurs sont systématiquement précisés en tête d'article. 
 
 [[i|Les machins légaux, là]]
-| Ce site web est hébergé par [SCALEWAY SAS](https://www.scaleway.com/fr/), BP 438, 75366 PARIS CEDEX 08, FRANCE. Le responsable de la publication est [Amaury Carrade](/contact). SIRET {{ config.theme.siret }} – TVA FR36883859837.
+| Ce site web est hébergé par [SCALEWAY SAS](https://www.scaleway.com/fr/), BP 438, 75366 PARIS CEDEX 08, FRANCE. Le responsable de la publication est [Amaury Carrade](/contact) (SIRET {{ config.theme.siret }}).
 | 
 | Sauf mention contraire, le contenu est placé sous licence [Creative Commons BY – SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.fr). Les données brutes du site sont [disponibles sur GitHub](https://github.com/AmauryCarrade/amaury.carrade.eu).
 |
