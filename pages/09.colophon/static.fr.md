@@ -31,7 +31,7 @@ Trois polices de caractères sont utilisées sur ce site, choisies avec soin.
 
 [^lora-grec]: Heureusement, les polices système utilisées en repli font leur office pour afficher des caractères grecs avec empattement, s'intégrant proprement à Lora — α, γ, δ, ζ, ξ, π, φ, ω. Si le rendu n'est pas correct chez vous et que vous avez quelques minutes à perdre pour moi, n'hésitez pas à [me le signaler](/contact) en indiquant votre système, que je trouve une meilleure police de repli.
 
-Les textes ne sont pas justifiés, par souci d'accessibilité. Ils sont cependant sourcés, le plus possible, avec beaucoup trop de notes de bas de page.
+Les textes ne sont pas justifiés, par souci d'accessibilité. Ils sont cependant sourcés, le plus possible, avec [Zotero](https://www.zotero.org) et beaucoup trop de notes de bas de page.
 
 Tout ce qui est utilisé pour ce site est disponible sous une licence libre. Le thème est publié [sous licence CeCILL-B](https://cecill.info/licences/Licence_CeCILL-B_V1-fr.html), une licence permissive en droit français proche de la licence BSD. Le plugin Grav que j'ai développé pour intégrer `zmarkdown` est [sous licence MIT](https://opensource.org/licenses/MIT). Quant à Grav lui-même et l'essentiel de ses plugins, ils sont [sous licence MIT également](https://opensource.org/licenses/MIT). Enfin, les trois polices sont diffusées sous licence [SIL Open Font License](https://scripts.sil.org/cms/scripts/page.php?item_id=OFL).
 
