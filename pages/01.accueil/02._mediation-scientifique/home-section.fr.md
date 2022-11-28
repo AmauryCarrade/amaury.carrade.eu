@@ -23,7 +23,7 @@ main:
             page: /accueil
     -
         title: 'Pint of Science'
-        content: 'Je contribue presque tous les ans à l’organisation de ce festival international de culture scientifique, invitant chercheurs⋅euses dans des lieux détendus (bars…) pour parler de leurs recherches. Et pour l''édition 2023, c''est reparti il y a peu — rendez-vous en mai !'
+        content: 'Je contribue presque tous les ans à l’organisation de ce festival international de culture scientifique, invitant chercheurs⋅euses dans des lieux détendus (bars…) pour parler de leurs recherches. Et pour l''édition 2023, c''est reparti il y a peu — rendez-vous du 22 au 24 mai !'
         image: pintofscience.jpg
         type: link
         link:
