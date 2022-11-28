@@ -8,6 +8,6 @@ page-toc:
     active: true
 date: '19:22 21-11-2019'
 license: by-sa
-redirect: 'https://nebulius.org/user/pages/memoire-alice-thomas/MemoireFinal-AliceThomas.pdf'
+redirect: 'https://amaury.carrade.eu/user/pages/memoire-alice-thomas/MemoireFinal-AliceThomas.pdf'
 ---
 
