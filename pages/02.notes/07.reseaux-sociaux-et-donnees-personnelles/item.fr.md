@@ -123,3 +123,16 @@ La personne en qui vous pouvez avoir le plus confiance, c'est encore vous-même.
 Préférez un site web, à vous, avec votre nom de domaine. Vous êtes légalement propriétaire du nom de domaine (tel `votrenom.com`), ça ne coûte pas grand chose, et vous pouvez être tranquille que même si un réseau social change, disparaît, ou devient _rogue_, vous aurez toujours votre maison d'internet.
 
 [^social-hub]: Même un réseau décentralisé ! Sauf si vous hébergez votre propre instance chez vous, sur votre nom de domaine, et sous votre contrôle.
+
+
+
+---
+
+
+Moi j'y ai cru, vous savez.
+
+[Avec la débâcle de Twitter](https://twitterisgoinggreat.com), que tout le monde commençait à prendre conscience des risques de ces hyper-silos. Que tout mettre dans le même panier c'est pas forcément la meilleure idée, enfin, sauf si c'est pour manger.  Moi j'y ai cru. Ou peut-être que j'ai voulu y croire.
+
+Croire qu'autre chose était finalement possible après tant d'années à nous rabâcher que non, y'a que le modèle des gigantesques entreprises pour gérer la communication entre l'humanité. À nous dire que les efforts de centaines d'[associations](https://framasoft.org/fr/) étaient vains face à la puissance de ces hyper-silos.
+
+Ça sonne joli, _hyper-silo_. Peut-être rassurant, tant qu'on y pense pas trop longtemps, tout est dedans, et si y'a de l'eau y'a de l'espoir ? Mais dés qu'on creuse un peu mon dieu, ou pas dieu j'ai pas de dieu, mon daim ? Plutôt le contraire, bref — dés qu'on creuse, on y voit une dépendance monstrueuse à une société dont les vrais clients sont des publicitaires, comment ça pourrait mal tourner ? Oh si vous voulez j'ai une liste de proposition en douze tomes, mais pas du fromage hein, du vrai papier bien lourd.
