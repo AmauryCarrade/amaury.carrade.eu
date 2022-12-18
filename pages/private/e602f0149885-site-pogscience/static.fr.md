@@ -59,4 +59,12 @@ Un _worker_ Cloudflare récupèrerait toutes les minutes l'état de stream de ch
 
 Ce pourrait être implémenté par un _worker_ Cloudflare : appelé avec les bons paramètres (et la bonne clef), il souscrirait à un abonnement auprès de Twitch pour être informé des changements. Il utiliserait des _Workers KV_ (un système de stockage clef-valeurs de Cloudflare _on the edge_) pour stocker les secrets et la liste des gens enregistrés, et génèrerait à chaque fois que Twitch le contacte un JSON avec les données à jour sur un site statique hébergé sur Cloudflare Pages (sur `https://pogscience-data.pages.dev/online.json`, dans l'idée).
 
+La souscription d'abonnements via EventSub se fait en quelques étapes :
+- envoi d'une requête de souscription en donnant l'URL que Twitch doit appeler en cas d'événement ;
+- Twitch répond un peu plus tard sur l'URL donnée avec un _challenge_ pour vérifier qu'on contrôle bien l'URL (un peu plus tard = quelques (milli)secondes généralement) ;
+- Twitch envoie une requête sur l'URL quand il se passe un truc ;
+- Twitch envoie une requête sur l'URL si la souscription est annulée (alors il faut la relancer).
+
+Dans tous les cas il y a une signature à vérifier (à partir d'une clef secrète qu'on doit stocker) dans les _headers_. Il faut pouvoir accéder au corps de la requête et à ses en-têtes pour pouvoir traiter correctement les requêtes. Pas besoin d'URL différente, tout pourrait être par exemple sur `https://pogscience-eventsub.workers.dev/ingest` (ou autre, peu importe).
+
 On pourrait en simplifier l'usage en créant un petit formulaire qui appellerait le _worker_ pour ajouter/supprimer des comptes (une requête, choisie, vers `https://pogscience-eventsub.workers.dev`, ferait l'affaire, donc il suffit de faire un petit formulaire par dessus et ça roule).
