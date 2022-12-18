@@ -23,12 +23,26 @@ Et plus si affinités, mais dans un premier temps ce sera déjà pas mal, afin d
 
 # PogScience _on the Edge_ ?
 
-Afin de limiter les frais et la complexité de maintenance, j'ai eu l'idée de gérer le site totalement _on the Edge_, c'est à dire sur une [Jamstack](https://fr.wikipedia.org/wiki/Jamstack) (j'avais pensé à l'infrastructure de Cloudflare, notamment car je la connais bien). Ça a plusieurs avantages : 
+Afin de limiter les frais et la complexité de maintenance, j'ai eu l'idée de gérer le site totalement _on the edge_, c'est à dire sur une [Jamstack](https://fr.wikipedia.org/wiki/Jamstack) (j'avais pensé à l'infrastructure de Cloudflare, notamment car je la connais bien). Ça a plusieurs avantages : 
 
 - site extrêmement rapide (car sur CDN) ;
 - sécurisé (virtuellement pas de _backend_, donc rien à mettre à jour ou à hacker, que du statique ou presque) ;
 - coûts faibles sinon nuls (probablement nuls, en pratique, vues les très généreuses limites du plan gratuit de Cloudflare).
 
-Il y a deux parties : celles qui sont statiques et celles dynamiques. Les parties statiques sont simples à gérer : un site statique (peu importe le générateur) et basta. Très léger inconvénient : la modification se fait en modifiant des fichiers Markdown sur GitHub ou autres, mais c'est quand même très accessible (GitHub ayant une interface de modification totalement en ligne). Le site est mis à jour automatiquement à chaque _push_ (ou modification sur GitHub directement), comme il est d'usage pour ce genre de _stack_.
+Il y a deux parties : celles qui sont statiques et celles dynamiques.
 
-Concernant la partie dynamique, je suis en
+## Partie statique
+
+Les parties statiques sont simples à gérer : un site statique (peu importe le générateur) et basta. Très léger inconvénient : la modification se fait en modifiant des fichiers Markdown sur GitHub ou autres, mais c'est quand même très accessible (GitHub ayant une interface de modification totalement en ligne). Le site est mis à jour automatiquement à chaque _push_ (ou modification sur GitHub directement), comme il est d'usage pour ce genre de _stack_.
+
+## Partie dynamique
+
+La partie dynamique est l'affichage, en temps réel ou approchant, des membres de Pog actuellement en live, basé sur une liste de comptes Twitch. Le suivi se ferait idéalement _on the edge_ également, sur des _workers_ Cloudflare ou similaire. J'ai deux options en tête.
+
+Dans les deux cas, le site statique contacterait via une sorte d'API, en _pooling_ régulier, un site pour savoir qui est en live parmi les gens de Pog, et éventuellement leur planning. Pour rester 100% _on the edge_, on pourrait héberger les deux sur Cloudflare Pages, l'API n'étant qu'un site statique avec du JSON dedans, regénéré automatiquement quand l'état de personnes connectées de Twitch change. Disons que le site principal serait `pogscience.pages.dev` (accessible via `pogscience.org`), et le site de données, `pogscience-data.pages.dev`.
+
+PogScience comporte actuellement 24 membres. L'API de Twitch est limitée à 800 appels par minute ([en gros](https://dev.twitch.tv/docs/api/guide#twitch-rate-limits)).
+
+### Première option : _pooling_ depuis l'API de Twitch
+
+Un _worker_ Cloudflare récupèrerait toutes les minutes l'état de stream de chacun des membres de Pog et mettrait à jour un site statique
