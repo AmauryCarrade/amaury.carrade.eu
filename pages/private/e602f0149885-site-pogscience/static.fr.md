@@ -41,7 +41,10 @@ La partie dynamique est l'affichage, en temps réel ou approchant, des membres d
 
 Dans les deux cas, le site statique contacterait via une sorte d'API, en _pooling_ régulier, un site pour savoir qui est en live parmi les gens de Pog, et éventuellement leur planning. Pour rester 100% _on the edge_, on pourrait héberger les deux sur Cloudflare Pages, l'API n'étant qu'un site statique avec du JSON dedans, regénéré automatiquement quand l'état de personnes connectées de Twitch change. Disons que le site principal serait `pogscience.pages.dev` (accessible via `pogscience.org`), et le site de données, `pogscience-data.pages.dev`.
 
-PogScience comporte actuellement 24 membres. L'API de Twitch est limitée à 800 appels par minute ([en gros](https://dev.twitch.tv/docs/api/guide#twitch-rate-limits)).
+Ainsi, utiliser du _pooling_ ne poserait pas de souci, étant donné que l'API serait statique aussi, sur un CDN, donc répondant quasi instantanément sans utiliser de ressources.
+
+[[i]]
+| PogScience comporte actuellement 24 membres. L'API de Twitch est limitée à 800 appels par minute ([en gros](https://dev.twitch.tv/docs/api/guide#twitch-rate-limits)).
 
 ### Première option : _pooling_ depuis l'API de Twitch
 
@@ -53,3 +56,7 @@ Un _worker_ Cloudflare récupèrerait toutes les minutes l'état de stream de ch
 
 [[i]]
 | Twitch a deux versions d'EventSub : une par _webhook_ et une par websocket. La première impliquerait de garder un _worker_ fonctionner très longtemps, ou d'établir une connexion depuis chaque visiteur, mangeant extrêmement vite la limite de trois connexions simultanées ; elle est donc exclue d'office. On part donc sur l'utilisation de _webhooks_ (sauf autre suggestion).
+
+Ce pourrait être implémenté par un _worker_ Cloudflare : appelé avec les bons paramètres (et la bonne clef), il souscrirait à un abonnement auprès de Twitch pour être informé des changements. Il utiliserait des _Workers KV_ (un système de stockage clef-valeurs de Cloudflare _on the edge_) pour stocker les secrets et la liste des gens enregistrés, et génèrerait à chaque fois que Twitch le contacte un JSON avec les données à jour sur un site statique hébergé sur Cloudflare Pages (sur `https://pogscience-data.pages.dev/online.json`, dans l'idée).
+
+On pourrait en simplifier l'usage en créant un petit formulaire qui appellerait le _worker_ pour ajouter/supprimer des comptes (une requête, choisie, vers `https://pogscience-eventsub.workers.dev`, ferait l'affaire, donc il suffit de faire un petit formulaire par dessus et ça roule).
