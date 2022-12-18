@@ -45,4 +45,8 @@ PogScience comporte actuellement 24 membres. L'API de Twitch est limitée à 800
 
 ### Première option : _pooling_ depuis l'API de Twitch
 
-Un _worker_ Cloudflare récupèrerait toutes les minutes l'état de stream de chacun des membres de Pog et mettrait à jour un site statique
+Un _worker_ Cloudflare récupèrerait toutes les minutes l'état de stream de chacun des membres de Pog et mettrait à jour `pogscience-data.pages.dev/online.json` en cas de changement. Ça consomme plus d'exécutions de _workers_, et ça nécessite de planifier leur exécution, mais ça a l'avantage d'être simple au delà de ça.
+
+### Seconde option : implémenter EventSub _on the edge_
+
+[EventSub est une API secondaire de Twitch](https://dev.twitch.tv/docs/eventsub/handling-webhook-events) permettant d'être informé en temps réel de changements auxquels on est abonné.
