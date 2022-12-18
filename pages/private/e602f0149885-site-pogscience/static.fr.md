@@ -49,4 +49,7 @@ Un _worker_ Cloudflare récupèrerait toutes les minutes l'état de stream de ch
 
 ### Seconde option : implémenter EventSub _on the edge_
 
-[EventSub est une API secondaire de Twitch](https://dev.twitch.tv/docs/eventsub/handling-webhook-events) permettant d'être informé en temps réel de changements auxquels on est abonné.
+[EventSub est une API secondaire de Twitch](https://dev.twitch.tv/docs/eventsub/handling-webhook-events) permettant d'être informé en temps réel de changements auxquels on est abonné. C'est un peu plus complexe, mais plus économe en requêtes : une fois en place, ça n'implique qu'une exécution de _worker_ (via une requête reçue) par changement d'état, au lieu d'une vingtaine.
+
+[[i]]
+| Twitch a deux versions d'EventSub : une par _webhook_ et une par websocket. La première impliquerait de garder un _worker_ fonctionner très longtemps, ou d'établir une connexion depuis chaque visiteur, mangeant extrêmement vite la limite de trois connexions simultanées ; elle est donc exclue d'office. On part donc sur l'utilisation de _webhooks_ (sauf autre suggestion).
