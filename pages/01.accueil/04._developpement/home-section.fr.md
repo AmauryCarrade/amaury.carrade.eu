@@ -66,9 +66,8 @@ page-toc:
     active: true
 metadata:
     anchor: éducation
-surtitle: 'Construire pour toutes, construire pour tous'
-media_order: 'zestedesavoir.png,cafedessciences-playazur2022.jpeg,pintofscience.jpg'
+surtitle: 'Construire pour toutes et pour tous'
 published: true
 ---
 
-Savez-vous qu'en ignorant les principes d'accessibilité, vous vous privez de jusqu'à 20 % de votre audience ?
+Savez-vous qu'en ignorant les principes d'accessibilité, vous vous privez de jusqu'à 20 % de votre audience ? Construire, développer, communiquer de façon accessible, c'est un coup à prendre mais ce n'est pas spécialement plus difficile. Et ça change la vie des concerné·es.
