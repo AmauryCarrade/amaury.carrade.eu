@@ -9,16 +9,16 @@ main:
         image: formation-crf.jpg
         type: link
         link:
-            link: '#'
+            link: ''
         page:
             page: /accueil
     -
         title: Accessibilité
         content: "Le domaine de l'accessibilité me tient énormément à cœur, et je m'y suis spécialisé depuis plusieurs années.\n\nJe peux former aux règles de l'accessibilité, aux bonnes pratiques, à ce que ça implique que de naviguer sur internet avec des outils d'assistance. Et ce en informatique/web ou sur les réseaux sociaux."
         image: accessibilite-reduced-motion-css.png
-        type: page
+        type: link
         link:
-            link: 'https://cafe-sciences.org'
+            link: ''
         page:
             page: /accueil
     -
