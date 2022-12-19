@@ -4,30 +4,21 @@ body_classes: modular
 license: by-sa
 main:
     -
-        title: 'Zeste de Savoir'
-        content: 'Association de médiation scientifique et d’éducation populaire depuis 2014 que j’ai le plaisir de présider, et dans laquelle j’organise ou ait organisé plusieurs projets de médiation scientifique, en plus de l’écriture d’articles de vulgarisation.'
+        title: 'Premiers secours'
+        content: "Je suis formateur pour la [Croix-Rouge Française](https://formations.croixrougeparis.fr). Je forme aux _Gestes qui Sauvent_ (GQS), et prévois de devenir formateur PSC1 sous peu.\n\nLe PSC1 est la formation de base aux premiers secours en France (le GQS en est une version condensée)."
         image: zestedesavoir.png
         type: link
         link:
-            link: 'https://zestedesavoir.com'
+            link: '#'
         page:
             page: /accueil
     -
-        title: 'Café des Sciences'
-        content: 'Via le Café, association de vulgarisateurs⋅trices, je participe à nombre d’événements et d’actions de médiation scientifique : festivals, lives Twitch… et toujours plus à venir !'
+        title: Accessibilité
+        content: "Le domaine de l'accessibilité me tient énormément à cœur, et je m'y suis spécialisé depuis plusieurs années.\n\nJe peux former aux règles de l'accessibilité, aux bonnes pratiques, à ce que ça implique que de naviguer sur internet avec des outils d'assistance. Et ce en informatique/web ou sur les réseaux sociaux."
         image: cafedessciences-playazur2022.jpeg
-        type: link
+        type: page
         link:
             link: 'https://cafe-sciences.org'
-        page:
-            page: /accueil
-    -
-        title: 'Pint of Science'
-        content: 'Je contribue presque tous les ans à l’organisation de ce festival international de culture scientifique, invitant chercheurs⋅euses dans des lieux détendus (bars…) pour parler de leurs recherches. Et pour l''édition 2023, c''est reparti il y a peu — rendez-vous en mai !'
-        image: pintofscience.jpg
-        type: link
-        link:
-            link: 'https://pintofscience.fr'
         page:
             page: /accueil
 see_also:
@@ -67,8 +58,7 @@ page-toc:
 metadata:
     anchor: éducation
 surtitle: 'Transmettre les savoirs'
-media_order: 'zestedesavoir.png,cafedessciences-playazur2022.jpeg,pintofscience.jpg'
-published: false
+published: true
 ---
 
-Framasoft est un réseau d'éducation populaire consacré principalement au logiciel libre. Il est soutenu depuis 2004 par l'association du même nom, après avoir été créé en novembre 2001 par Alexis Kauffmann, Paul Lunetta, et Georges Silva. Il s'organise collaborativement sur trois axes : promotion, diffusion et développement de logiciels libres, enrichissement de la culture libre et offre de services libres en ligne.
+Éducation, formation, médiation scientifique… tout cela n'est jamais loin et m'a toujours emporté. La transmission de connaissance est un acte de première importance à laquelle j'aime à prendre ma part — que ce soit pour des jeunes ou des adultes.
