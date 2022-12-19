@@ -70,4 +70,4 @@ surtitle: 'Construire pour toutes et pour tous'
 published: true
 ---
 
-Savez-vous qu'en ignorant les principes d'accessibilité, vous vous privez de jusqu'à 20 % de votre audience ? Construire, développer, communiquer de façon accessible, c'est un coup à prendre mais ce n'est pas spécialement plus difficile. Et ça change la vie des concerné·es.
+Savez-vous qu'en ignorant les principes d'accessibilité numérique, vous vous privez de jusqu'à 20 % de votre audience ? Créer, développer, communiquer de façon accessible, c'est une habitude à prendre, mais ce n'est pas bien difficile. Et ça change la vie des concerné·es.
