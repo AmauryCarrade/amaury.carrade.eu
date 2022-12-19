@@ -34,7 +34,7 @@ home_bottom_links:
             -
                 title: Formation
                 type: link
-                link: '#éducation'
+                link: '#formation'
                 page: /accueil
             -
                 title: Accessibilité

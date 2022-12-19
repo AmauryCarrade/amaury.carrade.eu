@@ -6,7 +6,7 @@ main:
     -
         title: 'Premiers secours'
         content: "Je suis formateur pour la [Croix-Rouge Française](https://formations.croixrougeparis.fr). Je forme aux _Gestes qui Sauvent_ (GQS), et prévois de devenir formateur PSC1 sous peu.\n\nLe PSC1 est la formation de base aux premiers secours en France (le GQS en est une version condensée)."
-        image: zestedesavoir.png
+        image: formation-crf.jpg
         type: link
         link:
             link: '#'
@@ -19,6 +19,15 @@ main:
         type: page
         link:
             link: 'https://cafe-sciences.org'
+        page:
+            page: /accueil
+    -
+        title: 'Python, web, et mathématiques'
+        content: 'Dans le développement web et Python depuis plus de dix ans, je sais vous former (dans un contexte universitaire, professionnel ou individuel) à Python ou au développement web sur plusieurs technologies. J''enseigne également les mathématiques et l''informatique à un niveau lycée.'
+        image: zeste-de-code.jpg
+        type: link
+        link:
+            link: ''
         page:
             page: /accueil
 see_also:
@@ -56,9 +65,10 @@ header_image:
 page-toc:
     active: true
 metadata:
-    anchor: éducation
+    anchor: formation
 surtitle: 'Transmettre les savoirs'
 published: true
+media_order: 'zeste-de-code.jpg,formation-crf.jpg'
 ---
 
 Éducation, formation, médiation scientifique… tout cela n'est jamais loin et m'a toujours emporté. La transmission de connaissance est un acte de première importance à laquelle j'aime à prendre ma part — que ce soit pour des jeunes ou des adultes.
