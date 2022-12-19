@@ -37,9 +37,14 @@ home_bottom_links:
                 link: '#éducation'
                 page: /accueil
             -
-                title: 'Informatique & accessibilité'
+                title: Accessibilité
                 type: link
-                link: '#developpement'
+                link: '#accessibilité'
+                page: /accueil
+            -
+                title: "Tech\_&\_jeux"
+                type: link
+                link: '#tech-jeux'
                 page: /accueil
     -
         title: 'Ce que je fais'
@@ -55,9 +60,9 @@ home_bottom_links:
                 link: 'https://zestedesavoir.com/billets/voir/Amaury/'
                 page: /accueil
             -
-                title: Conférences
+                title: Production
                 type: link
-                link: null
+                link: 'https://limkuat.com'
                 page: /accueil
             -
                 title: Outils

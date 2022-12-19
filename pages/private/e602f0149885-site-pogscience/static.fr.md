@@ -2,6 +2,8 @@
 title: 'Proposition pour le site de PogScience'
 homepage:
     invite: 'Une maison pour Pog !'
+tntsearch:
+    index: false
 ---
 
 L'objectif est de créer un site pour la communauté PogScience, qui n'en a pas réellement un actuellement (sinon [un substitut généreusement hébergé par Collectif Conscience](https://collectifconscience.org/pogscience/)).

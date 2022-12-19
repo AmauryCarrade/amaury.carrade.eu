@@ -7,5 +7,7 @@ license: by-sa
 homepage:
     invite: 'Mystères et boules de gomme'
 visible: false
+tntsearch:
+    index: false
 ---
 

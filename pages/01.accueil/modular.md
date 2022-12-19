@@ -1,5 +1,4 @@
 ---
-title: 'Éducation et techniques'
 header_image:
     color: '#7a49b7'
     vertical_centering: 50
