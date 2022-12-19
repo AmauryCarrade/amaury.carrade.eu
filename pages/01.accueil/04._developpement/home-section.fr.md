@@ -1,5 +1,5 @@
 ---
-title: 'Développement informatique et jeux'
+title: Accessibilité
 body_classes: modular
 license: by-sa
 main:
@@ -66,9 +66,9 @@ page-toc:
     active: true
 metadata:
     anchor: éducation
-surtitle: 'Transmettre les savoirs'
+surtitle: 'Construire pour toutes, construire pour tous'
 media_order: 'zestedesavoir.png,cafedessciences-playazur2022.jpeg,pintofscience.jpg'
-published: false
+published: true
 ---
 
-Framasoft est un réseau d'éducation populaire consacré principalement au logiciel libre. Il est soutenu depuis 2004 par l'association du même nom, après avoir été créé en novembre 2001 par Alexis Kauffmann, Paul Lunetta, et Georges Silva. Il s'organise collaborativement sur trois axes : promotion, diffusion et développement de logiciels libres, enrichissement de la culture libre et offre de services libres en ligne.
+Savez-vous qu'en ignorant les principes d'accessibilité, vous vous privez de jusqu'à 20 % de votre audience ?
