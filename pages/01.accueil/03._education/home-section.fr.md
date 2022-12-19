@@ -30,35 +30,6 @@ main:
             link: ''
         page:
             page: /accueil
-see_also:
-    -
-        title: PogScience
-        type: link
-        link:
-            link: 'https://collectifconscience.org/pogscience/'
-        page:
-            page: /accueil
-    -
-        title: 'Générations Sorciers'
-        type: link
-        link:
-            link: 'https://web.archive.org/web/20220104130124/https://generations-sorciers.fr/'
-        page:
-            page: /accueil
-    -
-        title: 'Ballon Sablet'
-        type: page
-        link:
-            link: ''
-        page:
-            page: /accueil
-    -
-        title: Conférences
-        type: page
-        link:
-            link: ''
-        page:
-            page: /accueil
 header_image:
     color: '#7a49b7'
     vertical_centering: 50
@@ -69,6 +40,14 @@ metadata:
 surtitle: 'Transmettre les savoirs'
 published: true
 media_order: 'formation-crf.jpg,zeste-de-code-gbc.jpg,accessibilite-reduced-motion-css.png'
+see_also:
+    -
+        title: Conférences
+        type: page
+        link:
+            link: '<'
+        page:
+            page: /sources
 ---
 
 Éducation, formation, médiation scientifique… tout cela n'est jamais loin et m'a toujours emporté. La transmission de connaissance est un acte de première importance à laquelle j'aime à prendre ma part — que ce soit pour des jeunes ou des adultes.
