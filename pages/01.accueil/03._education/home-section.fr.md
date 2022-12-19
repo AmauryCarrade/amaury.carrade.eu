@@ -15,7 +15,7 @@ main:
     -
         title: Accessibilité
         content: "Le domaine de l'accessibilité me tient énormément à cœur, et je m'y suis spécialisé depuis plusieurs années.\n\nJe peux former aux règles de l'accessibilité, aux bonnes pratiques, à ce que ça implique que de naviguer sur internet avec des outils d'assistance. Et ce en informatique/web ou sur les réseaux sociaux."
-        image: cafedessciences-playazur2022.jpeg
+        image: accessibilite-reduced-motion-css.png
         type: page
         link:
             link: 'https://cafe-sciences.org'
@@ -24,7 +24,7 @@ main:
     -
         title: 'Python, web, et mathématiques'
         content: 'Dans le développement web et Python depuis plus de dix ans, je sais vous former (dans un contexte universitaire, professionnel ou individuel) à Python ou au développement web sur plusieurs technologies. J''enseigne également les mathématiques et l''informatique à un niveau lycée.'
-        image: zeste-de-code.jpg
+        image: zeste-de-code-gbc.jpg
         type: link
         link:
             link: ''
@@ -68,7 +68,7 @@ metadata:
     anchor: formation
 surtitle: 'Transmettre les savoirs'
 published: true
-media_order: 'zeste-de-code.jpg,formation-crf.jpg'
+media_order: 'formation-crf.jpg,zeste-de-code-gbc.jpg,accessibilite-reduced-motion-css.png'
 ---
 
 Éducation, formation, médiation scientifique… tout cela n'est jamais loin et m'a toujours emporté. La transmission de connaissance est un acte de première importance à laquelle j'aime à prendre ma part — que ce soit pour des jeunes ou des adultes.
