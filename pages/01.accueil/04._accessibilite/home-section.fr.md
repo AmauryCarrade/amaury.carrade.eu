@@ -4,9 +4,9 @@ body_classes: modular
 license: by-sa
 main:
     -
-        title: 'Zeste de Savoir'
-        content: 'Association de médiation scientifique et d’éducation populaire depuis 2014 que j’ai le plaisir de présider, et dans laquelle j’organise ou ait organisé plusieurs projets de médiation scientifique, en plus de l’écriture d’articles de vulgarisation.'
-        image: zestedesavoir.png
+        title: Formation
+        content: 'Spécialisé dans le domaine depuis des années, au contact de nombreux·ses concerné·es, et toujours à l''affu pour rester à jour, je saurai vous former pour que vous soyez au fait des bonnes pratiques à respecter pour rester accessible à toutes et à tous — que ce soit en informatique, développement web, ou sur les réseaux sociaux !'
+        image: accessibilité-alt.png
         type: link
         link:
             link: 'https://zestedesavoir.com'
@@ -65,9 +65,10 @@ header_image:
 page-toc:
     active: true
 metadata:
-    anchor: éducation
+    anchor: accessibilité
 surtitle: 'Construire pour toutes et pour tous'
 published: true
+media_order: accessibilité-alt.png
 ---
 
-Savez-vous qu'en ignorant les principes d'accessibilité numérique, vous vous privez de jusqu'à 20 % de votre audience ? Créer, développer, communiquer de façon accessible, c'est une habitude à prendre, mais ce n'est pas bien difficile. Et ça change la vie des concerné·es.
+Savez-vous qu'en ignorant les principes d'accessibilité numérique, vous vous privez de jusqu'à **20 % de votre audience** ? Créer, développer, communiquer de façon accessible, c'est une habitude à prendre, mais ce n'est pas si difficile. Et ça change la vie des concerné·es.
