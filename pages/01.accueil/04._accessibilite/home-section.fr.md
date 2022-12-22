@@ -15,7 +15,7 @@ main:
     -
         title: Conseil
         content: 'Cousin de la formation, vous souhaitez faire évoluer vos méthodes ou votre communication pour la rendre plus accessible ? Je peux vous y aider.'
-        image: cafedessciences-playazur2022.jpeg
+        image: accessibilité-conseil-plan-sonore-tactile-cité-sciences-industrie-tetue.jpg
         type: link
         link:
             link: ''
@@ -47,7 +47,7 @@ metadata:
     anchor: accessibilité
 surtitle: 'Construire pour toutes et pour tous'
 published: true
-media_order: 'accessibilité-alt.png,accessibilité-rgaa.png'
+media_order: 'accessibilité-alt.png,accessibilité-rgaa.png,accessibilité-conseil-plan-sonore-tactile-cité-sciences-industrie-tetue.jpg'
 ---
 
 Savez-vous qu'en ignorant les principes d'accessibilité numérique, vous vous privez de jusqu'à **20 % de votre audience** ? Créer, développer, communiquer de façon accessible, c'est une habitude à prendre, mais ce n'est pas si difficile. Et ça change la vie des concerné·es.

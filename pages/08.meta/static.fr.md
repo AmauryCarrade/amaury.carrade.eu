@@ -28,5 +28,24 @@ Certains des articles de ce site sont co-écrits ; dans de tels cas, les autres 
 |
 | Le site ne recueille pas d’informations personnelles, n'utilise pas de cookies de tierce partie, et ne dépose pas de cookies de suivi.
 
+[[s|Références des illustrations utilisées en page d'accueil]]
+| ### Médiation scientifique
+|
+| - _Capture d'écran du site web zestedesavoir.com_, Amaury Carrade (CC 0).
+| - _Le Café des Sciences au Play Azur Festival_, avril 2022, [Vincent Chabrette](https://vchabrette.fr) (tous droits réservés). 
+| - _Pint of Science, par ici_, 2017, [Festival Pint of Science](https://pintofscience.fr) (tous droits réservés).
+|
+| ### Éducation et formation
+|
+| - _Fiches récapitulatives de formations GQS et d'initiations_, 2022, Amaury Carrade via _BeReal_ (CC BY SA).
+| - _Capture d'écran d'un code SASS pour s'adapter aux demandes de réduction de mouvement_, 2022, Amaury Carrade (CC 0).
+| - _Participant·es d'une après-midi Zeste de Code_, 2019, Amaury Carrade (CC BY SA).
+|
+| ### Accessibilité
+|
+| - _Capture d'écran du badge ALT de Twitter sur fond du [livre d'Alice Thomas](https://www.editions-larousse.fr/livre/la-vie-secrete-de-lunivers-9782036026889)_, 2022, Amaury Carrade (CC 0).
+| - [_Plan sonore et tactile_](https://www.flickr.com/photos/23101854@N00/7018874373), 2012, [tetue](https://www.flickr.com/photos/romytetue/) (CC BY SA).
+| - [_Logo du RGAA_](https://accessibilite.numerique.gouv.fr), 2022, équipe Design des services numériques au sein de la Direction interministérielle du numérique, un service du Premier ministre français (licence ouverte 2.0).
+
 [[i]]
 | Si vous voulez en savoir plus sur le fonctionnement technique de ce site web, [visitez le _Colophon_](/colophon).
