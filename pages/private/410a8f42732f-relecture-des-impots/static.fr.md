@@ -6,7 +6,7 @@ title: 'Relecture des impôts'
 
 Donner quelques réfs là dessus ?
 
-_Parce que c'est technique_ › Vraiment ça ou plutôt que c'est hors-sujet ?`
+_Parce que c'est technique_ › Vraiment ça ou plutôt que c'est hors-sujet ?
 
 > La sphère publique en France est partagée en trois grands domaines.
 
