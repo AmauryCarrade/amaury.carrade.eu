@@ -6,10 +6,8 @@ admin:
     children_display_order: default
 ---
 
-[[i]]
-| Cette page résume l'histoire en cours [sur le live _Horrifiques Histoires_ de VChabrette](https://www.twitch.tv/vchabrette), en temps réel. Pas de spoil ici, car le résumé ne traite que ce qui a déjà été raconté.
-|
-| _Actualisez la page manuellement pour avoir la dernière version._
+[[a]]
+| Cette page résume [l'_Horrifique Histoire_ diffusée sur Twitch le dimanche 5 février par VChabrette](https://www.twitch.tv/videos/1729404049), initialement en temps réel pendant le stream. Attention, si vous voulez écouter la rediffusion, cette page vous divulgâche toute l'histoire !
 
 # En bref
 
