@@ -1,13 +1,16 @@
 ---
 title: 'L’héritier des ténèbres'
+abstract: 'Résumé court et détaillé de L’héritier des ténèbres, de Clark Ashton Smith !'
 homepage:
     invite: 'Clark Ashton Smith'
 admin:
     children_display_order: default
+publish_date: '05-02-2023 23:00'
+date: '05-02-2023 23:00'
 ---
 
 [[a]]
-| Cette page résume [l'_Horrifique Histoire_ diffusée sur Twitch le dimanche 5 février par VChabrette](https://www.twitch.tv/videos/1729404049), initialement en temps réel pendant le stream. Attention, si vous voulez écouter la rediffusion, cette page vous divulgâche toute l'histoire !
+| Cette page résume [l'_Horrifique Histoire_ diffusée sur Twitch le dimanche 5 février par VChabrette](https://www.twitch.tv/videos/1729404049?t=01h29m11s), initialement en temps réel pendant le stream. Attention, si vous voulez écouter la rediffusion, cette page vous divulgâche toute l'histoire !
 
 # En bref
 
