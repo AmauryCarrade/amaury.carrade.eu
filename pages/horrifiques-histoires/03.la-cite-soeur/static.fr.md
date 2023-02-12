@@ -11,7 +11,9 @@ homepage:
 
 # En bref
 
-Robert Krug, orphelin à 19 ans suite à un bombardement pendant la seconde guerre mondiale, passe sa convalescence à étudier les Mondes Perdus. Son corps subit de curieuses transformations comme ses doigts et ses pieds, qui deviennent palmés, ou l'acquisition de branchies.  Il revient s’établir près des marais du Yorkshire, dans le domaine familial, où il se sent vraiment « chez lui », mais en voyageant à travers le monde. Apprenant son existence, il se met à parcourir le monde à la recherche de la Cité Sans Nom, évoquée par le poète Abdul Alhazred.
+Robert Krug, orphelin à 19 ans suite à un bombardement pendant la seconde guerre mondiale, passe sa convalescence à étudier les Mondes Perdus. Son corps subit de curieuses transformations comme ses doigts et ses pieds, qui deviennent palmés, l'acquisition de sortes de branchies, ou la capacité à comprendre des langues anciennes.
+
+Apprenant son existence, il se met à parcourir le monde à la recherche de la Cité Sans Nom, évoquée par le poète Abdul Alhazred. Des marais du Yorkshire, “_chez lui_”, il remonte une pierre gravée, qu'il parvient à lire. La pierre racontait la destruction du peuple d'Ib par celui de Sarnath. Un autre, une figurine verte, indique qu'il existe une cité sœur à Ib, cachée sous terre, résistante. On lui indique que cette cité sœur serait presque totalement immergée. Alors au Caire, il apprend qu'on a trouvé une copie exacte de la figurine, dans un cours d'eau.
 
 # Résumé détaillé
 
@@ -21,4 +23,12 @@ Son corps subit de curieuses transformations comme ses doigts et ses pieds, qui 
 
 Lors d'un voyage à Chypre, il découvre qu'il peut tenir sous l'eau trois fois plus longtemps que le groupe de plongeurs avec lequel il est. Son corps continue de changer et il découvre qu'il sait parler le grec sans jamais l'avoir étudié, provoquant leur crainte. À force, il devient une référence dans les anciens mondes.
 
-Apprenant son existence, il se met à parcourir le monde à la recherche de la Cité Sans Nom, évoquée par le poète Abdul Alhazred.
+Apprenant son existence, il se met à parcourir le monde à la recherche de la Cité Sans Nom, évoquée par le poète Abdul Alhazred. Des marais du Yorkshire, il découvre les cités de Ib et Sarnath, et remonte une pierre gravée. Contre toute attente, et malgré l'usure du temps, il arrivait à déchiffrer et à comprendre. La pierre racontait la destruction du peuple d'Ib par celui de Sarnath. Une autre, figurine verte, lit :
+
+> Ib n'est plus, mais ses dieux vivent encore. À l'autre bout du monde, la cité sœur se cache sous terre dans les régions barbare de la Zimerie. c'est là que vit le peuple, c'est là que les dieux seront toujours adorés, même avec la venue de Chtulu.
+
+Quelques temps plus tard il demande à des savants, qui ignorent ce qu'il en retourne mais qu'il existe une cité au nom similaire mais quasi immergée.
+
+Dans un journal, alors qu'il est en voyage au Caire, il voit une réplique de la figurine qu'il a trouvé dans les ruines de Sarnath. Ça l'intrigue assez pour qu'il retourne à Londres. L'article indique que la figurine, découverte par un certain Samuel Davis dans un cours d'eau prenant sa source dans les falaises de Sarbie, a été confiée à un musée et est en cours d'étude ; il aurait « plus de 10 000 ans ».
+
+En revenant, il reçoit une lettre de son père, via sa gouvernante. Elle révélait que ses parents n'étaient pas morts lors du bombardement, mais étaient « rentrés à la maison », dans le marécage, et que la maison avait été explosée pour le cacher.
