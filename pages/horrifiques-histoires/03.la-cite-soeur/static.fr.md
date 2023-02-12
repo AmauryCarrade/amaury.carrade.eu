@@ -19,6 +19,8 @@ Il reçoit une lettre de son père révélant qu'ils ne sont en réalité pas mo
 
 Alors qu'il découvre cela, il finit de vivre le premier changement, et il peut se cacher _in extremis_ dans le marécage. Retrouvant ses parents, il découvre son vrai nom : Bokrug, le dieu lézard.
 
+_Un rapport de police indique que Robert Krug a simulé un suicide lors de sa disparition. Le dossier est classé comme non-résolu, et Robert Krug, déclaré disparu. Un autre rapport de police indique qu'un nourrisson orphelin a été trouvé…_
+
 # Résumé détaillé
 
 Le jeune Robert Krug, 19 ans, se retrouve orphelin suite au bombardement de la demeure familiale à Londres, pendant la seconde guerre mondiale. Il passe de longs mois à l’hôpital où il dévore tout ce qu'il peut trouver sur les Mondes Perdus.
@@ -42,3 +44,7 @@ Ils ne peuvent venir en Angleterre qu'à deux occasions : à la naissance, et lo
 Alors qu'il découvre cela, il finit de vivre le premier changement, et il peut se cacher _in extremis_ dans le marécage, pensant à quel point il a eu de la chance de tomber sur cet article et cette lettre à temps. Il retourne à la cité sœur d'Ib, Lyhib, qu'il découvre enfouie sous les marécages du Yorkshire, comme peu de personnes de « leur race » l'ont pu, faute de le savoir à temps.
 
 Retrouvant ses parents dans le marécage, il découvre son vrai nom, comprenant enfin pourquoi ses parents le surnommaient _Beau_ : Bokrug, le dieu lézard.
+
+_Un rapport de police indique que Robert Krug a simulé un suicide lors de sa disparition, malgré que des éléments de l'affaire indiquent des marques de lézard. Le dossier est classé comme non-résolu, et Robert Krug, déclaré disparu._
+
+_Un autre rapport de police indique qu'un nourrisson orphelin a été trouvé…_
