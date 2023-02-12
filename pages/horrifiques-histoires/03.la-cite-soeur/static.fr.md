@@ -13,7 +13,11 @@ homepage:
 
 Robert Krug, orphelin à 19 ans suite à un bombardement pendant la seconde guerre mondiale, passe sa convalescence à étudier les Mondes Perdus. Son corps subit de curieuses transformations comme ses doigts et ses pieds, qui deviennent palmés, l'acquisition de sortes de branchies, ou la capacité à comprendre des langues anciennes.
 
-Apprenant son existence, il se met à parcourir le monde à la recherche de la Cité Sans Nom, évoquée par le poète Abdul Alhazred. Des marais du Yorkshire, “_chez lui_”, il remonte une pierre gravée, qu'il parvient à lire. La pierre racontait la destruction du peuple d'Ib par celui de Sarnath. Un autre, une figurine verte, indique qu'il existe une cité sœur à Ib, cachée sous terre, résistante. On lui indique que cette cité sœur serait presque totalement immergée. Alors au Caire, il apprend qu'on a trouvé une copie exacte de la figurine, dans un cours d'eau.
+Apprenant son existence, il se met à parcourir le monde à la recherche de la Cité Sans Nom, évoquée par le poète Abdul Alhazred. Des marais du Yorkshire, “_chez lui_”, il remonte une une figurine verte, indiquant qu'il existe une cité sœur à Ib, cachée sous terre, résistante.
+
+Il reçoit une lettre de son père révélant qu'ils ne sont en réalité pas mort, mais que tout avait été simulé, afin qu'ils puissent rentrer « chez eux », dans le marécage du Yorkshire, où il doivent se cacher (là où dans leur pays d'origine) à cause de leur apparence physique… différente. Et que sa mère a tout risqué pour rester plus longtemps avec lui malgré le danger.
+
+Alors qu'il découvre cela, il finit de vivre le premier changement, et il peut se cacher _in extremis_ dans le marécage. Retrouvant ses parents, il découvre son vrai nom : Bokrug, le dieu lézard.
 
 # Résumé détaillé
 
@@ -31,4 +35,10 @@ Quelques temps plus tard il demande à des savants, qui ignorent ce qu'il en ret
 
 Dans un journal, alors qu'il est en voyage au Caire, il voit une réplique de la figurine qu'il a trouvé dans les ruines de Sarnath. Ça l'intrigue assez pour qu'il retourne à Londres. L'article indique que la figurine, découverte par un certain Samuel Davis dans un cours d'eau prenant sa source dans les falaises de Sarbie, a été confiée à un musée et est en cours d'étude ; il aurait « plus de 10 000 ans ».
 
-En revenant, il reçoit une lettre de son père, via sa gouvernante. Elle révélait que ses parents n'étaient pas morts lors du bombardement, mais étaient « rentrés à la maison », dans le marécage, et que la maison avait été explosée pour le cacher.
+En revenant, il reçoit une lettre de son père, via sa gouvernante. Elle révélait que ses parents n'étaient pas morts lors du bombardement, mais étaient « rentrés à la maison », dans le marécage, et que la maison avait été explosée pour le cacher. Aussi, elle révèle que ses parents et lui ne sont pas anglais. Les « enfants de leur race » sont ramenés ici, loin de leur pays, pour grandir, alors que les adultes doivent rester dans leur pays à cause de leur apparence physique.
+
+Ils ne peuvent venir en Angleterre qu'à deux occasions : à la naissance, et lorsqu'ils évoluent à nouveau, leur redonnant une apparence crédible. La mère de Robert n'a pas réussi à se séparer de son fils et l'a accompagné malgré tout en Angleterre.
+
+Alors qu'il découvre cela, il finit de vivre le premier changement, et il peut se cacher _in extremis_ dans le marécage, pensant à quel point il a eu de la chance de tomber sur cet article et cette lettre à temps. Il retourne à la cité sœur d'Ib, Lyhib, qu'il découvre enfouie sous les marécages du Yorkshire, comme peu de personnes de « leur race » l'ont pu, faute de le savoir à temps.
+
+Retrouvant ses parents dans le marécage, il découvre son vrai nom, comprenant enfin pourquoi ses parents le surnommaient _Beau_ : Bokrug, le dieu lézard.
