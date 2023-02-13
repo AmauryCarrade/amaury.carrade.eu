@@ -17,7 +17,7 @@ Il observe, dans un court métrage qu'il a tourné avec des étudiants, des dét
 
 Une nuit, rêvassant de Lovecraft sur la tombe d'un vieux sorcier, il s'évanouit, et se retrouve, en rêve, dans le tunnel dont le mur nu est ouvert et donne sur un lac souterrain. Il assiste à une effrayante cérémonie. Les participants psalmodiant un appel, auquel répondra un être gigantesque doté de tentacules… et il s'éveilla terrorisé.
 
-Le lendemain, il y prononce une psalmodie trouvée dans l'œuvre de Lovecraft : _Iä Iä, Cthulhu fhtagn !_ — alors, des ombres s'approchent, et le ciel semble se couvrir de l’ombre de visages immenses et inhumains. En cherchant à fuir, il provoque l'ouverture d'un escalier dans la tombe, vers les profondeurs. Il n'y avait personne, et pourtant une voix caverneuse, d'outre tombe, s'élevait :  : « _descends, Harrods, descends_ »…
+Le lendemain, il y prononce une psalmodie trouvée dans l'œuvre de Lovecraft : _Iä Iä, Cthulhu fhtagn !_ — alors, des ombres s'approchent, et le ciel semble se couvrir de l’ombre de visages immenses et inhumains. En cherchant à fuir, il provoque l'ouverture d'un escalier dans la tombe, vers les profondeurs. Il n'y avait personne, et pourtant une voix caverneuse, d'outre tombe, s'élevait : « _descends, Harrods, descends_ »…
 
 Ce n'est que bien plus tard que le corps d'Elmer Harrod fut retrouvé, en décomposition avancée, par des promeneurs.
 
