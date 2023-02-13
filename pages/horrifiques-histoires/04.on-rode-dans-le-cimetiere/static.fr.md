@@ -11,9 +11,11 @@ homepage:
 
 # En bref
 
-Elmer Harrod, présentateur de films d'horreur à la télévision, habite dans une impasse contiguë à un cimetière tentaculaire désaffecté, lugubre, où il aime flâner, souvent avec un livre. Il découvre dans le sous-sol de sa maison un large tunnel, qui se termine après quelques kilomètres par un mur nu.
+Elmer Harrod, présentateur de films d'horreur à la télévision, habite dans une impasse contiguë à un cimetière tentaculaire désaffecté, lugubre, où il aime flâner, souvent avec un livre de Lovecraft. Il découvre dans le sous-sol de sa maison un large tunnel, qui se termine après quelques kilomètres par un mur nu.
 
-Il tourne dans le cimetière, avec quelques étudiants de l’université de Miskatonic, un court métrage qui sera remarqué. On y observe des détails curieux ; y entend des bruits étranges : chuchotements, bruissements… Il a l'impression que le cimetière lui en veut pour cela et s'affaire à réparer les dégâts causés, avant de continuer de lire la nuit dans le cimetière.
+Il tourne dans le cimetière, avec quelques étudiants de l’université de Miskatonic, un court métrage qui sera remarqué. On y observe des détails curieux ; y entend des bruits étranges : chuchotements, bruissements…
+
+Une nuit, il rôde dans le cimetière, trébuche sur une tombe, continue sa route vers la tombe d'un supposé vieux sorcier, Jeremy Kent.
 
 # Résumé détaillé
 
@@ -24,3 +26,7 @@ Il découvre dans le sous-sol de sa maison un large tunnel, comprenant des niche
 Présentateur de films d'horreur à la télévision, il les agrémente de ses commentaires acerbes. Il tourne dans le cimetière, avec quelques étudiants de l’université de Miskatonic, un court métrage qui sera remarqué. On y observe des détails curieux ; y entend des bruits étranges : chuchotements, bruissements…
 
 Il a l'impression que le cimetière lui “en veut”, ce qu'il associe aux dégâts causés par l'équipe de tournage : détritus… Il s'affaire donc à réparer les dégâts du mieux qu'il peut pour montrer sa bonne volonté.
+
+Après cela, il continue de rôder dans le cimetière, souvent avec un livre de Lovecraft pour l'accompagner, de jour, et de plus en plus, de nuit.
+
+Une nuit, il trébuche sur une tombe : celle d'Obédia Carther, les dates étant partiellement effacées. Il se rend vers un ensemble de tombes, disposées presque en pentacle, où il avait déjà tourné un court métrage de fiction. Il s'installe sur la tombe d'un supposé vieux sorcier, Jeremy Kent, à la réputation sulfureuse, mort à trente ans.
