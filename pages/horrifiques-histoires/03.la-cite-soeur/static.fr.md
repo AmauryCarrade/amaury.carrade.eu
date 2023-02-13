@@ -4,10 +4,8 @@ homepage:
     invite: 'Brian Lumley'
 ---
 
-[[i]]
-| Ceci est un résumé en temps réel de [la nouvelle contée sur le live _Horrifiques Histoires_ de VChabrette](https://www.twitch.tv/vchabrette). Pas de spoil, le résumé est avancé en fonction du live !
-|
-| _Pour avoir la dernière version, actualisez la page (pas d'actualisation automatique)._
+[[a]]
+| Ceci était un résumé en temps réel de [la nouvelle contée sur le live _Horrifiques Histoires_ de VChabrette](https://www.twitch.tv/vchabrette). La nouvelle est terminée, mais le live continue avec une autre, [son résumé est par ici !](https://amaury.carrade.eu/horrifiques-histoires/on-rode-dans-le-cimetiere)
 
 # En bref
 
