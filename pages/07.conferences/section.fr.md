@@ -4,7 +4,7 @@ homepage:
         icon_type: fas
         icon: fa-sun
         text: 'Décoller vers SABLET'
-title: Sources
+title: Conférences
 date: '14:01 05-02-2018'
 visible: false
 author: Amaury

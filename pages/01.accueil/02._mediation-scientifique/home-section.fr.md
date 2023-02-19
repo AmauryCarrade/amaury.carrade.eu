@@ -58,7 +58,7 @@ see_also:
         link:
             link: ''
         page:
-            page: /sources
+            page: /conferences
 header_image:
     color: '#7a49b7'
     vertical_centering: 50
