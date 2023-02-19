@@ -11,35 +11,25 @@ Cette conférence explique pourquoi l'accessibilité, ce n'est pas qu'un problè
 
 ## Contenus supplémentaires pour aller plus loin
 
-- [La référence d'internationalisation](https://zestedesavoir.com/tutoriels/3039/linternationalisation-et-ses-pieges-creer-un-logiciel-universel/) (générale, pas centrée sur l'accessibilité) mentionnée dans la conférence
+- [La référence d'internationalisation](https://zestedesavoir.com/tutoriels/3039/linternationalisation-et-ses-pieges-creer-un-logiciel-universel/) (générale, pas centrée sur l'accessibilité) mentionnée dans la conférence, publiée sur Zeste de Savoir.
+
+---
 
 ## Sources et références
 
 *Ces sources contiennent des documents non-exploités dans la conférence, mais que je trouve pertinent à mentionner ici.*
 
+### Accessibilité en général
+
 « [Accessibility Best Practices - Back-End Engineering Curriculum - Turing School of Software and Design](https://backend.turing.edu/) ». Consulté le 26 décembre 2022.
 
 Accessibility Personas. « [Accessibility Personas](https://alphagov.github.io/accessibility-personas) ». Consulté le 12 février 2023.
-
-DWP Digital. « [Accessibility Starts with an Organisation’s Culture](https://dwpdigital.blog.gov.uk/2022/12/15/accessibility-starts-with-an-organisations-culture/](https://dwpdigital.blog.gov.uk/2022/12/15/accessibility-starts-with-an-organisations-culture/) ». Consulté le 11 janvier 2023.
-
-Inserm. « [Dossier Épilepsie](https://www.inserm.fr/dossier/epilepsie) ». Consulté le 17 février 2023.
-
-Eric Bailey. « [Be the Villain](https://24ways.org/2018/be-the-villain) ». Sur 24 Ways. 6 décembre 2018.
-
-« [Be the Villain (Slides)](https://noti.st/ericwbailey/QGBiUS) ». Consulté le 27 janvier 2023.
 
 « [Yes, Accessibility Is Also a Backend Concern](https://ericwbailey.website/published/yes-accessibility-is-also-a-backend-concern/) ». _Eric Bailey_ (blog). Consulté le 26 décembre 2022.
 
 « [Example of graffiti subtitle from the Blair Witch game](https://twitter.com/Not_jaReddy/status/1616866575763529730) ». Consulté le 22 janvier 2023.
 
 DEV Community 👩‍💻👨‍💻. « [How Can Backend Developers Improve Accessibility?](https://dev.to/eevajonnapanula/how-can-backend-developers-improve-accessibility-2mkc) » Consulté le 26 décembre 2022.
-
-Surdi Info Service. « [Les chiffres de la surdité et de la perte d’audition](https://www.surdi.info/bibliographie/des-chiffres-autour-de-la-surdite/les-chiffres-de-la-surdite-et-de-la-perte-d-audition) ». Consulté le 12 février 2023.
-
-Moynat, Julie. « [Faux gras, caractères fantaisistes, abus d’émojis : le détournement des caractères Unicode, fléau pour l’accessibilité du web](https://www.lalutineduweb.fr/detournement-unicode-emojis-accessibilite/) ». _La Lutine du Web_ (blog), 5 août 2022.
-
-Moynat, Julie. « [L’(in)accessibilité est politique !](https://www.lalutineduweb.fr/inaccessibilite-politique) ». _La Lutine du Web_ (blog), 3 décembre 2022. [https://www.lalutineduweb.fr/inaccessibilite-politique/](https://www.lalutineduweb.fr/inaccessibilite-politique/).
 
 Nicolas Steenhout. « [Accessibility QA](https://twitter.com/vavroom/status/1618626806067916801) », 26 janvier 2023.
 
@@ -49,7 +39,29 @@ Owen Williams. « [Fake bold/italic as read by a screen reader (tweet)](https:/
 
 « [What Can a Backend Dev Do to Improve Accessibility?](https://dev.to/vickilanger/what-can-a-backend-dev-do-to-improve-accessibility-1ca8) » _DEV Community 👩‍💻👨‍💻_. Consulté le 26 décembre 2022.
 
+
+### Culture et politique
+
+DWP Digital. « [Accessibility Starts with an Organisation’s Culture](https://dwpdigital.blog.gov.uk/2022/12/15/accessibility-starts-with-an-organisations-culture/](https://dwpdigital.blog.gov.uk/2022/12/15/accessibility-starts-with-an-organisations-culture/) ». Consulté le 11 janvier 2023.
+
+Eric Bailey. « [Be the Villain](https://24ways.org/2018/be-the-villain) ». Sur 24 Ways. 6 décembre 2018.
+
+« [Be the Villain (Slides)](https://noti.st/ericwbailey/QGBiUS) ». Consulté le 27 janvier 2023.
+
+Moynat, Julie. « [Faux gras, caractères fantaisistes, abus d’émojis : le détournement des caractères Unicode, fléau pour l’accessibilité du web](https://www.lalutineduweb.fr/detournement-unicode-emojis-accessibilite/) ». _La Lutine du Web_ (blog), 5 août 2022.
+
+Moynat, Julie. « [L’(in)accessibilité est politique !](https://www.lalutineduweb.fr/inaccessibilite-politique) ». _La Lutine du Web_ (blog), 3 décembre 2022. [https://www.lalutineduweb.fr/inaccessibilite-politique/](https://www.lalutineduweb.fr/inaccessibilite-politique/).
+
+
+### Autres sources
+
+Inserm. « [Dossier Épilepsie](https://www.inserm.fr/dossier/epilepsie) ». Consulté le 17 février 2023.
+
+Surdi Info Service. « [Les chiffres de la surdité et de la perte d’audition](https://www.surdi.info/bibliographie/des-chiffres-autour-de-la-surdite/les-chiffres-de-la-surdite-et-de-la-perte-d-audition) ». Consulté le 12 février 2023.
+
 « [Zythum](https://la.wikipedia.org/w/index.php?title=Zythum&oldid=3709927) ». In _Vicipaedia_, 10 octobre 2022.
+
+---
 
 ## Crédits
 
