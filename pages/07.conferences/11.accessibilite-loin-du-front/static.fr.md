@@ -8,8 +8,7 @@ Si vous souhaitez que je donne cette conférence, n'hésitez pas à me contacter
 
 ## Sources et références
 
-[[i]]
-| Ces sources contiennent des documents non-exploités dans la conférence mais que je trouve pertinent à mentionner ici.
+*Ces sources contiennent des documents non-exploités dans la conférence, mais que je trouve pertinent à mentionner ici.*
 
 « Accessibility Best Practices - Back-End Engineering Curriculum - Turing School of Software and Design ». Consulté le 26 décembre 2022. [https://backend.turing.edu/](https://backend.turing.edu/).
 
