@@ -6,6 +6,10 @@ Cette conférence explique pourquoi l'accessibilité, ce n'est pas qu'un problè
 
 Si vous souhaitez que je donne cette conférence, n'hésitez pas à me contacter !
 
+## Contenus supplémentaires
+
+- [La référence d'internationalisation](https://zestedesavoir.com/tutoriels/3039/linternationalisation-et-ses-pieges-creer-un-logiciel-universel/) (générale, pas centrée sur l'accessibilité) mentionnée dans la conférence
+
 ## Sources et références
 
 *Ces sources contiennent des documents non-exploités dans la conférence, mais que je trouve pertinent à mentionner ici.*
@@ -20,9 +24,9 @@ Inserm. « Épilepsie ⋅ Inserm, La science pour la santé ». Consulté le 1
 
 Eric Bailey. « Be the Villain ◆ 24 Ways ». 6 décembre 2018. [https://24ways.org/2018/be-the-villain/](https://24ways.org/2018/be-the-villain/).
 
-———. « Be the Villain (Slides) ». Consulté le 27 janvier 2023. [https://noti.st/ericwbailey/QGBiUS](https://noti.st/ericwbailey/QGBiUS).
+« Be the Villain (Slides) ». Consulté le 27 janvier 2023. [https://noti.st/ericwbailey/QGBiUS](https://noti.st/ericwbailey/QGBiUS).
 
-———. « Yes, Accessibility Is Also a Backend Concern ». _Eric Bailey_ (blog). Consulté le 26 décembre 2022. [https://ericwbailey.website/published/yes-accessibility-is-also-a-backend-concern/](https://ericwbailey.website/published/yes-accessibility-is-also-a-backend-concern/).
+« Yes, Accessibility Is Also a Backend Concern ». _Eric Bailey_ (blog). Consulté le 26 décembre 2022. [https://ericwbailey.website/published/yes-accessibility-is-also-a-backend-concern/](https://ericwbailey.website/published/yes-accessibility-is-also-a-backend-concern/).
 
 « Example of graffiti subtitle from the Blair Witch game ». Consulté le 22 janvier 2023. [https://twitter.com/Not_jaReddy/status/1616866575763529730](https://twitter.com/Not_jaReddy/status/1616866575763529730).
 
@@ -32,7 +36,7 @@ DEV Community 👩‍💻👨‍💻. « How Can Backend Developers Improve Acc
 
 Moynat, Julie. « Faux gras, caractères fantaisistes, abus d’émojis : le détournement des caractères Unicode, fléau pour l’accessibilité du web ». _La Lutine du Web_ (blog), 5 août 2022. [https://www.lalutineduweb.fr/detournement-unicode-emojis-accessibilite/](https://www.lalutineduweb.fr/detournement-unicode-emojis-accessibilite/).
 
-———. « L’(in)accessibilité est politique ! » _La Lutine du Web_ (blog), 3 décembre 2022. [https://www.lalutineduweb.fr/inaccessibilite-politique/](https://www.lalutineduweb.fr/inaccessibilite-politique/).
+« L’(in)accessibilité est politique ! » _La Lutine du Web_ (blog), 3 décembre 2022. [https://www.lalutineduweb.fr/inaccessibilite-politique/](https://www.lalutineduweb.fr/inaccessibilite-politique/).
 
 Nicolas Steenhout. « Accessibility QA », 26 janvier 2023. [https://twitter.com/vavroom/status/1618626806067916801](https://twitter.com/vavroom/status/1618626806067916801).
 
