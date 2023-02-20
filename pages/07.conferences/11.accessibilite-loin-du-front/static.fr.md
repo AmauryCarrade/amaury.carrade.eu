@@ -4,6 +4,8 @@ title: 'L’accessibilité, loin du front'
 
 Cette conférence explique pourquoi l'accessibilité, ce n'est pas qu'un problème de designer front-end, mais que ça doit être pensé et anticipé à tous les niveaux. Même côté _backend_.
 
+Cette conférence a été donnée à la [PyConFR 2023](https://www.pycon.fr/2023), à Bordeaux, sous le titre _Accessibilité numérique : faire sa part quand on est développeur·euse backend_.
+
 [[i]]
 | Une rediffusion sera bientôt publiée. Un lien sera posté ici.
 |
