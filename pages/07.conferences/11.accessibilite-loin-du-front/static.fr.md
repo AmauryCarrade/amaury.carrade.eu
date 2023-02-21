@@ -44,7 +44,7 @@ Owen Williams. « [Fake bold/italic as read by a screen reader (tweet)](https:/
 
 ### Culture et politique
 
-DWP Digital. « [Accessibility Starts with an Organisation’s Culture](https://dwpdigital.blog.gov.uk/2022/12/15/accessibility-starts-with-an-organisations-culture/](https://dwpdigital.blog.gov.uk/2022/12/15/accessibility-starts-with-an-organisations-culture/) ». Consulté le 11 janvier 2023.
+DWP Digital. « [Accessibility Starts with an Organisation’s Culture](https://dwpdigital.blog.gov.uk/2022/12/15/accessibility-starts-with-an-organisations-culture/) ». Consulté le 11 janvier 2023.
 
 Eric Bailey. « [Be the Villain](https://24ways.org/2018/be-the-villain) ». Sur 24 Ways. 6 décembre 2018.
 
@@ -52,7 +52,7 @@ Eric Bailey. « [Be the Villain](https://24ways.org/2018/be-the-villain) ». S
 
 Moynat, Julie. « [Faux gras, caractères fantaisistes, abus d’émojis : le détournement des caractères Unicode, fléau pour l’accessibilité du web](https://www.lalutineduweb.fr/detournement-unicode-emojis-accessibilite/) ». _La Lutine du Web_ (blog), 5 août 2022.
 
-Moynat, Julie. « [L’(in)accessibilité est politique !](https://www.lalutineduweb.fr/inaccessibilite-politique) ». _La Lutine du Web_ (blog), 3 décembre 2022. [https://www.lalutineduweb.fr/inaccessibilite-politique/](https://www.lalutineduweb.fr/inaccessibilite-politique/).
+Moynat, Julie. « [L’(in)accessibilité est politique !](https://www.lalutineduweb.fr/inaccessibilite-politique) ». _La Lutine du Web_ (blog), 3 décembre 2022. 
 
 
 ### Autres sources
@@ -67,7 +67,7 @@ Surdi Info Service. « [Les chiffres de la surdité et de la perte d’audition
 
 ## Crédits
 
-Chiefio, E. Michael Smith. _[EMS-89615 Egyptian wooden model of beer making in ancient Egypt, located at the Rosicrucian Egyptian Museum in San Jose, California](https://commons.wikimedia.org/wiki/File:EMS-89615-Rosecrucian-Egyptian-BeerMaking.jpg)_. 12 mai 2007. Travail personnel. [https://commons.wikimedia.org/wiki/File:EMS-89615-Rosecrucian-Egyptian-BeerMaking.jpg](https://commons.wikimedia.org/wiki/File:EMS-89615-Rosecrucian-Egyptian-BeerMaking.jpg).
+Chiefio, E. Michael Smith. _[EMS-89615 Egyptian wooden model of beer making in ancient Egypt, located at the Rosicrucian Egyptian Museum in San Jose, California](https://commons.wikimedia.org/wiki/File:EMS-89615-Rosecrucian-Egyptian-BeerMaking.jpg)_. 12 mai 2007. Travail personnel.
 
 Darafsh Kaviyani. _[Name of Cambyses in Egyptian hieroglyphs and Old Persian cuneiform](https://commons.wikimedia.org/w/index.php?curid=67754751)_. 27 mars 2018.
 
