@@ -13,7 +13,7 @@ Cette conférence a été donnée à la [PyConFR 2023](https://www.pycon.fr/2023
 
 ## Ressources diffusées pendant la conférence
 
-- Vous pouvez retrouver toutes les vidéos [dans cette playlist sur YouTube](https://www.youtube.com/playlist?list=PLbLqoHgpGyuNXKkpFAPtDHXQCoJryGzY0) (prochainement sur PeerTube ou autre). Et notamment :
+- Vous pouvez retrouver toutes les vidéos [dans cette playlist sur YouTube](https://www.youtube.com/playlist?list=PLbLqoHgpGyuNXKkpFAPtDHXQCoJryGzY0). Et notamment :
   - [la vidéo d'introduction](https://youtu.be/Zs7cLr4XlFQ) ;
   - les vidéos d'exemple d'abus d'Unicode sur les réseaux sociaux ([exemple fictif](https://youtu.be/SewmMf8gAr0) et [exemple réel](https://youtu.be/atHGevL88YM)) ;
   - les vidéos d'exemple en CLI ([mauvais](https://youtu.be/_ZEZMrn1Vjs) et [meilleur](https://youtu.be/ApnIMkLR2dA)).
