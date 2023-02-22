@@ -9,13 +9,13 @@ Cette conférence a été donnée à la [PyConFR 2023](https://www.pycon.fr/2023
 [[i]]
 | Une rediffusion sera bientôt publiée. Un lien sera posté ici.
 |
-| Si vous souhaitez que je donne cette conférence chez vous ou à votre événement, n'hésitez pas à me contacter !
+| Si vous souhaitez que je donne cette conférence, ou une version dérivée, chez vous ou à votre événement, n'hésitez pas à me contacter !
 
 ## Ressources diffusées pendant la conférence
 
 _Les éléments ci-dessous sont diffusés sous licence [Creative Commons BY-SA 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/deed.fr). Vous êtes libre de télécharger, modifier, et rediffuser ces éléments tant que vous citez leur auteur(s) et que vous repartagez sous une licence compatible, sans ajouter de restriction de diffusion (DRM…).
 _
-- [La présentation servant de support](https://amaury.carrade.eu/user/pages/07.conferences/11.accessibilite-loin-du-front/accessibilit%C3%A9-faire-sa-part-quand-on-est-d%C3%A9veloppeureuse-backend-version-pyconfr-2023.pdf) (sans les vidéos ni les animations, mais les vidéos sont ci-après).
+- [La présentation servant de support](https://amaury.carrade.eu/user/pages/07.conferences/11.accessibilite-loin-du-front/accessibilit%C3%A9-faire-sa-part-quand-on-est-d%C3%A9veloppeureuse-backend-version-pyconfr-2023.pdf) (sans les vidéos ni les animations, mais les vidéos sont ci-après) (82 Mio).
 - Vous pouvez retrouver toutes les vidéos [dans cette playlist sur YouTube](https://www.youtube.com/playlist?list=PLbLqoHgpGyuNXKkpFAPtDHXQCoJryGzY0). Et notamment :
   - [la vidéo d'introduction](https://youtu.be/Zs7cLr4XlFQ) ;
   - les vidéos d'exemple d'abus d'Unicode sur les réseaux sociaux ([exemple fictif](https://youtu.be/SewmMf8gAr0) et [exemple réel](https://youtu.be/atHGevL88YM)) ;
