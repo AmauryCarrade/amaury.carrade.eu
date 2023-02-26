@@ -1,5 +1,7 @@
 ---
 title: 'L’accessibilité, loin du front'
+homepage:
+    invite: 'Conférence technique'
 ---
 
 Cette conférence explique pourquoi l'accessibilité, ce n'est pas qu'un problème de designer front-end, mais que ça doit être pensé et anticipé à tous les niveaux. Même côté _backend_.
@@ -17,7 +19,7 @@ _Les éléments ci-dessous sont diffusés sous licence [Creative Commons BY-SA 4
 _
 - [La présentation servant de support](https://amaury.carrade.eu/user/pages/07.conferences/11.accessibilite-loin-du-front/accessibilit%C3%A9-faire-sa-part-quand-on-est-d%C3%A9veloppeureuse-backend-version-pyconfr-2023.pdf) (sans les vidéos ni les animations, mais les vidéos sont ci-après) (82 Mio).
 - Vous pouvez retrouver toutes les vidéos [dans cette playlist sur YouTube](https://www.youtube.com/playlist?list=PLbLqoHgpGyuNXKkpFAPtDHXQCoJryGzY0). Et notamment :
-  - [la vidéo d'introduction](https://youtu.be/Zs7cLr4XlFQ) ;
+  - [la vidéo d'introduction](https://youtu.be/EtVCVu8E0ng) ;
   - les vidéos d'exemple d'abus d'Unicode sur les réseaux sociaux ([exemple fictif](https://youtu.be/SewmMf8gAr0) et [exemple réel](https://youtu.be/atHGevL88YM)) ;
   - les vidéos d'exemple en CLI ([mauvais](https://youtu.be/_ZEZMrn1Vjs) et [meilleur](https://youtu.be/ApnIMkLR2dA)).
 
