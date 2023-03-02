@@ -9,7 +9,7 @@ Cette conférence explique pourquoi l'accessibilité, ce n'est pas qu'un problè
 Cette conférence a été donnée à la [PyConFR 2023](https://www.pycon.fr/2023), à Bordeaux, sous le titre _Accessibilité numérique : faire sa part quand on est développeur·euse backend_.
 
 [[i]]
-| Une rediffusion propre sera bientôt publiée. Un lien sera posté ici. **En attendant, [vous pouvez trouver la rediffusion brute du _live_ de la PyConFR 2023 sur ce lien](https://indymotion.fr/w/hnpsQpuzEehoU3fdLpxL8N?start=14m20s)** (lien horodaté). Le son est cependant moins bon que la rediffusion propre et montée, suite à des problèmes techniques pendant la diffusion en direct de l'événement.
+| Une rediffusion propre sera bientôt publiée. Un lien sera posté ici. **En attendant, [vous pouvez trouver la rediffusion presque brute du _live_ de la PyConFR 2023 sur ce lien](https://youtu.be/vmPDFZd9lOY)**. Le son et l'image sont cependant moins bons que la rediffusion propre et montée.
 |
 | Si vous souhaitez que je donne cette conférence, ou une version dérivée, chez vous ou à votre événement, n'hésitez pas à me contacter !
 
@@ -17,6 +17,7 @@ Cette conférence a été donnée à la [PyConFR 2023](https://www.pycon.fr/2023
 
 _Les éléments ci-dessous sont diffusés sous licence [Creative Commons BY-SA 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/deed.fr). Vous êtes libre de télécharger, modifier, et rediffuser ces éléments tant que vous citez leur auteur(s) et que vous repartagez sous une licence compatible, sans ajouter de restriction de diffusion (DRM…).
 _
+
 - [La présentation servant de support](https://amaury.carrade.eu/user/pages/07.conferences/11.accessibilite-loin-du-front/accessibilit%C3%A9-faire-sa-part-quand-on-est-d%C3%A9veloppeureuse-backend-version-pyconfr-2023.pdf) (sans les vidéos ni les animations, mais les vidéos sont ci-après) (82 Mio).
 - Vous pouvez retrouver toutes les vidéos [dans cette playlist sur YouTube](https://www.youtube.com/playlist?list=PLbLqoHgpGyuNXKkpFAPtDHXQCoJryGzY0). Et notamment :
   - [la vidéo d'introduction](https://youtu.be/EtVCVu8E0ng) ;
