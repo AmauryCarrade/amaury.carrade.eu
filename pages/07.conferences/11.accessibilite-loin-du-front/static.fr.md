@@ -9,7 +9,7 @@ Cette conférence explique pourquoi l'accessibilité, ce n'est pas qu'un problè
 Cette conférence a été donnée à la [PyConFR 2023](https://www.pycon.fr/2023), à Bordeaux, sous le titre _Accessibilité numérique : faire sa part quand on est développeur·euse backend_.
 
 [[i]]
-| Une rediffusion propre sera bientôt publiée. Un lien sera posté ici. **En attendant, [vous pouvez trouver la rediffusion brute du _live_ de l'événement sur ce lien](https://indymotion.fr/w/hnpsQpuzEehoU3fdLpxL8N?start=14m20s)** (lien horodaté). Le son est cependant moins bon que la rediffusion propre et montée, suite à des problèmes techniques pendant la diffusion en direct de l'événement.
+| Une rediffusion propre sera bientôt publiée. Un lien sera posté ici. **En attendant, [vous pouvez trouver la rediffusion brute du _live_ de la PyConFR 2023 sur ce lien](https://indymotion.fr/w/hnpsQpuzEehoU3fdLpxL8N?start=14m20s)** (lien horodaté). Le son est cependant moins bon que la rediffusion propre et montée, suite à des problèmes techniques pendant la diffusion en direct de l'événement.
 |
 | Si vous souhaitez que je donne cette conférence, ou une version dérivée, chez vous ou à votre événement, n'hésitez pas à me contacter !
 
