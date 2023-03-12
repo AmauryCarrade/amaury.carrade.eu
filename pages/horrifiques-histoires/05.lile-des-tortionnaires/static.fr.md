@@ -13,7 +13,7 @@ homepage:
 
 _Un fléau très ancien, la Mort Argentée, arrive de l'étoile Achernar à Yoros, où il extermine toute la population à l'exception du roi Fulbra — protégé par un anneau magique fabriqué par son fidèle sorcier Vemdeez — et trois esclaves. Ils embarquent pour l'état de Cyntrom mais sont emportés dans une tempête, qui les mène sur Uccastrog, une île sous le règne du roi Ildrac, à la réputation lui ayant value le surnom d'île des tortionnaires._
 
-_Fulbra demande à être reçu par le roi Ildrac._
+_Fulbra demande à être reçu par le roi Ildrac. Ildrac refuse de laisser partir Fulbra et le dépouille de ses armes. Alors que Fulbra est escorté jusqu'à sa chambre, il croise une jeune fille, Ilvaa, qui lui parle dans sa langue. De sa cellule, Fulbra voit les corps sans vie de prisonniers dans les profondeurs de l'océan, derrière une parois de verre épais._
 
 # Résumé détaillé
 
@@ -26,3 +26,9 @@ Ils embarquent dans un bateau pour quitter Yoros, vers Cyntrom, vers le sud, han
 Au loin, ils entendent des voix peu rassurantes et voient des individus armés et finement vêtus se rapprocher de la plage. Certains marquent du respect pour Fulbra. Ils apprennent qu'ils se trouvent sur Uccastrog, et qu'ils vont être accueillis par Ildrac, roi de l'Île — ce qui n'est pas pour rassurer Fulbra, tant la réputation de l'île la précède, ainsi que son surnom : _l'île des tortionnaires_. Il se dit même que des sorciers déclenchent des tempêtes pour faire échouer des bateaux sur l'île…
 
 Fulbra demande à être reçu par le roi Ildrac. Parallèlement, les trois esclaves tentent de se défendre des insulaires mais se font rapidement maîtriser et prisonnier — ce qui rend Fulbra méfiant.
+
+Le roi le reçoit et lui annonce qu'il refuse son départ, et qu'il va lui faire visiter l'île, alors même que Fulbra lui donnait sa destination initiale. Il le désarme, sois-disant pour ne pas que les insulaires ne se blessent.
+
+Alors que Fulbra est escorté jusqu'à sa chambre, il croise une jeune fille, Ilvaa, qui lui souriait avec compassion et lui murmurait dans la langue du Yoros des paroles de courage.
+
+Depuis sa cellule, l'un des murs étant de verre très épais, il voit le fond de l'océan, ainsi que quelques cadavres flottant entre deux eaux.
