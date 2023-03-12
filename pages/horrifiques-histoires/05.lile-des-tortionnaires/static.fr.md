@@ -1,0 +1,9 @@
+---
+title: 'L''île des tortionnaires'
+homepage:
+    invite: "Clark Ashton Smith\_\_·\_\_Zothique"
+---
+
+…
+
+<!-- Un fléau très ancien, appelé la Mort d'Argent, arrive de l'étoile Achernar à Yoros. Le roi Fulbra est protégé par un anneau magique fabriqué par son fidèle sorcier Vemdeez. L'anneau protège son porteur de la maladie et de la propagation de la peste, mais dès qu'il est enlevé, la Mort d'Argent revient. Tous les habitants de Yoros meurent, à l'exception de Fulbra et de trois esclaves. Ils embarquent pour l'État vassal de Cyntrom. Une tempête les conduit à Uccastrog, également connue sous le nom d'île des tortionnaires. Fulbra rencontre Ildrac, roi d'Uccastrog. Ildrac refuse de laisser partir Fulbra et le dépouille de ses armes. Alors que Fulbra est escorté jusqu'à sa chambre, il croise une jeune fille, Ilvaa, qui lui murmure dans la langue des Yoros qu'elle veut l'aider. De sa chambre, Fulbra voit les corps de ses esclaves flotter dans la mer. Le lendemain, Ilvaa encourage Fulbra à supporter les tortures à venir et lui dit qu'elle essaiera de l'aider à s'échapper le soir même. Ce soir-là, elle rend visite à Fulbra dans sa chambre. Elle lui dit que son plan a échoué, mais qu'elle essaiera à nouveau demain. Fulbra survit à une nouvelle journée de torture en pensant à Ilvaa. Cette nuit-là, Ilvaa ne vient pas. Le lendemain, alors que Fulbra est sur une roue brisée, Ilvaa se moque de lui pour avoir cru qu'elle l'aiderait. Elle s'apprête à lui faire boire un vin drogué qui lui enlèvera ses souvenirs. Fulbra, désireux de mourir, décide de tenter Ildrac pour qu'il lui enlève l'anneau. Il fait semblant d'avoir peur de ce qui se passera si l'anneau est enlevé. Ildrac retire l'anneau et le passe à son doigt. La Mort d'Argent se déchaîne, tuant tout le monde sauf Ildrac. Ildrac, craignant que l'anneau soit à l'origine de la peste, le jette dans l'océan et meurt à son tour. -->
