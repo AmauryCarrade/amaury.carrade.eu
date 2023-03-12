@@ -11,7 +11,7 @@ homepage:
 
 # En bref
 
-_Un fléau très ancien, la Mort Argentée, arrive de l'étoile Achernar à Yoros, où il extermine toute la population à l'exception du roi Fulbra -- protégé par un anneau magique fabriqué par son fidèle sorcier Vemdeez -- et trois esclaves. Ils embarquent pour l'état de Cyntrom mais sont emportés dans une tempête, qui les mène sur Uccastrog, une île sous le règne du roi Ildrac, à la réputation lui ayant value le surnom d'île des tortionnaires._
+_Un fléau très ancien, la Mort Argentée, arrive de l'étoile Achernar à Yoros, où il extermine toute la population à l'exception du roi Fulbra — protégé par un anneau magique fabriqué par son fidèle sorcier Vemdeez — et trois esclaves. Ils embarquent pour l'état de Cyntrom mais sont emportés dans une tempête, qui les mène sur Uccastrog, une île sous le règne du roi Ildrac, à la réputation lui ayant value le surnom d'île des tortionnaires._
 
 _Fulbra demande à être reçu par le roi Ildrac._
 
@@ -23,6 +23,6 @@ Tous les habitants de Yoros meurent, à l'exception de Fulbra et de trois esclav
 
 Ils embarquent dans un bateau pour quitter Yoros, vers Cyntrom, vers le sud, hantés par leurs souvenirs et leur désespoir. Quelques jours plus tard, ils sont pris dans une tempête, leur mat et leurs voiles se brisant. À la merci des vents et des eaux, ils sont emportés vers des rivages inconnus. La tempête finit par se calmer et la barge arrive sur un croissant de sable ocre.
 
-Au loin, ils entendent des voix peu rassurantes et voient des individus armés et finement vêtus se rapprocher de la plage. Certains marquent du respect pour Fulbra. Ils apprennent qu'ils se trouvent sur Uccastrog, et qu'ils vont être accueillis par Ildrac, roi de l'Île -- ce qui n'est pas pour rassurer Fulbra, tant la réputation de l'île la précède, ainsi que son surnom : _l'île des tortionnaires_. Il se dit même que des sorciers déclenchent des tempêtes pour faire échouer des bateaux sur l'île…
+Au loin, ils entendent des voix peu rassurantes et voient des individus armés et finement vêtus se rapprocher de la plage. Certains marquent du respect pour Fulbra. Ils apprennent qu'ils se trouvent sur Uccastrog, et qu'ils vont être accueillis par Ildrac, roi de l'Île — ce qui n'est pas pour rassurer Fulbra, tant la réputation de l'île la précède, ainsi que son surnom : _l'île des tortionnaires_. Il se dit même que des sorciers déclenchent des tempêtes pour faire échouer des bateaux sur l'île…
 
-Fulbra demande à être reçu par le roi Ildrac. Parallèlement, les trois esclaves tentent de se défendre des insulaires mais se font rapidement maîtriser et prisonnier -- ce qui rend Fulbra méfiant.
+Fulbra demande à être reçu par le roi Ildrac. Parallèlement, les trois esclaves tentent de se défendre des insulaires mais se font rapidement maîtriser et prisonnier — ce qui rend Fulbra méfiant.
