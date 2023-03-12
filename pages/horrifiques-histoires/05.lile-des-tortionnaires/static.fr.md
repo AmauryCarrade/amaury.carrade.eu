@@ -13,7 +13,11 @@ homepage:
 
 _Un fléau très ancien, la Mort Argentée, arrive de l'étoile Achernar à Yoros, où il extermine toute la population à l'exception du roi Fulbra — protégé par un anneau magique fabriqué par son fidèle sorcier Vemdeez — et trois esclaves. Ils embarquent pour l'état de Cyntrom mais sont emportés dans une tempête, qui les mène sur Uccastrog, une île sous le règne du roi Ildrac, à la réputation lui ayant value le surnom d'île des tortionnaires._
 
-_Fulbra demande à être reçu par le roi Ildrac. Ildrac refuse de laisser partir Fulbra et le dépouille de ses armes. Alors que Fulbra est escorté jusqu'à sa chambre, il croise une jeune fille, Ilvaa, qui lui parle dans sa langue. De sa cellule, Fulbra voit les corps sans vie de prisonniers dans les profondeurs de l'océan, derrière une parois de verre épais._
+_Fulbra demande à être reçu par le roi Ildrac. Ildrac refuse de laisser partir Fulbra et le dépouille de ses armes. Alors que Fulbra est escorté jusqu'à sa chambre, il croise une jeune fille, Ilvaa, qui lui parle dans sa langue. De sa cellule, Fulbra voit les corps sans vie de prisonniers dans les profondeurs de l'océan, dont ses trois esclaves, derrière une parois de verre épais._
+
+_**(TW violence/torture)** Le lendemain, il est conduit dans une salle où l'on lui détaille les nombreuses tortures qu'il allait subir. Ilvaa encourage Fulbra à supporter les tortures à venir et lui dit qu'elle essaiera de l'aider à s'échapper le soir même, dans l'indifférence des tortionnaires. La torture dura toute la journée, odeurs à lui faire perdre connaissance, cordelette d'acide rongeant la peau, serpents la transperçant._
+
+_Le soir, elle rend visite à Fulbra dans sa chambre. Elle lui dit que son plan a échoué, mais qu'elle essaiera à nouveau demain._
 
 # Résumé détaillé
 
@@ -31,4 +35,10 @@ Le roi le reçoit et lui annonce qu'il refuse son départ, et qu'il va lui faire
 
 Alors que Fulbra est escorté jusqu'à sa chambre, il croise une jeune fille, Ilvaa, qui lui souriait avec compassion et lui murmurait dans la langue du Yoros des paroles de courage.
 
-Depuis sa cellule, l'un des murs étant de verre très épais, il voit le fond de l'océan, ainsi que quelques cadavres flottant entre deux eaux.
+Depuis sa cellule, l'un des murs étant de verre très épais, il voit le fond de l'océan, ainsi que quelques cadavres flottant entre deux eaux. Le lendemain matin, il y découvre les cadavres torturés et lacérés de ses trois esclaves.
+
+Il est conduit dans une salle où l'on lui détaille les nombreuses tortures qu'il allait subir. Ilvaa encourage Fulbra à supporter les tortures à venir et lui dit qu'elle essaiera de l'aider à s'échapper le soir même, dans l'indifférence des tortionnaires. Cela le rassure.
+
+**TW violence/torture.** La torture dura toute la journée, initialement sonore et odorante, au point qu'il perd connaissance, puis d'une cordelette acide lui rongeant la peau, puis de sortes de serpents qui lui percèrent la peau, le faisant hurler de douleur.
+
+Reconduit à sa cellule alors qu'il ne pouvait plus en subir d'avantage et survivre, il attend la jeune fille désespérément. Elle ne vint que très tard, lui intimant de se taire et lui indiquant que son plan avait échoué mais qu'elle retenterai le lendemain à droguer les geôliers.
