@@ -5,9 +5,9 @@ homepage:
 ---
 
 [[a]]
-| Ceci est un résumé en temps réel de [la nouvelle contée sur le live _Horrifiques Histoires_ de VChabrette](https://www.twitch.tv/vchabrette). Pas de spoil, le résumé est avancé en fonction du live !
-|
-| _Pour avoir la dernière version, actualisez la page (pas d'actualisation automatique)._
+| Cette page résume [l'_Horrifique Histoire_ diffusée sur Twitch le dimanche 13 mars par VChabrette](https://www.twitch.tv/videos/1763449858?t=01h15m26s), initialement en temps réel pendant le stream. Attention, si vous voulez écouter la rediffusion, cette page vous divulgâche toute l'histoire !
+
+**TW : violence, torture, mort, mort en masse, manipulation psychologique.**
 
 # En bref
 
@@ -15,9 +15,9 @@ _Un fléau très ancien, la Mort Argentée, arrive de l'étoile Achernar à Yoro
 
 _Fulbra demande à être reçu par le roi Ildrac. Ildrac refuse de laisser partir Fulbra et le dépouille de ses armes. Alors que Fulbra est escorté jusqu'à sa chambre, il croise une jeune fille, Ilvaa, qui lui parle dans sa langue. De sa cellule, Fulbra voit les corps sans vie de prisonniers dans les profondeurs de l'océan, dont ses trois esclaves, derrière une parois de verre épais._
 
-_**(TW violence/torture)** Le lendemain, il est conduit dans une salle où l'on lui détaille les nombreuses tortures qu'il allait subir. Ilvaa encourage Fulbra à supporter les tortures à venir et lui dit qu'elle essaiera de l'aider à s'échapper le soir même. Le soir, elle rend visite à Fulbra dans sa chambre. Elle lui dit que son plan a échoué, mais qu'elle essaiera à nouveau demain. Le même scénario se reproduit le lendemain. Ilvaa tente de le rassurer. Les tortures sont plus intenses encore. Cette nuit-là, Ilvaa ne vient pas._
+_Le lendemain, il est conduit dans une salle où l'on lui détaille les nombreuses tortures qu'il allait subir. Ilvaa encourage Fulbra à supporter les tortures à venir et lui dit qu'elle essaiera de l'aider à s'échapper le soir même. Le soir, elle rend visite à Fulbra dans sa chambre. Elle lui dit que son plan a échoué, mais qu'elle essaiera à nouveau demain. Le même scénario se reproduit le lendemain. Ilvaa tente de le rassurer. Les tortures sont plus intenses encore. Cette nuit-là, Ilvaa ne vient pas._
 
-_**(TW violence/torture)** Le lendemain, alors que Fulbra est sur une roue brisée, Ilvaa se moque de lui pour avoir cru qu'elle l'aiderait. Elle s'apprête à lui faire boire un vin drogué qui lui enlèvera ses souvenirs. Se souvenant que retirer sa bague fait revenir le fléau, le tuant à coup sûr, Fulbra, désireux de mourir, décide de tenter Ildrac pour qu'il lui enlève l'anneau. Il fait semblant d'avoir peur de ce qui se passera si l'anneau est enlevé. Ildrac retire l'anneau et le passe à son doigt. La Mort Argentée se déchaîne, tuant tout le monde sauf Ildrac._
+_Le lendemain, alors que Fulbra est sur une roue brisée, Ilvaa se moque de lui pour avoir cru qu'elle l'aiderait. Elle s'apprête à lui faire boire un vin drogué qui lui enlèvera ses souvenirs. Se souvenant que retirer sa bague fait revenir le fléau, le tuant à coup sûr, Fulbra, désireux de mourir, décide de tenter Ildrac pour qu'il lui enlève l'anneau. Il fait semblant d'avoir peur de ce qui se passera si l'anneau est enlevé. Ildrac retire l'anneau et le passe à son doigt. La Mort Argentée se déchaîne, tuant tout le monde sauf Ildrac._
 
 _Ildrac, craignant que l'anneau soit à l'origine de la peste, le jette dans l'océan et meurt à son tour._
 
@@ -41,11 +41,11 @@ Depuis sa cellule, l'un des murs étant de verre très épais, il voit le fond d
 
 Il est conduit dans une salle où l'on lui détaille les nombreuses tortures qu'il allait subir. Ilvaa encourage Fulbra à supporter les tortures à venir et lui dit qu'elle essaiera de l'aider à s'échapper le soir même, dans l'indifférence des tortionnaires. Cela le rassure.
 
-**TW violence/torture.** La torture dura toute la journée, initialement sonore et odorante, au point qu'il perd connaissance, puis d'une cordelette acide lui rongeant la peau, puis de sortes de serpents qui lui percèrent la peau, le faisant hurler de douleur.
+La torture dura toute la journée, initialement sonore et odorante, au point qu'il perd connaissance, puis d'une cordelette acide lui rongeant la peau, puis de sortes de serpents qui lui percèrent la peau, le faisant hurler de douleur.
 
 Reconduit à sa cellule alors qu'il ne pouvait plus en subir d'avantage et survivre, il attend la jeune fille désespérément. Elle ne vint que très tard, lui intimant de se taire et lui indiquant que son plan avait échoué mais qu'elle retenterai le lendemain à droguer les geôliers.
 
-**TW violence/torture.** Le même scénario se reproduit le lendemain — mais cette fois, il n'est plus seul. Ilvaa tente de le rassurer. Les tortures sont plus intenses encore : psychologiques face à son cadavre en cours de putréfaction, ou bien réel par des cadavres enchantés — dont ceux de ses esclaves — le griffant et le torturant… Il est ensuite attaché par des fers au sol, et recouvert du cadavre d'une femme et d'une brebis — entre autres tortures.
+Le même scénario se reproduit le lendemain — mais cette fois, il n'est plus seul. Ilvaa tente de le rassurer. Les tortures sont plus intenses encore : psychologiques face à son cadavre en cours de putréfaction, ou bien réel par des cadavres enchantés — dont ceux de ses esclaves — le griffant et le torturant… Il est ensuite attaché par des fers au sol, et recouvert du cadavre d'une femme et d'une brebis — entre autres tortures.
 
 Cette nuit-là, Ilvaa ne vient pas. Mais il refuse de douter d'elle, convaincu qu'elle a été retardée par une circonstance imprévue.
 
