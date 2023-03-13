@@ -7,6 +7,8 @@ visible: false
 
 **Il n'y a pas de résumé d'_Horrifiques Histoires_ en cours.**
 
-Si vous voyez cette page pendant un [_live_ de VChabrette](https://twitch.tv/vchabrette) depuis la commande `!résumé`, c'est probablement que je ne suis pas disponible aujourd'hui. Ou que j'ai oublié de changer la redirection, et alors n'hésitez pas à me prévenir dans le chat en mentionnant [AmauryPi](https://www.twitch.tv/amaurypi).
+Si vous voyez cette page pendant un [_live_ de VChabrette](https://twitch.tv/vchabrette) depuis la commande `!résumé`, c'est probablement que je ne suis pas disponible aujourd'hui. N'hésitez pas à demander un résumé à quelqu'un d'autre !
 
-[Vous pouvez retrouver tous mes autres résumés par ici !](/horrifiques-histoires)
+Peut-être aussi que j'ai oublié de changer la redirection, et alors prévenez-moi dans le chat en mentionnant [AmauryPi](https://www.twitch.tv/amaurypi).
+
+[Vous pouvez retrouver tous mes autres résumés par ici !](/horrifiques-histoires) (L'affichage de cette liste est un peu cassé mais c'est temporaire)
