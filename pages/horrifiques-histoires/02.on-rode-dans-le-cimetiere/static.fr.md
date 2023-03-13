@@ -2,6 +2,9 @@
 title: 'On rôde dans le cimetière'
 homepage:
     invite: 'J. Vernon Shea'
+abstract: 'Résumé court et détaillé de la nouvelle On rôde dans le cimetière, de J. Vernon Shea !'
+publish_date: '12-02-2023 23:59'
+date: '12-02-2023 23:59'
 ---
 
 [[a]]

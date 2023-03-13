@@ -2,6 +2,9 @@
 title: 'L''île des tortionnaires'
 homepage:
     invite: "Clark Ashton Smith\_\_·\_\_Zothique"
+abstract: 'Résumé court et détaillé de la nouvelle L''île des tortionnaires, publiée par Clark Ashton Smith dans la collection Zothique !'
+publish_date: '12-03-2023 23:00'
+date: '12-03-2023 23:00'
 ---
 
 [[a]]

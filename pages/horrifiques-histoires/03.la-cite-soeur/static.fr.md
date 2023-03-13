@@ -2,6 +2,9 @@
 title: 'La cité sœur'
 homepage:
     invite: 'Brian Lumley'
+abstract: 'Résumé court et détaillé de La cité sœur, de Brian Lumley !'
+publish_date: '12-02-2023 23:00'
+date: '12-02-2023 23:00'
 ---
 
 [[a]]
