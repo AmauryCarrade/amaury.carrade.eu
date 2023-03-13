@@ -5,9 +5,7 @@ homepage:
 ---
 
 [[a]]
-| Ceci est un résumé en temps réel de [la nouvelle contée sur le live _Horrifiques Histoires_ de VChabrette](https://www.twitch.tv/vchabrette). Pas de spoil, le résumé est avancé en fonction du live !
-|
-| _Pour avoir la dernière version, actualisez la page (pas d'actualisation automatique)._
+| Cette page résume [la seconde des deux _Horrifiques Histoires_ diffusées sur Twitch le dimanche 12 février par VChabrette](https://www.twitch.tv/videos/1736486504?t=02h43m54s), initialement en temps réel pendant le stream. Attention, si vous voulez écouter la rediffusion, cette page vous divulgâche toute l'histoire !
 
 # En bref
 

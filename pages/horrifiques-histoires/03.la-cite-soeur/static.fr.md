@@ -5,7 +5,7 @@ homepage:
 ---
 
 [[a]]
-| Ceci était un résumé en temps réel de [la nouvelle contée sur le live _Horrifiques Histoires_ de VChabrette](https://www.twitch.tv/vchabrette). La nouvelle est terminée, mais le live continue avec une autre, [son résumé est par ici !](https://amaury.carrade.eu/horrifiques-histoires/on-rode-dans-le-cimetiere)
+| Cette page résume [la première des deux _Horrifiques Histoires_ diffusées sur Twitch le dimanche 12 février par VChabrette](https://www.twitch.tv/videos/1736486504?t=01h12m13s), initialement en temps réel pendant le stream. Attention, si vous voulez écouter la rediffusion, cette page vous divulgâche toute l'histoire !
 
 # En bref
 

@@ -49,4 +49,6 @@ Reconduit à sa cellule alors qu'il ne pouvait plus en subir d'avantage et survi
 
 Cette nuit-là, Ilvaa ne vient pas. Mais il refuse de douter d'elle, convaincu qu'elle a été retardée par une circonstance imprévue.
 
-Le lendemain, alors que Fulbra est sur une roue brisée, Ilvaa se moque de lui pour avoir cru qu'elle l'aiderait. Elle s'apprête à lui faire boire un vin drogué. Le désespoir envahi Fulbra. Il se souvient de la bague ensorcelée, se rappelant que s'il enlève l'anneau, le fléau reviendra sur le champ.
+Le lendemain, alors que Fulbra est sur une roue brisée, Ilvaa se moque de lui pour avoir cru qu'elle l'aiderait. Elle s'apprête à lui faire boire un vin drogué. Le désespoir envahi Fulbra. Il se souvient de la bague ensorcelée, se rappelant que s'il enlève l'anneau, le fléau reviendra sur le champ. Il fait semblant d'avoir peur de ce qui se passera si l'anneau est enlevé. Ildrac retire l'anneau et le passe à son doigt. La Mort Argentée se déchaîne, tuant tout le monde sauf Ildrac.
+
+Ildrac, craignant que l'anneau soit à l'origine de la peste, le jette dans l'océan et meurt à son tour.
