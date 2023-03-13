@@ -8,7 +8,13 @@ date: '12-02-2023 23:59'
 ---
 
 [[a]]
-| Cette page résume [la seconde des deux _Horrifiques Histoires_ diffusées sur Twitch le dimanche 12 février par VChabrette](https://www.twitch.tv/videos/1736486504?t=02h43m54s), initialement en temps réel pendant le stream. Attention, si vous voulez écouter la rediffusion, cette page vous divulgâche toute l'histoire !
+| Cette page résume [la seconde des deux _Horrifiques Histoires_ diffusées sur Twitch le dimanche 12 février par VChabrette](https://www.twitch.tv/videos/1736486504?t=02h43m54s), initialement en temps réel pendant le stream.
+|
+| **Attention, si vous voulez écouter la rediffusion ou lire l’œuvre, cette page vous divulgâche toute l’histoire !**
+
+**TW : mort.**
+
+*[TW]: Trigger Warning
 
 # En bref
 

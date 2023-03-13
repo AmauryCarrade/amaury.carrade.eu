@@ -8,9 +8,13 @@ date: '12-03-2023 23:00'
 ---
 
 [[a]]
-| Cette page résume [l'_Horrifique Histoire_ diffusée sur Twitch le dimanche 13 mars par VChabrette](https://www.twitch.tv/videos/1763449858?t=01h15m26s), initialement en temps réel pendant le stream. Attention, si vous voulez écouter la rediffusion, cette page vous divulgâche toute l'histoire !
+| Cette page résume [l'_Horrifique Histoire_ diffusée sur Twitch le dimanche 13 mars par VChabrette](https://www.twitch.tv/videos/1763449858?t=01h15m26s), initialement en temps réel pendant le stream.
+|
+| **Attention, si vous voulez écouter la rediffusion ou lire l'œuvre, cette page vous divulgâche toute l'histoire !**
 
 **TW : violence, torture, mort, mort en masse, manipulation psychologique.**
+
+*[TW]: Trigger Warning
 
 # En bref
 

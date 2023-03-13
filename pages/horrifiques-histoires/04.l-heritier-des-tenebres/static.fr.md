@@ -10,13 +10,19 @@ date: '05-02-2023 23:00'
 ---
 
 [[a]]
-| Cette page résume [l'_Horrifique Histoire_ diffusée sur Twitch le dimanche 5 février par VChabrette](https://www.twitch.tv/videos/1729404049?t=01h29m11s), initialement en temps réel pendant le stream. Attention, si vous voulez écouter la rediffusion, cette page vous divulgâche toute l'histoire !
+| Cette page résume [l'_Horrifique Histoire_ diffusée sur Twitch le dimanche 5 février par VChabrette](https://www.twitch.tv/videos/1729404049?t=01h29m11s), initialement en temps réel pendant le stream.
+|
+| **Attention, si vous voulez écouter la rediffusion ou lire l’œuvre, cette page vous divulgâche toute l’histoire !**
+
+**TW : violence, mort, incendie.**
+
+*[TW]: Trigger Warning
 
 # En bref
 
-_Henry Chaldane se retrouve chez Sir John Tremoth après s'être perdu. Il apprend que sa femme a été déclarée morte par erreur, puis a donné naissance à un monstre avant de vraiment mourir. John lui annonce qu'il s'attendait à mourir bientôt de problèmes cardiaques et de fait, il meurt dans la nuit. Harper, son majordome, lui demande de l'aider à gérer la dernière volonté de Sir John — être rapidement brûlé — et à se protéger du monstre, qui s'agitait et cherchait à briser le mur l'enfermant._
+Henry Chaldane se retrouve chez Sir John Tremoth après s'être perdu. Il apprend que sa femme a été déclarée morte par erreur, puis a donné naissance à un monstre avant de vraiment mourir. John lui annonce qu'il s'attendait à mourir bientôt de problèmes cardiaques et de fait, il meurt dans la nuit. Harper, son majordome, lui demande de l'aider à gérer la dernière volonté de Sir John — être rapidement brûlé — et à se protéger du monstre, qui s'agitait et cherchait à briser le mur l'enfermant.
 
-_Ils veillent la nuit suivante dans la chambre funéraire, armés. Soudain, le mur cède, et la créature bondit sur eux. Ils perdent brièvement connaissance. Le monstre s'attaque violemment au corps de Sir John, avant de fuir alors que le lit s'embrase, puis le manoir. En suivant les traces du monstre, ils trouvent la crypte familiale, à l'entrée défoncée, mais la crypte est vide alors que le monstre l'a clairement pénétrée. Heaper conclut : il y a des mystères qui ne seront jamais percés._
+Ils veillent la nuit suivante dans la chambre funéraire, armés. Soudain, le mur cède, et la créature bondit sur eux. Ils perdent brièvement connaissance. Le monstre s'attaque violemment au corps de Sir John, avant de fuir alors que le lit s'embrase, puis le manoir. En suivant les traces du monstre, ils trouvent la crypte familiale, à l'entrée défoncée, mais la crypte est vide alors que le monstre l'a clairement pénétrée. Heaper conclut : il y a des mystères qui ne seront jamais percés.
 
 # Résumé détaillé
 

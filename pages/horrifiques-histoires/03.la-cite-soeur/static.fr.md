@@ -8,7 +8,13 @@ date: '12-02-2023 23:00'
 ---
 
 [[a]]
-| Cette page résume [la première des deux _Horrifiques Histoires_ diffusées sur Twitch le dimanche 12 février par VChabrette](https://www.twitch.tv/videos/1736486504?t=01h12m13s), initialement en temps réel pendant le stream. Attention, si vous voulez écouter la rediffusion, cette page vous divulgâche toute l'histoire !
+| Cette page résume [la première des deux _Horrifiques Histoires_ diffusées sur Twitch le dimanche 12 février par VChabrette](https://www.twitch.tv/videos/1736486504?t=01h12m13s), initialement en temps réel pendant le stream.
+|
+| **Attention, si vous voulez écouter la rediffusion ou lire l’œuvre, cette page vous divulgâche toute l’histoire !**
+
+**TW : guerre, mention de mort, mention de suicide.**
+
+*[TW]: Trigger Warning
 
 # En bref
 
