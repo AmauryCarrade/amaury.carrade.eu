@@ -14,3 +14,4 @@ date: '12-03-2023 23:00'
 
 *[TW]: Trigger Warning
 
+Non mais ça a pas commencé pourquoi t'es venu·e voir le résumé ??
