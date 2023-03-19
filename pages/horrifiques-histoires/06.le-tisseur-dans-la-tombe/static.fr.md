@@ -17,15 +17,14 @@ date: '12-03-2023 23:00'
 ## En bref
 
 - Le roi de Tasuun, Famorgh, envoie trois hommes (Yanur, Grotara, et Thirlain Ludoch) récupérer la momie du roi Tnepreez à Chaon Gacca.
-- Yanus raconte des légendes, notamment que Chaon Gacca a été assiégée par des tremblements de terre.
-- Ils arrivent après avoir traversé un désert désolé, constatant que ville et tombaux ont été partiellement détruits par nombre de tremblements.
-- Ils constatent avec grande stupeur que les momies ont disparu des tombaux, sans aucune explication plausible.
-- Ils trouvent le caveau de Tnepreez. Une fissure béante le traverse et le trône funéraire est renversé et brisé. Pas de momie.
+- Ils constatent avec grande stupeur que les momies ont disparu des tombaux, sans aucune explication plausible. De même pour Tnepreez.
 - Soudain un grondement sourd romp le silence, et la roche trembla sous leurs pieds, puis partout… Grotara se réveille en partie écrasé sous les décombres, prit de violentes douleurs. Il appelle les autres : silence.
+- Une lueur surréaliste provenant d'une orbe flottante mystique, lui permet de voir que ses acolytes sont morts. Cette orbe semblait consommer les morts, littéralement, grossissant grâce aux deux cadavres qui fondaient quand elle se rapprochait. Le mystère des momies disparues était éclairé…
+- Les orbes se multiplient, commencent à former une toile immense et mouvante, avant de revenir à sa taille d'origine. Grotara eu l'impression que l'orbe le regardait, avant de redescendre dans la faille.
+- Grotaga tente de se libérer en se coupant les jambes mais cela lui fait perdre connaissance. La reprenant, il voit l'orbe le regarder. Patienter. Tissant à nouveau sa toile d'un bleu impur. Et à nouveau, à plusieurs reprises.
 
 
 ## Résumé détaillé
-
 
 Le roi de Tasuun, Famorgh, envoie trois hommes de main (Yanur, Grotara, et Thirlain Ludoch) récupérer la momie du roi Tnepreez à Chaon Gacca. Ces hommes râlent d'avoir à effectuer cette tâche, car cette momie _en particulier_ a été demandée par la reine Lunalia, une princesse du désert Xylac, alors que d'autres momies aurait fait l'affaire.
 
@@ -44,4 +43,14 @@ Ils remarquent les reflets d'objets métalliques dans le couloir : deux épées,
 
 Ils trouvent le caveau de Tnepreez. Une fissure béante le traverse et le trône funéraire est renversé et brisé. La momie est notoirement absente, tombée dans la faille pendant un tremblement, se doutent-ils.
 
-Soudain un grondement sourd romp le silence de mort, et la roche trembla sous leurs pieds. Le tremblement de terre les emporte… Grotara se réveille, sous les décombres, soumis à de vives douleurs, et remarque qu'ils sont murés. Appelant ses acolytes, pas de réponse.
+Soudain un grondement sourd romp le silence de mort, et la roche trembla sous leurs pieds. Le tremblement de terre les emporte… Grotara se réveille, sous les décombres, soumis à de vives douleurs, et remarque qu'ils sont murés. Appelant ses acolytes, pas de réponse. Il tente de se dégager sans succès, la masse semblant inamovible.
+
+Proche du délire, il pense entendre un bourdonnement étouffé, s'amplifiant, accompagné d'une lueur faible et irréelle au dessus de lui. Cette lueur, de plus en plus intense, lui permet de constater que ses acolytes sont morts.
+
+La lueur provenait d'une orbe de la taille d'une tête humaine, flottante dans l'air, mystique. Elle se rapproche du cou de l'un des morts, qui semblait fondre en conséquence…
+
+Les orbes se multiplient, commencent à former une toile immense et mouvante prenant toute la pièce. Grotara est étouffé dans cette toile, de plus en plus intensément. L'orbe finit par revenir à sa taille d'origine. Grotara eu l'impression que l'orbe le regardait, avant de redescendre doucement dans la faille, Grotara restant dans son mal et une obscurité complète pendant des moments infinis.
+
+Grotaga tente de se libérer en se coupant les jambes prises, mais l'hémorragie lui fait perdre connaissance. La reprenant, il constata le retour de l'orbe face à lui. Patientant. Tissant à nouveau sa toile d'un bleu impur dans toute la pièce.
+
+Le tisseur retourna encore dans son gouffre. Grotaga continua de se débattre miraculeusement pour sa survie. À plusieurs reprises, l'orbe revenait, et Grotaga su qu'elle attendait sa mort tel un vautour. Il tente de la chasser à l'épée sans succès.
