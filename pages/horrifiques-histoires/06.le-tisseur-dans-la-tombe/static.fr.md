@@ -7,10 +7,12 @@ publish_date: '12-03-2023 23:00'
 date: '12-03-2023 23:00'
 ---
 
-[[i]]
-| Ceci est un résumé en temps réel de [la nouvelle contée sur le live _Horrifiques Histoires_ de VChabrette](https://www.twitch.tv/vchabrette). Pas de spoil, le résumé est avancé en fonction du live !
+[[a]]
+| Cette page résume [l'_Horrifique Histoire_ diffusée sur Twitch le dimanche 20 mars par VChabrette](https://www.twitch.tv/videos/1770050119?t=01h25m16s), initialement en temps réel pendant le stream.
 |
-| _Pour avoir la dernière version, actualisez la page (pas d'actualisation automatique)._
+| **Attention, si vous voulez écouter la rediffusion ou lire l'œuvre, cette page vous divulgâche toute l'histoire !**
+
+**TW : mort, douleurs intenses.**
 
 *[TW]: Trigger Warning
 
