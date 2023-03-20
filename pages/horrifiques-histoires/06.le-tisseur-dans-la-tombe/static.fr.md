@@ -21,7 +21,7 @@ date: '12-03-2023 23:00'
 - Soudain un grondement sourd romp le silence, et la roche trembla sous leurs pieds, puis partout… Grotara se réveille en partie écrasé sous les décombres, prit de violentes douleurs. Il appelle les autres : silence.
 - Une lueur surréaliste provenant d'une orbe flottante mystique, lui permet de voir que ses acolytes sont morts. Cette orbe semblait consommer les morts, littéralement, grossissant grâce aux deux cadavres qui fondaient quand elle se rapprochait. Le mystère des momies disparues était éclairé…
 - Les orbes se multiplient, commencent à former une toile immense et mouvante, avant de revenir à sa taille d'origine. Grotara eu l'impression que l'orbe le regardait, avant de redescendre dans la faille.
-- Grotaga tente de se libérer en se coupant les jambes mais cela lui fait perdre connaissance. La reprenant, il voit l'orbe le regarder. Patienter. Tissant à nouveau sa toile d'un bleu impur. Et à nouveau, à plusieurs reprises.
+- Grotaga tente de se libérer en se coupant les jambes mais cela lui fait perdre connaissance. La reprenant, il voit l'orbe le regarder. Patienter. Tissant à nouveau sa toile d'un bleu impur. Et à nouveau, à plusieurs reprises. Jusqu'à la mort de Grotaga.
 
 
 ## Résumé détaillé
@@ -54,3 +54,5 @@ Les orbes se multiplient, commencent à former une toile immense et mouvante pre
 Grotaga tente de se libérer en se coupant les jambes prises, mais l'hémorragie lui fait perdre connaissance. La reprenant, il constata le retour de l'orbe face à lui. Patientant. Tissant à nouveau sa toile d'un bleu impur dans toute la pièce.
 
 Le tisseur retourna encore dans son gouffre. Grotaga continua de se débattre miraculeusement pour sa survie. À plusieurs reprises, l'orbe revenait, et Grotaga su qu'elle attendait sa mort tel un vautour. Il tente de la chasser à l'épée sans succès.
+
+Elle continua ainsi. À déployer son œuvre, tissant sa magnifique toile pour les seuls yeux de Grotaga. Jusqu'à la mort de ce dernier.
