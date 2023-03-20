@@ -3,12 +3,12 @@ title: 'Le tisseur dans la tombe'
 homepage:
     invite: "Clark Ashton Smith\_\_·\_\_Zothique"
 abstract: 'Résumé court et détaillé de la nouvelle Le tisseur dans la tombe, publiée par Clark Ashton Smith dans la collection Zothique !'
-publish_date: '12-03-2023 23:00'
-date: '12-03-2023 23:00'
+publish_date: '19-03-2023 23:00'
+date: '19-03-2023 23:00'
 ---
 
 [[a]]
-| Cette page résume [l'_Horrifique Histoire_ diffusée sur Twitch le dimanche 20 mars par VChabrette](https://www.twitch.tv/videos/1770050119?t=01h25m16s), initialement en temps réel pendant le stream.
+| Cette page résume [l'_Horrifique Histoire_ diffusée sur Twitch le dimanche 19 mars par VChabrette](https://www.twitch.tv/videos/1770050119?t=01h25m15s), initialement en temps réel pendant le stream.
 |
 | **Attention, si vous voulez écouter la rediffusion ou lire l'œuvre, cette page vous divulgâche toute l'histoire !**
 
