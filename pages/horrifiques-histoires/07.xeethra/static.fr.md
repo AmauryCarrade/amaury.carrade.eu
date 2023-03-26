@@ -7,10 +7,10 @@ publish_date: '19-03-2023 23:00'
 date: '19-03-2023 23:00'
 ---
 
-[[i]]
-| Ceci est un résumé en temps réel de [la nouvelle contée sur le live _Horrifiques Histoires_ de VChabrette](https://www.twitch.tv/vchabrette). Pas de spoil, le résumé est avancé en fonction du live !
+[[a]]
+| Cette page résume [l'_Horrifique Histoire_ diffusée sur Twitch le dimanche 26 mars par VChabrette](https://www.twitch.tv/videos/1776605884?t=01h02m22s), initialement en temps réel pendant le stream.
 |
-| _Pour avoir la dernière version, actualisez la page (pas d'actualisation automatique)._
+| **Attention, si vous voulez écouter la rediffusion ou lire l'œuvre, cette page vous divulgâche toute l'histoire !**
 
 *[TW]: Trigger Warning
 
@@ -24,6 +24,7 @@ date: '19-03-2023 23:00'
 - Dans un premier temps tout va pour le mieux, mais il découvre rapidement que le désastre ravage Calyz. Il se lasse de régner et sombre dans la débauche. Un musicien, qui se présente comme berger, joue une chanson sur une terre lointaine appelée Cincor, moins fréquentée et plus sereine.
 - Enthousiasmé par cette histoire, le roi Amero demande à se rendre dans ce pays, déguisé en berger, pour fuir le pouvoir qu'il déteste tant désormais. Personne ne les arrête.
 - Soudain, alors qu'ils avancent, une noirceur submerge le cœur d'Amero… ses souvenirs reviennent… Tout était revenu comme avant le marché passé avec Thassaidon.
+- C'est ainsi que le cycle de l'histoire se referme et que le roi Amero revit sa vie en tant que Xeethra.
 
 ## Résumé détaillé
 
@@ -44,3 +45,5 @@ Au début plein de faste, le royaume sombre assez vite dans le désastre et la g
 Le soir, il convoque le joueur de flute et lui demande de l'amener dans son pays, déguisé en simple berger, pour fuir ses responsabilités. Personne ne les arrête.
 
 Soudain, le roi Amero sent comme une lourdeur obscure et confuse, submergeant ses sens, désolant son cœur, comme au bout d'une existence vide. Tentant de comprendre, le berger ne lui répond que d'un rire, avant de se transformer en un guerrier géant vêtu d'une armure noire. Cela semble rappeler une autre vie à Amero… Peu à peu, les souvenirs lui reviennent… Tout était revenu comme avant le marché passé avec Thassaidon.
+
+Thassaidon lui donne deux options, rejoindre les lépreux ou redevenir Xeethra, car il avait failli à son . C'est ainsi que le cycle de l'histoire se referme et que le roi Amero revit sa vie en tant que Xeethra.
