@@ -16,8 +16,13 @@ date: '19-03-2023 23:00'
 
 ## En bref
 
-- Dans le Cincor pastoral, le jeune Xeethra promène son troupeau de chèvres vers une plaine inconnue. Bien qu'il soit tard dans la journée, Xeethra décide d'explorer.
+- Dans le Cincor pastoral, le jeune Xeethra promène son troupeau de chèvres vers une plaine inconnue.
+- Bien qu'il soit tard dans la journée, Xeethra décide d'explorer.
+- Il trouve une grotte, dont d'étranges odeurs l'attirent. Il s'y engage, suivant un tunnel pentu, toujours, jusqu'à une vallée cachée.
+- Il trouve un champ étrange avec une flore inhabituelle, et deux géants qui la gardent.
 
 ## Résumé détaillé
 
-Dans le Cincor pastoral, le jeune Xeethra promène son troupeau de chèvres vers une plaine inconnue. Bien qu'il soit tard dans la journée, Xeethra décide d'explorer.
+Dans le Cincor pastoral, le jeune Xeethra promène son troupeau de chèvres vers une plaine inconnue. Bien qu'il soit tard dans la journée, Xeethra décide d'explorer. Il trouve une grotte sombre, qu'il observe de loin, curieux. D'étranges odeurs l'intriguent, le perturbent, et l'attirent.
+
+Il s'y engage dans un long tunnel, pentu, où il perd un peu la notion du temps, toujours emballé par un air sombre, sournois, démoniaque. Il arrive à la lisière d'une vallée cachée. Il trouve un champ étrange avec une flore inhabituelle, et deux géants qui la gardent.
