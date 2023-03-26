@@ -2,9 +2,9 @@
 title: Xeethra
 homepage:
     invite: "Clark Ashton Smith\_\_·\_\_Zothique"
-abstract: 'Résumé court et détaillé de la nouvelle Le tisseur dans la tombe, publiée par Clark Ashton Smith dans la collection Zothique !'
-publish_date: '19-03-2023 23:00'
-date: '19-03-2023 23:00'
+abstract: 'Résumé court et détaillé de la nouvelle Xeethra, publiée par Clark Ashton Smith dans la collection Zothique !'
+publish_date: '26-03-2023 23:00'
+date: '26-03-2023 23:00'
 ---
 
 [[a]]
