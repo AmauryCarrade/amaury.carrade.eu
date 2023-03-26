@@ -16,6 +16,8 @@ date: '19-03-2023 23:00'
 
 ## En bref
 
+- Dans le Cincor pastoral, le jeune Xeethra promène son troupeau de chèvres vers une plaine inconnue. Bien qu'il soit tard dans la journée, Xeethra décide d'explorer.
 
 ## Résumé détaillé
 
+Dans le Cincor pastoral, le jeune Xeethra promène son troupeau de chèvres vers une plaine inconnue. Bien qu'il soit tard dans la journée, Xeethra décide d'explorer.
