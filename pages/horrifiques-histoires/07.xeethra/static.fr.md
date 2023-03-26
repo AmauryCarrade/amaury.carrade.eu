@@ -20,6 +20,8 @@ date: '19-03-2023 23:00'
 - Bien qu'il soit tard dans la journée, Xeethra décide d'explorer.
 - Il trouve une grotte, dont d'étranges odeurs l'attirent. Il s'y engage, suivant un tunnel pentu, toujours, jusqu'à une vallée cachée.
 - Il trouve un champ étrange avec une flore inhabituelle, et deux géants qui la gardent.
+- Au milieu de la flore, Xeethra croque un fruit étrange et réalise qu'il était il y a longtemps le roi Amero de la lointaine Calyz.
+- De retour auprès de son tuteur Pornos, il admet cette prise de conscience tout en reconnaissant qu'il s'est égaré trop loin et trop tard.
 
 ## Résumé détaillé
 
