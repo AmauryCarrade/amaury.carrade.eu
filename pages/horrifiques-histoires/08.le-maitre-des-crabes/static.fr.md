@@ -14,3 +14,4 @@ date: '05-02-2023 23:00'
 
 *[TW]: Trigger Warning
 
+Le bienveillant sorcier Mior Lumivix et son jeune apprenti Manthar affrontent le malveillant Sarcand pour obtenir la carte de l'ancien pirate Omvor et, par la même occasion, l'emplacement du trésor perdu depuis longtemps — et devenu légendaire — par le pirate.
