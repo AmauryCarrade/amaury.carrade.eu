@@ -1,5 +1,5 @@
 ---
-title: 'Le fruit de la tombe'
+title: 'Les charmes d''Ulua'
 abstract: 'Résumé court et détaillé du Maître des Crabes, de Clark Ashton Smith !'
 homepage:
     invite: "Clark Ashton Smith\_\_·\_\_Zothique"
