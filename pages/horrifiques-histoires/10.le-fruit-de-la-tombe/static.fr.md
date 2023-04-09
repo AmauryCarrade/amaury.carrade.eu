@@ -19,6 +19,10 @@ published: true
 - Les frères Milab et Marabac, écoutent un étranger contant l'histoire de Ossaru, roi et magicien régnant sur la moitié du Zothique.
   > Ossaru était au service du monstre Nioth Korghai. Un jour ce monstre a succombé sans que l'on ne sache clairement pourquoi mais son cadavre fut protégé par des sortilèges. À sa mort, la momie d'Ossaru reposa à ses côtés.
 
-- Reprenant leur chemin au travers du désert, leur caravane de chameaux fut peu après brutalement attaquée par des cadavres de Ghorii, qui tuèrent et dévorèrent les membres du convois. Milab et Marabac, distancés, sont épargnés par chance.
+- Reprenant leur chemin au travers du désert, leur caravane de chameaux fut peu après brutalement attaquée par des cadavres de Ghorii, qui tuèrent et dévorèrent les membres du convois. Milab et Marabac, distancés, sont épargnés.
 
-- Dans leur fuite, ils découvrent une cité immaculée de blanc au loin et s'y dirigent, alors que leurs vivres et chameaux sont presqu'épuisés. Deux jours plus tard, ils finissent enfin par y arriver. La cité, en ruine et sous le sable, était jadis une métropole.
+- Dans leur fuite, ils découvrent une cité en ruine au loin et s'y dirigent, alors que leurs vivres et chameaux sont presqu'épuisés. Ils pénètrent dans ce qui semble être un ancien palais royal.
+
+- Ils entendent un gargouillement bas et indistinct, et trouvent une fissure donnant sur une crypte, dont il semble provenir. Ils tentent de descendre, dans une forte obscurité. Ils découvrent la source du bruit : une chose monstrueuse et gigantesque, de forme vaguement animale, à deux “têtes”.
+
+- Brutalement, le monstre se lève et cherche à attraper les intrus, de tous ses membres, de toutes ses tentacules. Les “yeux” de l'une des têtes émettent une vive lumière jaune. Ils tentent de fuir. Marabac, en avance, dépassant une ligne rougeoyante, s'arrête brutalement, sembla vieillir en accéléré, avant que sa peau puis ses os disparaissent.
