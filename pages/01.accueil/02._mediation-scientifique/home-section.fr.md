@@ -32,6 +32,13 @@ main:
             page: /accueil
 see_also:
     -
+        title: 'Festival Double•Science'
+        type: link
+        link:
+            link: 'https://www.festivaldoublescience.fr'
+        page:
+            page: /accueil
+    -
         title: PogScience
         type: link
         link:
