@@ -1,5 +1,5 @@
 ---
-title: Accessibilité
+title: 'Services d’accessibilité'
 media_order: Couleurs.zip
 homepage:
     invite: 'Construire pour toutes et tous'
