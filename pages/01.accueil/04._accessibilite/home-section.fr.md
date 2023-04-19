@@ -9,7 +9,7 @@ main:
         image: accessibilité-alt.png
         type: link
         link:
-            link: ''
+            link: '/accessibilite#formation'
         page:
             page: /accueil
     -
@@ -18,16 +18,16 @@ main:
         image: accessibilité-conseil-plan-sonore-tactile-cité-sciences-industrie-tetue.jpg
         type: link
         link:
-            link: ''
+            link: '/accessibilite#conseil'
         page:
             page: /accueil
     -
-        title: 'Audit, RGAA'
-        content: 'La conformité au Référentiel général d''amélioration de l''accessibilité (RGAA) devient doucement obligatoire en France, dans certains cas. Et même en dehors, il est important de s''ouvrir à toutes et tous, quelque soit leurs handicaps. Je peux vous aider à faire le point sur l''état de ce que vous produisez (logiciel, web, ou communication) et vous aider à évoluer dans le bon sens.'
+        title: 'Audit d''accessibilité (RGAA, WCAG…)'
+        content: 'La conformité au Référentiel général d''amélioration de l''accessibilité (RGAA) devient doucement obligatoire en France, dans plusieurs cas. Et même en dehors, il est important de s''ouvrir à toutes et tous, quelque soit leurs handicaps. Je peux vous aider à faire le point sur l''état de ce que vous produisez (logiciel, web, ou communication) et vous aider à évoluer dans le bon sens.'
         image: accessibilité-rgaa.png
         type: link
         link:
-            link: ''
+            link: '/accessibilite#audit-daccessibilité'
         page:
             page: /accueil
 see_also:
