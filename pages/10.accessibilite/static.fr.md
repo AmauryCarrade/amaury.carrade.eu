@@ -14,6 +14,12 @@ Je propose des **formations ou sensibilisations aux problématiques d'accessibil
 - **aux développeurs·euses** (front-end _et_ back-end), pour concevoir des outils numériques accessibles à toutes et à tous ;
 - **aux communiquant·es et agences de communication**, pour que vous puissiez vous adresser à toutes et tous du mieux possible, sur les réseaux sociaux ou dans des campagnes de communications plus traditionnelles.
 
+J'ai également donné plusieurs conférences et ateliers autour de l'accessibilité, que je peux venir animer à vos événements. Notamment :
+
+- [**_L'accessibilité, loin du front_**](/conferences/accessibilite-loin-du-front)  -- L'accessibilité est souvent reléguée aux développeurs·euses _front-end_. Quid du reste des équipes, ont-elles un rôle à jouer ? Oui !
+- **Atelier d'accessibilité sociale**  -- Un atelier participatif d'introduction à l'accessibilité sur les réseaux sociaux.
+- **Atelier d'amélioration de l'accessibilité**  -- Plutôt pensé pour les conventions de développeurs·euses de tous horizons : qui le désire vient avec son site, et on débrief constructivement de son accessibilité (et autres éléments annexes : UX, …) pour qu'il ou elle reparte avec plein de conseils d'amélioration !
+
 # Audit d'accessibilité
 
 *[RGAA]: Référentiel Général d'Amélioration de l'Accessibilité
