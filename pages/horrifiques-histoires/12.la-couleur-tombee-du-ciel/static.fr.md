@@ -20,6 +20,7 @@ published: true
 - Un géographe de Boston vient à Arkham et cherche à comprendre l'origine d'une légende à propos d'étranges événements des années 1880 sur la _lande foudroyée_. Il demande à un vieil homme, **Ammi Pierce**, présumé fou.
 - Il lui explique que tout a commencé avec une météorite tombée là, qui ne refroidissait jamais, résistait à tout, et rétrécissait avant de disparaître sans que l'on ne puisse rien y faire. **Au cœur de la météorite, ils trouvent des globules de couleur**  — qui ne sont désignés comme tels « que par analogie », car ils n'entrent pas dans la gamme de ce que l'on connaît dans le spectre visible.
 - La saison suivante, les récoltes de Nahum sont anormalement grandes et abondantes… et immangeables. Ce problème s'étend quelques mois plus tard aux animaux, qui semblent déformés et anormaux. Toute la végétation de la ferme commence à devenir grise et cassante.
+- Mme Gardner, sa femme, devient folle  — et Nahum décide de l'enfermer dans la maison.
 
 # Résumé détaillé
 
@@ -40,3 +41,5 @@ La saison suivante, les récoltes de Nahum sont anormalement grandes et abondant
 Au cours de l'année suivante, le problème commence à s'étendre à la végétation environnante et aux animaux locaux, les déformant de manière inhabituelle. De plus, toute la végétation de la ferme commence à devenir grise et cassante.
 
 Les scientifiques méprisent les explications données par Nahum, sauf un qui remarque la similitude entre la couleur d'un chou touché et des globules de la météorite.
+
+Ces événements affectent beaucoup la famille de Nahum, et notamment sa femme — bien que l'un de ses enfants, adolescent, ne le vive pas très bien non plus. Mme Gardner, sa femme, devient folle, et Nahum décide de l'enfermer dans la maison, puis dans le grenier.
