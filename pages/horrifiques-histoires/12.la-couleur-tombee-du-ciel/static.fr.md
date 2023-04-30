@@ -18,8 +18,8 @@ published: true
 # En bref
 
 - Un géographe de Boston vient à Arkham et cherche à comprendre l'origine d'une légende à propos d'étranges événements des années 1880 sur la _lande foudroyée_. Il demande à un vieil homme, **Ammi Pierce**, présumé fou.
-- Il lui explique que tout a commencé avec une météorite tombée là, qui ne refroidissait jamais, résistait à tout, et rétrécissait avant de disparaître sans que l'on ne puisse rien y faire.
-- Ils découvrent au cœur de la météorite des globules de couleur qui ne sont désignés comme tels « que par analogie », car ils n'entrent pas dans la gamme de ce que l'on connaît dans le spectre visible.
+- Il lui explique que tout a commencé avec une météorite tombée là, qui ne refroidissait jamais, résistait à tout, et rétrécissait avant de disparaître sans que l'on ne puisse rien y faire. **Au cœur de la météorite, ils trouvent des globules de couleur**  — qui ne sont désignés comme tels « que par analogie », car ils n'entrent pas dans la gamme de ce que l'on connaît dans le spectre visible.
+- La saison suivante, les récoltes de Nahum sont anormalement grandes et abondantes… et immangeables. Ce problème s'étend quelques mois plus tard aux animaux, qui semblent déformés et anormaux. Toute la végétation de la ferme commence à devenir grise et cassante.
 
 # Résumé détaillé
 
@@ -32,3 +32,11 @@ Cherchant à en savoir plus, et devant le mutisme des habitants, il s'en va dema
 - il est extrêmement résistant à tout ce qu'on lui fait subir (chaleurs extrêmes, acides et bases fortes, etc.).
 
 Le lendemain, l'échantillon ainsi que le verre avaient tous deux disparus. Lorsqu'ils tentent de prélever un second échantillon de la météorite, les scientifiques découvrent un globule enfermé dans la météorite qui émet une couleur étrange. Ce n'est que par analogie qu'ils ont appelé cela une couleur, car elle se situe en dehors du spectre visible connu.
+
+Du jour au lendemain, la météorite disparaît après avoir été frappée par des éclairs.
+
+La saison suivante, les récoltes de Nahum sont anormalement grandes et abondantes, tellement qu'ils durent commander des tonneaux supplémentaires. Mais cela vint avec une grosse déconvenue : l'entièreté du trésor maraîcher était totalement immangeable. Le fermier était convaincu que la météorite avait empoisonné la terre.
+
+Au cours de l'année suivante, le problème commence à s'étendre à la végétation environnante et aux animaux locaux, les déformant de manière inhabituelle. De plus, toute la végétation de la ferme commence à devenir grise et cassante.
+
+Les scientifiques méprisent les explications données par Nahum, sauf un qui remarque la similitude entre la couleur d'un chou touché et des globules de la météorite.
