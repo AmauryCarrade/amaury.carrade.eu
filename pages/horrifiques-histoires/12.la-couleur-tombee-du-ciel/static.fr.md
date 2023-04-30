@@ -15,9 +15,10 @@ published: true
 
 *[TW]: Trigger Warning
 
-# En bref
+Un jeune géographe originaire de Boston vient à Arkham afin d'étudier un projet de réservoir à l'ouest de la ville. Il entend alors parler d'une légende qui court à propos d'étranges événements qui se seraient produits dans les années 1880 sur la _lande foudroyée_.
 
+Cherchant à en savoir plus, et devant le mutisme des habitants, il s'en va demander à **Ammi Pierce**, un vieil homme fou de réputation. Il raconte.
 
-
-# Résumé détaillé
-
+> Tout a commencé avec une météorite, tombée à côté du puits de Nahum Gardner, en juin 1882.
+> 
+> La météorite ne se refroidit jamais, mais commence à rétrécir, tout en brûlant le fond du seau où ils en avaient placé un échantillon.
