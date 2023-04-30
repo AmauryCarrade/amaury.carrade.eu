@@ -19,9 +19,10 @@ published: true
 
 - Un géographe de Boston vient à Arkham et cherche à comprendre l'origine d'une légende à propos d'étranges événements des années 1880 sur la _lande foudroyée_. Il demande à un vieil homme, **Ammi Pierce**, présumé fou.
 - Il lui explique que tout a commencé avec une météorite tombée chez Nahum Gardner, qui ne refroidissait jamais, résistait à tout, et rétrécissait avant de disparaître sans que l'on ne puisse rien y faire. **Au cœur de la météorite, ils trouvent des globules de couleur**  — qui ne sont désignés comme tels « que par analogie », car ils n'entrent pas dans la gamme de ce que l'on connaît dans le spectre visible.
-- La saison suivante, les récoltes de Nahum sont anormalement grandes et abondantes… et immangeables. Ce problème s'étend quelques mois plus tard aux animaux, qui semblent déformés et anormaux. Toute la végétation de la ferme commence à devenir grise et cassante.
-- Mme Gardner, sa femme, devient folle  — et Nahum décide de l'enfermer dans la maison. L'eau du puits devient empoisonnée. Le bétail aussi. Thaddeus, l'un des fils de Nahum, devient lui aussi fou et est enfermé dans une autre pièce du grenier.
-- Thaddeus meurt et est enterré derrière la ferme. Après des semaines sans contact avec Nahum, Pierce se rend à la ferme.
+- La saison suivante, **les récoltes de Nahum sont anormalement grandes, abondantes… et immangeables**. Ce problème s'étend quelques mois plus tard aux animaux, qui semblent déformés et anormaux. Toute la végétation de la ferme commence à devenir grise et cassante.
+- **Mme Gardner, sa femme, devient folle**  — et Nahum décide de l'enfermer dans la maison. L'eau du puits devient **empoisonnée**. Le bétail aussi. La ferme et l'environnement aussi. Thaddeus, l'un des fils de Nahum, devient lui aussi fou et est enfermé dans une autre pièce du grenier, avant de mourir.
+- Après des semaines sans contact avec Nahum, Pierce se rend à la ferme délabrée, où il découvre que Nahum est devenu fou, que son dernier fils vit dans le puits, et que Mme Gardner a pris une forme monstrueuse. Ammi Pierce sous-entend l'avoir tuée par pitié.
+- Dans un éclat de lucidité, Nahum affirme que les causes de la désolation viennent de la _couleur_, et que cette dernière siphonne la vie de la région environnante. Sur ces poignantes paroles, Nahum s'effondre et meurt.
 
 # Résumé détaillé
 
@@ -47,4 +48,11 @@ Ces événements affectent beaucoup la famille de Nahum, et notamment sa femme �
 
 Au fil du temps, la famille s'isole des fermiers voisins et Pierce devient leur seul contact avec le monde extérieur. Pierce informe Nahum que l'eau de leur puits est devenue mauvaise et lui suggère de creuser et de boire à un nouveau puits, mais Nahum refuse de suivre son conseil. Thaddeus devient lui aussi fou et Nahum l'enferme dans une autre pièce du grenier. Le bétail commence à prendre des formes inquiétantes et à mourir. Comme les récoltes, leur viande est immangeable. Thaddeus meurt dans le grenier et Nahum enterre ses restes derrière la ferme.
 
-Après des semaines sans contact avec Nahum, Pierce se rend à la ferme. Il rencontre Nahum dans sa maison et se rend compte que, comme sa femme et son fils, il est devenu fou.
+Après des semaines sans contact avec Nahum, Pierce se rend à la ferme, dont il constate l'aspect délabré et désespéré, ainsi que de l'environnement immédiat. Il rencontre Nahum dans sa maison et se rend compte que, comme sa femme et son fils, il est devenu fou. Interrogé sur Zenas, le dernier fils de Nahum qui a été retrouvé, Nahum répond à Pierce que Zenas « vit dans le puits » Pierce monte les escaliers jusqu'au grenier et découvre que Mme Gardner a pris une forme horrible. Il est sous-entendu, mais jamais explicité, que Pierce tue Mme Gardner par pitié.
+
+Dans un éclat de lucidité, Nahum affirme que les causes de la désolation viennent de la _couleur_, et que cette dernière siphonne la vie de la région environnante. Son discours est difficile, sa voix prise, pénible, pleine de souffrance.
+
+> _Ça brûle, puis ça suce. […]  
+> Fais attention Ammi. C'est pas fini. Et ça suce la vie._
+
+Sur ces paroles, Nahum s'effondre et meurt.
