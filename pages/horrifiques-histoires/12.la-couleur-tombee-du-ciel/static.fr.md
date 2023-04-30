@@ -13,6 +13,8 @@ published: true
 [[a]]
 | Cette page résume [l'_Horrifique Histoire_ diffusée en live actuellement](https://www.twitch.tv/vchabrette). Le résumé est écrit au fur et à mesure : pas de risque de spoil ! Pour avoir une version à jour, actualisez la page.
 
+**TW : mort, folie.**
+
 *[TW]: Trigger Warning
 
 # En bref
@@ -21,8 +23,10 @@ published: true
 - Il lui explique que tout a commencé avec une météorite tombée chez Nahum Gardner, qui ne refroidissait jamais, résistait à tout, et rétrécissait avant de disparaître sans que l'on ne puisse rien y faire. **Au cœur de la météorite, ils trouvent des globules de couleur**  — qui ne sont désignés comme tels « que par analogie », car ils n'entrent pas dans la gamme de ce que l'on connaît dans le spectre visible.
 - La saison suivante, **les récoltes de Nahum sont anormalement grandes, abondantes… et immangeables**. Ce problème s'étend quelques mois plus tard aux animaux, qui semblent déformés et anormaux. Toute la végétation de la ferme commence à devenir grise et cassante.
 - **Mme Gardner, sa femme, devient folle**  — et Nahum décide de l'enfermer dans la maison. L'eau du puits devient **empoisonnée**. Le bétail aussi. La ferme et l'environnement aussi. Thaddeus, l'un des fils de Nahum, devient lui aussi fou et est enfermé dans une autre pièce du grenier, avant de mourir.
-- Après des semaines sans contact avec Nahum, Pierce se rend à la ferme délabrée, où il découvre que Nahum est devenu fou, que son dernier fils vit dans le puits, et que Mme Gardner a pris une forme monstrueuse. Ammi Pierce sous-entend l'avoir tuée par pitié.
+- Après des semaines sans contact avec Nahum, Pierce se rend à la ferme délabrée, où il découvre que Nahum est devenu fou, que son dernier fils Zenas vit dans le puits, et que Mme Gardner a pris une forme monstrueuse. Ammi Pierce sous-entend l'avoir tuée par pitié.
 - Dans un éclat de lucidité, Nahum affirme que les causes de la désolation viennent de la _couleur_, et que cette dernière siphonne la vie de la région environnante. Sur ces poignantes paroles, Nahum s'effondre et meurt.
+- Pierce part et retourne à la ferme avec six hommes. **Le groupe découvre les squelettes érodés de Merwin et de Zenas au fond du puits**, ainsi que les ossements de plusieurs autres créatures.
+- Une faible lueur de _couleur_ sort du puits… Les arbres commencent à se convulser et les matières organiques grisâtres de la ferme se mettent à briller faiblement.
 
 # Résumé détaillé
 
@@ -52,7 +56,14 @@ Après des semaines sans contact avec Nahum, Pierce se rend à la ferme, dont il
 
 Dans un éclat de lucidité, Nahum affirme que les causes de la désolation viennent de la _couleur_, et que cette dernière siphonne la vie de la région environnante. Son discours est difficile, sa voix prise, pénible, pleine de souffrance.
 
-> _Ça brûle, puis ça suce. […]  
+> _Ça vient d'une place où les choses sont pas comme ici… […]  
+> Ça brûle, puis ça suce. […]  
 > Fais attention Ammi. C'est pas fini. Et ça suce la vie._
 
 Sur ces paroles, Nahum s'effondre et meurt.
+
+Pierce part et retourne à la ferme avec six hommes. Le groupe découvre les squelettes érodés de Merwin et de Zenas au fond du puits, ainsi que les ossements de plusieurs autres créatures.
+
+Alors qu'ils réfléchissent à leurs découvertes dans la maison, la couleur commence à s'échapper du puits. Cela lui rappela les derniers mots de Nahum avec effroi. _Ça vient d'une place où les choses sont pas comme ici. Ça suce, et ça brûle…_
+
+Les arbres commencent à se convulser et les matières organiques grisâtres de la ferme se mettent à briller faiblement.
