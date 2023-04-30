@@ -18,9 +18,10 @@ published: true
 # En bref
 
 - Un géographe de Boston vient à Arkham et cherche à comprendre l'origine d'une légende à propos d'étranges événements des années 1880 sur la _lande foudroyée_. Il demande à un vieil homme, **Ammi Pierce**, présumé fou.
-- Il lui explique que tout a commencé avec une météorite tombée là, qui ne refroidissait jamais, résistait à tout, et rétrécissait avant de disparaître sans que l'on ne puisse rien y faire. **Au cœur de la météorite, ils trouvent des globules de couleur**  — qui ne sont désignés comme tels « que par analogie », car ils n'entrent pas dans la gamme de ce que l'on connaît dans le spectre visible.
+- Il lui explique que tout a commencé avec une météorite tombée chez Nahum Gardner, qui ne refroidissait jamais, résistait à tout, et rétrécissait avant de disparaître sans que l'on ne puisse rien y faire. **Au cœur de la météorite, ils trouvent des globules de couleur**  — qui ne sont désignés comme tels « que par analogie », car ils n'entrent pas dans la gamme de ce que l'on connaît dans le spectre visible.
 - La saison suivante, les récoltes de Nahum sont anormalement grandes et abondantes… et immangeables. Ce problème s'étend quelques mois plus tard aux animaux, qui semblent déformés et anormaux. Toute la végétation de la ferme commence à devenir grise et cassante.
-- Mme Gardner, sa femme, devient folle  — et Nahum décide de l'enfermer dans la maison.
+- Mme Gardner, sa femme, devient folle  — et Nahum décide de l'enfermer dans la maison. L'eau du puits devient empoisonnée. Le bétail aussi. Thaddeus, l'un des fils de Nahum, devient lui aussi fou et est enfermé dans une autre pièce du grenier.
+- Thaddeus meurt et est enterré derrière la ferme. Après des semaines sans contact avec Nahum, Pierce se rend à la ferme.
 
 # Résumé détaillé
 
@@ -42,4 +43,8 @@ Au cours de l'année suivante, le problème commence à s'étendre à la végét
 
 Les scientifiques méprisent les explications données par Nahum, sauf un qui remarque la similitude entre la couleur d'un chou touché et des globules de la météorite.
 
-Ces événements affectent beaucoup la famille de Nahum, et notamment sa femme — bien que l'un de ses enfants, adolescent, ne le vive pas très bien non plus. Mme Gardner, sa femme, devient folle, et Nahum décide de l'enfermer dans la maison, puis dans le grenier.
+Ces événements affectent beaucoup la famille de Nahum, et notamment sa femme — bien que l'un de ses enfants, Thaddeus, adolescent, ne le vive pas très bien non plus. Mme Gardner, sa femme, devient folle, et Nahum décide de l'enfermer dans la maison, puis dans le grenier.
+
+Au fil du temps, la famille s'isole des fermiers voisins et Pierce devient leur seul contact avec le monde extérieur. Pierce informe Nahum que l'eau de leur puits est devenue mauvaise et lui suggère de creuser et de boire à un nouveau puits, mais Nahum refuse de suivre son conseil. Thaddeus devient lui aussi fou et Nahum l'enferme dans une autre pièce du grenier. Le bétail commence à prendre des formes inquiétantes et à mourir. Comme les récoltes, leur viande est immangeable. Thaddeus meurt dans le grenier et Nahum enterre ses restes derrière la ferme.
+
+Après des semaines sans contact avec Nahum, Pierce se rend à la ferme. Il rencontre Nahum dans sa maison et se rend compte que, comme sa femme et son fils, il est devenu fou.
