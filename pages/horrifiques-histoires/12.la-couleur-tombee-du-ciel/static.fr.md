@@ -26,13 +26,13 @@ published: true
 - Après des semaines sans contact avec Nahum, Pierce se rend à la ferme délabrée, où il découvre que Nahum est devenu fou, que son dernier fils Zenas vit dans le puits, et que Mme Gardner a pris une forme monstrueuse. Ammi Pierce sous-entend l'avoir tuée par pitié.
 - Dans un éclat de lucidité, Nahum affirme que les causes de la désolation viennent de la _couleur_, et que cette dernière siphonne la vie de la région environnante. Sur ces poignantes paroles, Nahum s'effondre et meurt.
 - Pierce part et retourne à la ferme avec six hommes. **Le groupe découvre les squelettes érodés de Merwin et de Zenas au fond du puits**, ainsi que les ossements de plusieurs autres créatures.
-- Une faible lueur de _couleur_ sort du puits… Les arbres commencent à se convulser et les matières organiques grisâtres de la ferme se mettent à briller faiblement.
+- Une faible lueur de _couleur_ sort du puits… Les arbres commencent à se convulser et les matières organiques grisâtres de la ferme se mettent à briller faiblement. Les hommes fuient la maison alors que la couleur s'envole du puits vers le ciel et disparaît. Pierce seul voit une partie résiduelle de la couleur tenter de s'élever brièvement, avant d'échouer et de retourner dans le puits. Il n'eut plus jamais toute sa tête. En entendant les rumeurs sur ce qui s'est passé, de nombreux habitants des environs décident de partir.
 
 # Résumé détaillé
 
-Un jeune géographe originaire de Boston vient à Arkham afin d'étudier un projet de réservoir à l'ouest de la ville. Il entend alors parler d'une légende qui court à propos d'étranges événements qui se seraient produits dans les années 1880 sur la _lande foudroyée_.
+Un jeune géographe originaire de Boston vient à Arkham afin d'étudier un projet de réservoir à l'ouest de la ville. Il entend alors parler d'une légende qui court à propos d'étranges événements qui se seraient produits dans les années 1880 sur la _lande foudroyée_, là où le réservoir devrait être construit.
 
-Cherchant à en savoir plus, et devant le mutisme des habitants, il s'en va demander à **Ammi Pierce**, un vieil homme fou de réputation. Il raconte que tout a commencé avec une météorite, tombée à côté du puits de Nahum Gardner, en juin 1882. Cette météorite a plusieurs aspects étranges :
+Cherchant à en savoir plus, et devant le mutisme des habitants, il s'en va demander à **Ammi Pierce**, un vieil homme fou de réputation. Il raconte que tout a commencé avec une météorite, tombée à côté du puits de **Nahum Gardner**, en juin 1882. Cette météorite a plusieurs aspects étranges :
 
 - elle ne refroidit jamais, et rétrécit petit à petit ;
 - l'échantillon disparaît du jour au lendemain après avoir été conservé dans un bécher en verre ;
@@ -66,4 +66,8 @@ Pierce part et retourne à la ferme avec six hommes. Le groupe découvre les squ
 
 Alors qu'ils réfléchissent à leurs découvertes dans la maison, la couleur commence à s'échapper du puits. Cela lui rappela les derniers mots de Nahum avec effroi. _Ça vient d'une place où les choses sont pas comme ici. Ça suce, et ça brûle…_
 
-Les arbres commencent à se convulser et les matières organiques grisâtres de la ferme se mettent à briller faiblement.
+Les arbres commencent à se convulser et les matières organiques grisâtres de la ferme se mettent à briller faiblement. Les hommes fuient la maison alors que la couleur s'envole du puits vers le ciel. De loin, la ferme toute entière baignait dans cette teinte lugubre et mortelle.
+
+Les hommes fuient la maison alors que la couleur s'envole du puits vers le ciel et disparaît. Pierce est le seul à faire demi-tour après la disparition de la couleur et à voir une partie résiduelle de la couleur tenter de s'élever brièvement, avant d'échouer et de retourner dans le puits. Le fait de savoir qu'une partie de la couleur réside toujours sur Terre suffit à perturber son état mental. Lorsque certains hommes reviennent le lendemain, ils ne trouvent que le cheval mort de Pierce, des hectares de poussière grise et de la matière inorganique intacte. En entendant les rumeurs sur ce qui s'est passé, de nombreux habitants des environs décident de partir.
+
+Un demi-siècle plus tard, Pierce n'y est jamais retourné — et il n'est que trop heureux que le nouveau réservoir fasse tout disparaître. Il espère que l'eau sera assez profonde, mais affirme que jamais il n'en boira.
