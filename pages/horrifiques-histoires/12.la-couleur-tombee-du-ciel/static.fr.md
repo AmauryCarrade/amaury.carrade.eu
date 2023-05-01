@@ -5,13 +5,13 @@ homepage:
     invite: 'Howard Phillips Lovecraft'
 admin:
     children_display_order: default
-publish_date: '05-02-2023 23:00'
-date: '05-02-2023 23:00'
+publish_date: '30-04-2023 23:00'
+date: '30-04-2023 23:00'
 published: true
 ---
 
 [[a]]
-| Cette page résume [l'_Horrifique Histoire_ diffusée en live actuellement](https://www.twitch.tv/vchabrette). Le résumé est écrit au fur et à mesure : pas de risque de spoil ! Pour avoir une version à jour, actualisez la page.
+| Cette page résume [l'_Horrifique Histoire_ diffusée le 30 mars 2022 chez VChabrette](https://www.twitch.tv/vchabrette). Le résumé est complet et divulgâche toute l'histoire : si vous voulez la lire ou l'écouter, ne le lisez surtout pas !
 
 **TW : mort, folie.**
 
@@ -26,7 +26,8 @@ published: true
 - Après des semaines sans contact avec Nahum, Pierce se rend à la ferme délabrée, où il découvre que Nahum est devenu fou, que son dernier fils Zenas vit dans le puits, et que Mme Gardner a pris une forme monstrueuse. Ammi Pierce sous-entend l'avoir tuée par pitié.
 - Dans un éclat de lucidité, Nahum affirme que les causes de la désolation viennent de la _couleur_, et que cette dernière siphonne la vie de la région environnante. Sur ces poignantes paroles, Nahum s'effondre et meurt.
 - Pierce part et retourne à la ferme avec six hommes. **Le groupe découvre les squelettes érodés de Merwin et de Zenas au fond du puits**, ainsi que les ossements de plusieurs autres créatures.
-- Une faible lueur de _couleur_ sort du puits… Les arbres commencent à se convulser et les matières organiques grisâtres de la ferme se mettent à briller faiblement. Les hommes fuient la maison alors que la couleur s'envole du puits vers le ciel et disparaît. Pierce seul voit une partie résiduelle de la couleur tenter de s'élever brièvement, avant d'échouer et de retourner dans le puits. Il n'eut plus jamais toute sa tête. En entendant les rumeurs sur ce qui s'est passé, de nombreux habitants des environs décident de partir.
+- Une faible lueur de _couleur_ sort du puits… Les arbres commencent à se convulser et les matières organiques grisâtres de la ferme se mettent à briller faiblement. Les hommes fuient la maison alors que la couleur s'envole du puits vers le ciel et disparaît. Pierce seul voit une partie résiduelle de la couleur tenter de s'élever brièvement, avant d'échouer et de retourner dans le puits. Il n'eut plus jamais toute sa tête.
+- En entendant les rumeurs sur ce qui s'est passé, de nombreux habitants des environs décident de partir. Les autres sont devenus… bizarres.
 
 # Résumé détaillé
 
