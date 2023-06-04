@@ -1,12 +1,12 @@
 ---
-title: 'Les chiens de Tindalos'
-abstract: 'Résumé court et détaillé du Maître des Crabes, de Clark Ashton Smith !'
+title: 'Les Chiens de Tindalos'
+abstract: 'Résumé court et détaillé des Chiens de Tindalos, de Frank Belknap Long !'
 homepage:
     invite: 'Frank Belknap Long'
 admin:
     children_display_order: default
-publish_date: '05-02-2023 23:00'
-date: '05-02-2023 23:00'
+publish_date: '04-06-2023 23:00'
+date: '04-06-2023 23:00'
 published: true
 ---
 
