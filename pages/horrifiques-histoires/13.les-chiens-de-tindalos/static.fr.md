@@ -11,7 +11,9 @@ published: true
 ---
 
 [[a]]
-| Cette page résume [l'_Horrifique Histoire_ diffusée en live actuellement](https://www.twitch.tv/vchabrette). Le résumé est écrit au fur et à mesure : pas de risque de spoil ! Pour avoir une version à jour, actualisez la page.
+| Cette page résume [l'_Horrifique Histoire_ diffusée sur Twitch le dimanche 4 juin 2023 par VChabrette](https://www.twitch.tv/videos/1837834029?t=01h21m32s), initialement en temps réel pendant le stream.
+|
+| **Attention, si vous voulez écouter la rediffusion ou [lire l'œuvre](https://en.wikisource.org/wiki/Weird_Tales/Volume_30/Issue_1/The_Hounds_of_Tindalos), cette page vous divulgâche toute l'histoire !**
 
 **TW : drogues.**
 
