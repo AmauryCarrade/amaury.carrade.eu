@@ -19,12 +19,10 @@ published: true
 
 # En bref
 
-- **Halpin Chalmers** est un chercheur peu conventionnel, qui croit que les alchimistes et les sorciers détiennent la vérité (et non les biologistes).
-- Il étudie le temps à l'aide de drogues, et **affirme avoir découvert une nouvelle substance, _Liao_, permettant de voir l'intégralité du temps**. Il s'en va l'expérimenter sur lui, malgré les craintes de son ami.
-- Chalmers avale la drogue, alors que l'horloge s'arrête, ce qu'il interprète comme une validation par les Forces du Temps. Il bascule sur le sofa, yeux fermés. De son point de vue, le monde s'efface autour de lui.
-- Chalmers affirme voir les mers et les terres, mille peuples de mille époques, ce qu'il raconte à un rythme effréné. « _Je perçois tout, simultanément._ » Il dit percevoir la nature du temps elle-même, « étrange à l'extrême ».
-- Frank tente d'intervenir mais Chalmers refuse, voulant aller toujours plus loin.
-- Chalmers semble faire une forme d'attaque. Il tombe par terre, de la salive à la bouche, sans sons clairs ; tente de fuir avant d'être contrôlé par Frank ; frissonnant. _Ils m'ont senti_ dit-il.
+- **Halpin Chalmers** est un chercheur peu conventionnel, qui croit que les alchimistes et les sorciers détiennent la vérité (et non les biologistes). Il affirme avoir découvert **une nouvelle drogue, _Liao_, permettant de voir l'intégralité du temps**.
+- Chalmers avale la drogue. De son point de vue, le monde s'efface autour de lui. Il affirme voir les mers et les terres, mille peuples de mille époques, ce qu'il raconte à un rythme effréné. « _Je perçois tout, simultanément._ » Il dit percevoir la nature du temps elle-même, « étrange à l'extrême ».
+- Chalmers semble faire une forme d'attaque. Il tombe par terre, de la salive à la bouche, sans sons clairs ; tente de fuir avant d'être contrôlé par Frank ; frissonnant. _Ils m'ont senti_, dit-il. _Les chiens de Tindalos._ Des créatures prédatrices et malfaisantes habitant les angles du temps et de l'espace, qui le courseraient à travers les époques.
+- Frank s'en va et préfère lui envoyer un médecin.
 
 
 # Résumé détaillé
@@ -45,4 +43,12 @@ Il décrit à haute voix son expérience pour Frank de les noter. Il voit de moi
 
 Il se met à raconter percevoir la nature du temps elle-même, une expérience qu'il dit _étrange à l'extrême_. Voyant les cellules, les angles d'un autre monde, la structure elle-même du temps.
 
-Frank tente d'intervenir, mais Chalmers refuse, voulant aller toujours plus loin dans son exploration du temps. Frank note l'odeur qui s'est installée : âcre, désagréable. S'éloignant un instant pour aérer, il revient vers un Chalmers pris d'une sorte d'attz
+Frank tente d'intervenir, mais Chalmers refuse, voulant aller toujours plus loin dans son exploration du temps. Frank note l'odeur qui s'est installée : âcre, désagréable. S'éloignant un instant pour aérer, il revient vers un Chalmers pris d'une sorte d'attaque, la salive à la bouche, tentant de fuir avant d'être contrôlé par Frank, frissonnant avant de s'effondrer à nouveau, reprenant des forces avec du Whisky.
+
+Frank pense que c'est la drogue, mais Chalmers dit qu'_ils_ l'ont senti se balader dans le temps.
+
+_Les chiens de Tindalos_.
+
+Il affirme les avoir vus. au delà du temps et de l'espace. Des êtres malfaisants, prédateurs, habitant les angles du temps et de l'espace. Il aurait tenté de fuir _des quintillions d'années_, sans succès. Il explique que les angles du temps sont pour l'impur, et les courbes, pour le pur, la majorité des êtres.
+
+Frank s'en va, ne voulant pas _entendre d'autres bêtises_, voulant lui envoyer un médecin qu'il l'enjoint à écouter et suivre.
