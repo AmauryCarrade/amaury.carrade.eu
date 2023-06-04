@@ -24,7 +24,7 @@ published: true
 - Chalmers avale la drogue, alors que l'horloge s'arrête, ce qu'il interprète comme une validation par les Forces du Temps. Il bascule sur le sofa, yeux fermés. De son point de vue, le monde s'efface autour de lui.
 - Chalmers affirme voir les mers et les terres, mille peuples de mille époques, ce qu'il raconte à un rythme effréné. « _Je perçois tout, simultanément._ » Il dit percevoir la nature du temps elle-même, « étrange à l'extrême ».
 - Frank tente d'intervenir mais Chalmers refuse, voulant aller toujours plus loin.
-- Chalmers semble faire une forme d'attaque. Il tombe par terre, de la salive à la bouche, sans sons clairs.
+- Chalmers semble faire une forme d'attaque. Il tombe par terre, de la salive à la bouche, sans sons clairs ; tente de fuir avant d'être contrôlé par Frank ; frissonnant. _Ils m'ont senti_ dit-il.
 
 
 # Résumé détaillé
@@ -45,4 +45,4 @@ Il décrit à haute voix son expérience pour Frank de les noter. Il voit de moi
 
 Il se met à raconter percevoir la nature du temps elle-même, une expérience qu'il dit _étrange à l'extrême_. Voyant les cellules, les angles d'un autre monde, la structure elle-même du temps.
 
-Frank tente d'intervenir, mais Chalmers refuse, voulant aller toujours plus loin dans son exploration du temps. Frank note l'odeur qui s'est installée : âcre, désagréable. S'éloignant un instant pour 
+Frank tente d'intervenir, mais Chalmers refuse, voulant aller toujours plus loin dans son exploration du temps. Frank note l'odeur qui s'est installée : âcre, désagréable. S'éloignant un instant pour aérer, il revient vers un Chalmers pris d'une sorte d'attz
