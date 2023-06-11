@@ -15,9 +15,6 @@ published: true
 
 *[TW]: Trigger Warning
 
-# En bref
-
-_On a à peine commencé !_
-
-# Résumé détaillé
-
+- Nous suivons **un étudiant ambitieux qui se rêve écrivain de romans étranges**. Il cherche pour cela des connaissances interdites, et commence à correspondre avec des penseurs et des rêveurs.
+- Un « rêveur mystique » de Nouvelle-Angleterre lui parle de tomes tels que le _Necronomicon_ et le _Livre d'Eibon_. Il contacte des bibliothèques, universités, et praticiens occultes pour obtenir ces ouvrages. Il ne rencontre qu'hostilités et menaces.
+- Dans une vieille boutique de South Dearborn Street (Chicago), **il finit par obtenir _De Vermis Mysteriis_**, dont il sait qu'il a été écrit par un sorcier belge du nom de Ludvig Prinn, brûlé sur le bûcher pendant les procès en sorcellerie^[Il avait mené des expériences occultes, mais toutes les traces avaient disparues dans une tombe retrouvée vidée…].
