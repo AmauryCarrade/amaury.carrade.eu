@@ -11,7 +11,11 @@ published: true
 ---
 
 [[a]]
-| Cette page résume [l'_Horrifique Histoire_ diffusée en live actuellement](https://www.twitch.tv/vchabrette). Le résumé est écrit au fur et à mesure : pas de risque de spoil ! Pour avoir une version à jour, actualisez la page.
+| Cette page résume [l'_Horrifique Histoire_ diffusée sur Twitch le dimanche 11 juin 2023 par VChabrette](https://www.twitch.tv/videos/1843840499?t=01h12m32s), initialement en temps réel pendant le stream.
+|
+| **Attention, si vous voulez écouter la rediffusion ou lire l'œuvre, cette page vous divulgâche toute l'histoire !**
+
+**TW : mort, sang.**
 
 *[TW]: Trigger Warning
 
