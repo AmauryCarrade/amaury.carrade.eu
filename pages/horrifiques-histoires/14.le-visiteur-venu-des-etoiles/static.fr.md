@@ -17,7 +17,7 @@ published: true
 
 # En bref
 
-
+_On a à peine commencé !_
 
 # Résumé détaillé
 
