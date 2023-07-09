@@ -1,16 +1,20 @@
 ---
 title: 'Petits Soldats'
-abstract: 'Résumé court et détaillé du Maître des Crabes, de Clark Ashton Smith !'
+abstract: 'Résumé court et détaillé de Petits Soldats de Stephen King !'
 homepage:
     invite: 'Stephen King'
 admin:
     children_display_order: default
-publish_date: '05-02-2023 23:00'
-date: '05-02-2023 23:00'
+publish_date: '09-07-2023 23:00'
+date: '09-07-2023 23:00'
 ---
 
 [[a]]
-| Cette page résume [l'_Horrifique Histoire_ diffusée en live actuellement](https://www.twitch.tv/vchabrette). Le résumé est écrit au fur et à mesure : pas de risque de spoil ! Pour avoir une version à jour, actualisez la page.
+| Cette page résume [l'_Horrifique Histoire_ diffusée par Vincent Chabrette le 9 juillet 2023](https://www.twitch.tv/videos/1867694125?t=01h50m01s).
+|
+| **Si vous souhaitez écouter la rediffusion ou lire la nouvelle, ne lisez pas ce qui suit, toute l'histoire vous y est divulgâchée !**
+
+**TW : meurtre, armes, sang, mort.**
 
 *[TW]: Trigger Warning
 
@@ -20,4 +24,4 @@ date: '05-02-2023 23:00'
 - Il reçoit un papier, avec inscrit « RENDS-TOI ». Il répond : « DES CLOUS ! ». L'attaque reprend de plus belle. Il tente de fuir par la lucarne de sa salle de bain, mais est au 40^ème^ étage. Il les prend à revers par la corniche.
 - Arrivant à son balcon, caché par un rideau, il prépare un cocktail Molotov pour attaquer les quelques soldats restés dans le séjour^[Les autres assiégeant la salle de bain. Il a pour projet de nettoyer le séjour puis de fuir vers Miami pour retrouver l'expéditeur.]. L'hélicoptère l'attaqua instantanément.
 - Il jette sur eux un cocktail Molotov et court vers la porte d'entrée pour s'enfuir mais une énorme explosion retentit alors. Renshaw ne s'en rendra même pas compte, tué sur le coup ; son appartement est détruit.
-- Un bout de papier atterrit dans la rue et révèle que la boîte contenait également une mini-bombe atomique.
+- Un bout de papier atterrit dans la rue à côté du t-shirt de John et révèle que la boîte contenait, également, une mini bombe atomique. _Une promotion à durée limitée !_
