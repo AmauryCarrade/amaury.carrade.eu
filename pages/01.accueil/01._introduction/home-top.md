@@ -1,5 +1,5 @@
 ---
-title: 'Éducation. Techniques. Accessibilité.'
+title: '✌️ En science ou tech, parlez à toutes et tous'
 body_classes: modular
 license: by-sa
 associations:
@@ -71,8 +71,6 @@ home_bottom_links:
                 page: /accueil
 ---
 
-Engagé dans l'éducation, la formation et la vulgarisation… ainsi que le développement informatique et l'accessibilité.
+Salut, c'est Amaury ! Je vous aide à communiquer avec tout le monde, quelque soit leur niveau (éducation, formation, médiation scientifique) ou leurs handicaps visibles ou invisibles (accessibilité numérique).
 
-Et quand il me reste un peu de temps libre, je crée des jeux.
-
-~_Ce site est neuf, la peinture est encore fraîche ! Et il manque une section ci-dessous._~
+_Et quand il me reste un peu de temps libre, je créé ou anime des jeux._
