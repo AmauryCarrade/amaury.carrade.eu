@@ -14,7 +14,7 @@ published: true
 | Cette page résume [l'_Horrifique Histoire_ diffusée en live actuellement](https://www.twitch.tv/vchabrette). Le résumé est écrit au fur et à mesure : pas de risque de spoil ! Pour avoir une version à jour, actualisez la page.
 
 [[i]]
-| Je ne suis pas, cette semaine, en mesure d'assurer le résumé au fil du live, mais voici quand même un résumé général des épisodes précédents.
+| Je ne suis pas, cette semaine, en mesure d'assurer le résumé au fil du live, mais voici quand même un résumé général des épisodes précédents. Cette page est ponctuellement mise à jour au fil du live malgré tout, grâce à Rosalyre (merci !).
 
 *[TW]: Trigger Warning
 
@@ -24,4 +24,4 @@ Carter se résigne à aller à Kadath, la demeure des dieux, pour les implorer e
 
 ---
 
-On retrouve Carter dans un navire au large, reprenant connaissance après l'avoir perdue suite à un breuvage.
+Dans le monde des Rêves, Carter se réveille à bord d'un étrange navire après avoir été drogué par un marchand qu'il tentait de saouler pour obtenir plus d'informations sur Kadath, la demeure des dieux. Il souhaite s'y rendre dans le but d'implorer les dieux de lui révéler les alentours d'une ville fantastique dont il a rêvé par trois fois avant d'être brutalement réveillé.
