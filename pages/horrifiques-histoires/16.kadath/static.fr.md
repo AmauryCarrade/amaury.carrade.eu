@@ -30,18 +30,20 @@ _**Dans les diffusions précédentes  —** Carter rêve par trois fois d’une
 | 
 | Il embarque alors sur un navire marchand pour Oriabe. Au bout de trois jours de voyage, ils passent au-dessus d’une ville engloutie, qui rend nerveux les marins. Arrivé à bon port, il séjourne un moment pour collecter des informations sur sa prochaine destination, l'ascension du N'gareck. Après avoir fait le tour des informations disponible, il decide de partir avec un zèbre. Après la première nuit, il retrouve son zèbre mort. Il poursuit son chemin pour tomber sur une grotte débouchant sur un escalier descendant dans les ténèbres.
 
-Alors qu'il passe la nuit sur une falaise à proximité d'une immense roche sculptée suivant les traits d'un Dieu par les Dieux, il est cerné par d'immenses créatures qui l'emportent vers _« l'ultime Maelström de la folie démoniaque… »_
+Alors qu'il passe la nuit sur une falaise à proximité d'une immense roche sculptée suivant les traits d'un Dieu par les Dieux, Carter est enlevé dans la vallée des Pnoth[^pnoth], demeure des Dolls[^dolls], mais il est sauvé par les vampires de l'éveil, car une sorte de pacte les liait[^vampire].
 
-Carter est abandonné dans une noire vallée, où ne régnait que nuit, silence, et os : la vallée de Pnoth, demeure des Dolls^[Des créatures méconnues et hostiles rampant dans les ténèbres.]. Une lueur d'espoir le traverse alors qu'il réalise qu'il s'agit d'un repère des vampires de l'éveil, et qu'il pourra peut-être atteindre l'énorme rocher frontière de leur domaine, et leur demander de l'aide, car une sorte de pacte les liait[^vampire].
+[^pnoth]: Une une noire vallée, où ne régnait que nuit, silence, et ossements. _« L'ultime Maelström de la folie démoniaque… »_
 
-[^vampire]: Un peintre ami, possédant un atelier près d'un cimetière de Boston, s'était lié d'amitié avec les vampires, qui lui avaient appris un borgborisme — un appel aux vampires. Carter espère pouvoir l'utiliser pour convaincre un vampire de l'aider.
+[^dolls]: Des créatures méconnues et hostiles rampant dans les ténèbres.
 
-Alors qu'il s'approche du rocher, il tente un cri d'appel aux vampires au milieu des amas d'ossements. Les os bruissent. De plus en plus près…
+[^vampire]: Un peintre ami, possédant un atelier près d'un cimetière de Boston, s'était lié d'amitié avec les vampires, qui lui avaient appris un borgborisme — un appel aux vampires. Carter espère pouvoir l'utiliser pour convaincre un vampire de l'aider. Et ça marche, bien que de justesse, les créatures de la vallée ayant tenté de l'attaquer et Carter s'étant échappé _in extremis_ via une échelle lancée par les vampires.
 
-D'un coup, un choc le fait se retourner : c'était l'échelle, sur laquelle il se précipite. Le bruit continue. Une chose visqueuse, un Doll, s'attaque à l'échelle alors qu'il grimpait pendant des heures sans ralentir, fuyant… pour finalement arriver sauf en haut du rocher.
+Quelques heures plus tard, il rencontre un vampire. Il apprend que l'ami l'ayant introduit aux vampires, Richard Pickman, en est devenu un ; il va le voir. Pickman décide de l'aider dans sa quête vers la cité des Gughs, de le guider et de lui prêter trois vampires — les Gughs en ont peur. Carter se déguise en vampire pour la même raison.
 
-Quelques heures plus tard, en haut de l'échelle, il rencontre un vampire. Il apprend que l'ami l'ayant introduit aux vampires, Richard Pickman, en est devenu un ; il va le voir. Pickman décide de l'aider dans sa quête vers la cité des Gughs, de le guider et de lui prêter trois vampires — les Gughs en ont peur. Carter se déguise en vampire pour la même raison.
+Arrivant dans la cité des Gughs, ils passent à ça de se faire attaquer[^attaque], mais en réchappent. Les distances sont énormes dans cette ville pensée pour des géants. Ils finissent par tomber sur une grande tour, lieu clef mais plein de dangers.
 
-Carter rampe dans les terriers sans fin accompagné des vampires, jusqu'à arriver dans une forêt de monolithes — les pierres tombales des Gughs. Des carrières de Zihn, repère des Gugs à proximité, se montrent une, deux, puis trois paires d'yeux rouges et jaunes. Le groupe se fait discret.
+[^attaque]: Carter rampe dans les terriers sans fin accompagné des vampires, jusqu'à arriver dans une forêt de monolithes — les pierres tombales des Gughs, vers l'entrée de la Cité des Gughs. Des carrières de Zihn, repère des Gugs à proximité, se montrent une, deux, puis trois paires d'yeux rouges et jaunes. Le groupe se fait discret… Cela ne suffit pas. D'immenses créatures en sortent, suivies d'une encore plus immense, patte par patte, velue, aux yeux roses, et à la bouche verticale pleine de grandes dents jaunes. Un Gugh. Alors qu'une bataille éclate, le groupe se fait tout petit, ne reprenant qu'au sommeil des Gughs avec la plus grande des prudences.
 
-…Cela ne suffit pas. D'immenses créatures en sortent, suivies d'une encore plus immense, patte par patte, velue, aux yeux roses, et à la bouche verticale pleine de grandes dents jaunes. Un Gugh.
+Ils tentent, très péniblement, de soulever l'immense chausse-trappe pour ménager une ouverture vers le bois enchanté à l'extérieur. Ils réussissent _in-extremis_.
+
+Ils décident de continuer par la porte de l'abyme de Sarkomande, malgré l'inconnu et le danger l'entourant. Carter et les vampires se séparent, ces derniers rejoignant celui qui fut Richard Pickman.
