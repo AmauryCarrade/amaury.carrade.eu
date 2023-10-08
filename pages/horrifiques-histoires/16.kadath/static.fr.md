@@ -40,4 +40,8 @@ Alors qu'il s'approche du rocher, il tente un cri d'appel aux vampires au milieu
 
 D'un coup, un choc le fait se retourner : c'était l'échelle, sur laquelle il se précipite. Le bruit continue. Une chose visqueuse, un Doll, s'attaque à l'échelle alors qu'il grimpait pendant des heures sans ralentir, fuyant… pour finalement arriver sauf en haut du rocher.
 
-Quelques heures plus tard, en haut de l'échelle, il rencontre un vampire. Il apprend que l'ami l'ayant introduit aux vampires, Richard Pickman, en est devenu un ; il va le voir.
+Quelques heures plus tard, en haut de l'échelle, il rencontre un vampire. Il apprend que l'ami l'ayant introduit aux vampires, Richard Pickman, en est devenu un ; il va le voir. Pickman décide de l'aider dans sa quête vers la cité des Gugs, de le guider et de lui prêter trois vampires — les Gugs en ont peur. Carter se déguise en vampire pour la même raison.
+
+Carter rampe dans les terriers sans fin accompagné des vampires, jusqu'à arriver dans une forêt de monolithes — les pierres tombales des Gugs. Des carrières de Zihn, repère des Gugs à proximité, se montrent une, deux, puis trois paires d'yeux rouges et jaunes. Le groupe se fait discret.
+
+…Cela ne suffit pas. D'immenses créatures en sortent, suivies d'une encore plus immense, patte par patte, velue, aux yeux roses, et à la bouche verticale pleine de grandes dents jaunes.
