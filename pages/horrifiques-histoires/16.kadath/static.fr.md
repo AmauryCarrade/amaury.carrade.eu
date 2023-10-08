@@ -32,4 +32,12 @@ _**Dans les diffusions précédentes  —** Carter rêve par trois fois d’une
 
 Alors qu'il passe la nuit sur une falaise à proximité d'une immense roche sculptée suivant les traits d'un Dieu par les Dieux, il est cerné par d'immenses créatures qui l'emportent vers _« l'ultime Maelström de la folie démoniaque… »_
 
-Carter est abandonné dans une noire vallée, où ne régnait que nuit, silence, et os : la vallée de Pnoth, demeure des Dolls, créatures méconnues et hostiles rampant dans les ténèbres. Une lueur d'espoir le traverse alors qu'il réalise qu'il s'agit d'un repère des vampires de l'éveil, et qu'il pourra peut-être atteindre l'énorme rocher frontière de leur domaine, et leur demander de l'aide, car un pacte les liait.
+Carter est abandonné dans une noire vallée, où ne régnait que nuit, silence, et os : la vallée de Pnoth, demeure des Dolls^[Des créatures méconnues et hostiles rampant dans les ténèbres.]. Une lueur d'espoir le traverse alors qu'il réalise qu'il s'agit d'un repère des vampires de l'éveil, et qu'il pourra peut-être atteindre l'énorme rocher frontière de leur domaine, et leur demander de l'aide, car une sorte de pacte les liait[^vampire].
+
+[^vampire]: Un peintre ami, possédant un atelier près d'un cimetière de Boston, s'était lié d'amitié avec les vampires, qui lui avaient appris un borgborisme — un appel aux vampires. Carter espère pouvoir l'utiliser pour convaincre un vampire de l'aider.
+
+Alors qu'il s'approche du rocher, il tente un cri d'appel aux vampires au milieu des amas d'ossements. Les os bruissent. De plus en plus près…
+
+D'un coup, un choc le fait se retourner : c'était l'échelle, sur laquelle il se précipite. Le bruit continue. Une chose visqueuse, un Doll, s'attaque à l'échelle alors qu'il grimpait pendant des heures sans ralentir, fuyant… pour finalement arriver sauf en haut du rocher.
+
+Quelques heures plus tard, en haut de l'échelle, il rencontre un vampire. Il apprend que l'ami l'ayant introduit aux vampires, Richard Pickman, en est devenu un ; il va le voir.
