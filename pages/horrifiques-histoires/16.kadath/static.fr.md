@@ -15,6 +15,8 @@ published: true
 
 *[TW]: Trigger Warning
 
+_**Dans les diffusions précédentes  —** Carter rêve par trois fois d’une majestueuse cité au coucher de soleil, mais chaque fois il est brutalement arraché du rêve avant d’en voir plus. Il se résigne à aller à Kadath, la demeure des dieux, pour les implorer en personne. Nous suivons sa quête dans ses rêves vers Kadath…_
+
 [[s|Résumé du 24 septembre (par Vincent Chabrette)]]
 | Randolph Carter rêve par trois fois d’une majestueuse cité au coucher de soleil, mais chaque fois il est brutalement arraché du rêve avant d’en voir plus. Aussi prie-t-il les dieux du rêve de lui révéler des alentours de cette ville fantastique. Non seulement ceux-ci ne répondent pas, mais les rêves de la cité disparaissent en même temps.
 | 
@@ -27,3 +29,9 @@ published: true
 | Arrivé à destination, Carter est “escorté” par des êtres à l'apparence grotesque reptilienne à travers un paysage angoissant, qui s'avère être la face cachée de la Lune vers l'antre de Nyarlathotep. Le cortège est alors attaqué par des chats^[Oui.], venus libérer Carter et le ramener à Dilatline pour qu'il reprenne le cours de son voyage.
 | 
 | Il embarque alors sur un navire marchand pour Oriabe. Au bout de trois jours de voyage, ils passent au-dessus d’une ville engloutie, qui rend nerveux les marins. Arrivé à bon port, il séjourne un moment pour collecter des informations sur sa prochaine destination, l'ascension du N'gareck. Après avoir fait le tour des informations disponible, il decide de partir avec un zèbre. Après la première nuit, il retrouve son zèbre mort. Il poursuit son chemin pour tomber sur une grotte débouchant sur un escalier descendant dans les ténèbres.
+
+Il tombe sur une roche rouge, sculptée suivant les traits d'un Dieu. Carter comprend que ce n'est pas l'œuvre d'un homme… mais d'un Dieu. Il comprend qu'il s'agit peut-être des Dieux qu'il cherche.
+
+Alors qu'il passait la nuit sur une falaise dans une caverne, il sent qu'on lui retire quelque chose de la ceinture… et aperçoit l'ombre d'une créature aux ailes de chauve-souris. Une minute plus tard, il est totalement cerné et les _bêtes de la nuit_ l'emportent vers l'ultime Maelström de la folie démoniaque…
+
+Carter est abandonné dans une noire vallée, où ne régnait que nuit, silence, et os : la vallée de Pnoth, demeure des Dolls, créatures méconnues et hostiles rampant dans les ténèbres. Une lueur d'espoir le traverse alors qu'il réalise qu'il s'agit d'un repère des vampires de l'éveil, et qu'il pourra peut-être sortir de leur territoire.
