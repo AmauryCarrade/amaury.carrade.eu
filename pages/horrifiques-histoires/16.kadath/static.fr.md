@@ -30,8 +30,6 @@ _**Dans les diffusions précédentes  —** Carter rêve par trois fois d’une
 | 
 | Il embarque alors sur un navire marchand pour Oriabe. Au bout de trois jours de voyage, ils passent au-dessus d’une ville engloutie, qui rend nerveux les marins. Arrivé à bon port, il séjourne un moment pour collecter des informations sur sa prochaine destination, l'ascension du N'gareck. Après avoir fait le tour des informations disponible, il decide de partir avec un zèbre. Après la première nuit, il retrouve son zèbre mort. Il poursuit son chemin pour tomber sur une grotte débouchant sur un escalier descendant dans les ténèbres.
 
-Il tombe sur une roche rouge, sculptée suivant les traits d'un Dieu. Carter comprend que ce n'est pas l'œuvre d'un homme… mais d'un Dieu. Il comprend qu'il s'agit peut-être des Dieux qu'il cherche.
+Alors qu'il passe la nuit sur une falaise à proximité d'une immense roche sculptée suivant les traits d'un Dieu par les Dieux, il est cerné par d'immenses créatures qui l'emportent vers _« l'ultime Maelström de la folie démoniaque… »_
 
-Alors qu'il passait la nuit sur une falaise dans une caverne, il sent qu'on lui retire quelque chose de la ceinture… et aperçoit l'ombre d'une créature aux ailes de chauve-souris. Une minute plus tard, il est totalement cerné et les _bêtes de la nuit_ l'emportent vers l'ultime Maelström de la folie démoniaque…
-
-Carter est abandonné dans une noire vallée, où ne régnait que nuit, silence, et os : la vallée de Pnoth, demeure des Dolls, créatures méconnues et hostiles rampant dans les ténèbres. Une lueur d'espoir le traverse alors qu'il réalise qu'il s'agit d'un repère des vampires de l'éveil, et qu'il pourra peut-être sortir de leur territoire.
+Carter est abandonné dans une noire vallée, où ne régnait que nuit, silence, et os : la vallée de Pnoth, demeure des Dolls, créatures méconnues et hostiles rampant dans les ténèbres. Une lueur d'espoir le traverse alors qu'il réalise qu'il s'agit d'un repère des vampires de l'éveil, et qu'il pourra peut-être atteindre l'énorme rocher frontière de leur domaine, et leur demander de l'aide, car un pacte les liait.
