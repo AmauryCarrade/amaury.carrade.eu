@@ -15,7 +15,7 @@ published: true
 
 *[TW]: Trigger Warning
 
-_**Dans les diffusions précédentes  —** Carter rêve par trois fois d’une majestueuse cité au coucher de soleil, mais chaque fois il est brutalement arraché du rêve avant d’en voir plus. Il se résigne à aller à Kadath, la demeure des dieux, pour les implorer en personne. Nous suivons sa quête dans ses rêves vers Kadath…_
+_**RÉSUMÉ GÉNÉRAL  —** Carter rêve par trois fois d’une majestueuse cité au coucher de soleil, mais chaque fois il est brutalement arraché du rêve avant d’en voir plus. Il se résigne à aller à Kadath, la demeure des dieux, pour les implorer en personne. Nous suivons sa quête dans ses rêves vers Kadath…_
 
 [[s|Résumé du 24 septembre (par Vincent Chabrette)]]
 | Randolph Carter rêve par trois fois d’une majestueuse cité au coucher de soleil, mais chaque fois il est brutalement arraché du rêve avant d’en voir plus. Aussi prie-t-il les dieux du rêve de lui révéler des alentours de cette ville fantastique. Non seulement ceux-ci ne répondent pas, mais les rêves de la cité disparaissent en même temps.
@@ -46,4 +46,8 @@ Arrivant dans la cité des Gughs, ils passent à ça de se faire attaquer[^attaq
 
 Ils tentent, très péniblement, de soulever l'immense chausse-trappe pour ménager une ouverture vers le bois enchanté à l'extérieur. Ils réussissent _in-extremis_.
 
-Ils décident de continuer par la porte de l'abyme de Sarkomande, malgré l'inconnu et le danger l'entourant. Carter et les vampires se séparent, ces derniers rejoignant celui qui fut Richard Pickman.
+Ils décident de continuer par la porte de l'abyme de Sarkomande, malgré l'inconnu et le danger l'entourant. Carter et les vampires se séparent, ces derniers rejoignant celui qui fut Richard Pickman. Carter, resté seul, s'interroge sur le devenir des zèbres, et autres questionnements…
+
+En marchant, il surprend dans un arbre une assemblée des Zougs, discutant d'une guerre contre les chats…
+
+_L'histoire n'est pas terminée. Revenez les prochaines semaines, le dimanche soir vers 23h [sur la chaîne Twitch de Vincent Chabrette](https://twitch.tv/vchabrette)._
