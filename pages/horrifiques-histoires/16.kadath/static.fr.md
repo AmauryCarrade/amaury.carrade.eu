@@ -48,6 +48,8 @@ Ils tentent, très péniblement, de soulever l'immense chausse-trappe pour ména
 
 Ils décident de continuer par la porte de l'abyme de Sarkomande, malgré l'inconnu et le danger l'entourant. Carter et les vampires se séparent, ces derniers rejoignant celui qui fut Richard Pickman. Carter, resté seul, s'interroge entre autres sur le devenir des zèbres.
 
-En marchant, il surprend dans un arbre une assemblée des Zougs, préparant une guerre contre les chats…
+En marchant, il surprend dans un arbre une assemblée des Zougs, préparant une guerre contre les chats…[^chats]
+
+[^chats]: Pour rappel, ces derniers avaient attaqué leur cortège pour libérer Carter prisonnier  — car ce dernier est très proche des chats dans le monde éveillé.
 
 _L'histoire n'est pas terminée. Revenez les prochaines semaines, le dimanche soir vers 23h, [sur la chaîne Twitch de Vincent Chabrette](https://twitch.tv/vchabrette)._
