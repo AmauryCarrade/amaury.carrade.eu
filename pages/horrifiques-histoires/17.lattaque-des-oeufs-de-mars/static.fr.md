@@ -1,7 +1,7 @@
 ---
 title: 'L’attaque des œufs de Mars'
 homepage:
-    invite: "R. L. Stine\_\_·\_\_Tiré de Chair de Poule"
+    invite: "R. L. Stine\_\_·\_\_Collection Chair de poule"
 ---
 
 [[a]]
@@ -9,11 +9,11 @@ homepage:
 
 *[TW]: Trigger Warning
 
-**RÉSUMÉ RAPIDE  —** Pour son dixième anniversaire, Cyndie demande une chasse aux œufs à ses parents. Peu après le début de la chasse, une bataille d'œuf éclate parmi les enfants. Cliff (narrateur) s'apprête à lancer un œuf quand il réalise qu'il est beaucoup trop gros, vert, bizarre, avec des veines violettes… qu'il sent *battre*, et qui semble conscient de sa situation. Il rentre dans sa chambre, rejoint peu après par Anne, pour l'étudier.
+**RÉSUMÉ RAPIDE  —** Pour son dixième anniversaire, Cyndie demande une chasse aux œufs à ses parents. Peu après le début de la chasse, une bataille d'œuf éclate parmi les enfants. Cliff, son frère (narrateur), s'apprête à lancer un œuf quand il réalise qu'il est beaucoup trop gros, vert, bizarre, avec des veines violettes… qu'il sent *battre*, et qui semble conscient de sa situation. Il rentre dans sa chambre, rejoint peu après par Anne, pour l'étudier.
 
 ## Personnages
 
-- **Cyndie** (10 ans), petite fille gâtée, à qui personne ne dit non car elle est trop mignonne
+- **Cyndie** (10 ans), petite fille gâtée, à qui personne ne dit non car elle est trop mignonne.
 - **Cliff** (12 ans, narrateur), passionné de sciences, a des tarentules, des fourmis et un microscope. Il veut être chercheur.
 - **Anne** (12 ans), amie de Cliff, sa compagne de “recherches scientifiques”, et aussi sa voisine.
 - **Les sœurs coiffeuses** (enfants, env. 12 ans), camarades de Cyndie, appelées ainsi par Cliff car elles se coiffent tout le temps après l'école.
@@ -32,4 +32,6 @@ La bataille continue mais Cliff est totalement absorbé par son œuf, dont il se
 
 Il s'enferme à double tours dans sa chambre et pose l'œuf sur son lit.
 
-La bataille et la chasse se finissent, Cyndie râle auprès de ses parents car si les œufs avaient été cuits rien ne se serait passé. Anne rejoint Cliff pour étudier l'œuf.
+La bataille et la chasse se finissent, Cyndie râle auprès de ses parents car si les œufs avaient été cuits rien ne se serait passé. Anne rejoint Cliff pour étudier l'œuf. L'affaire cause une crise familiale, ça chauffe, la mère ne veut plus voir d'œuf, et Anne doit partir. Elle promet de revenir le lendemain.
+
+Pendant la soirée, les grands parents viennent et des cadeaux sont offerts, alors que les enfants se plaignent discrètement des cadeaux datés. La mère raconte la journée aux grands parents.
