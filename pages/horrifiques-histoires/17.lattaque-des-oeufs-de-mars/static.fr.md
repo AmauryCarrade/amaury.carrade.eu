@@ -1,7 +1,7 @@
 ---
 title: 'L’attaque des œufs de Mars'
 homepage:
-    invite: "R. L. Stine\_\_·\_\_Collection Chair de poule"
+    invite: "Robert Lawrence Stine\_\_·\_\_Collection Chair de poule"
 ---
 
 [[a]]
@@ -11,7 +11,7 @@ homepage:
 
 **RÉSUMÉ RAPIDE  —** Cliff, son frère (narrateur), pendant une chasse à l'œuf pour les 10 ans de sa sœur Cyndie, réalise que l'un d'eux est beaucoup trop gros, vert, bizarre, avec des veines violettes… qu'il sent *battre*, et qui semble conscient de sa situation. Il rentre dans sa chambre, rejoint peu après par Anne, pour l'étudier.
 
-Le lendemain matin, alors que Cliff se réveille en sursaut, l'œuf est légèrement fissuré. Alors que Cliff essaie de regarder, la coquille explose et révèle deux grands yeux noirs sous une frange jaune dans une gelée tel une crème à la vanille. La boule sort de l'œuf.
+Le lendemain matin, alors que Cliff se réveille en sursaut, l'œuf est légèrement fissuré. Alors que Cliff essaie de regarder, la coquille explose et révèle deux grands yeux noirs sous une frange jaune dans une gelée tel une crème à la vanille. Anne vient le rejoindre, ils montrent la créature à un scientifique, qui semble la reconnaître : “_Alors, vous l'avez retrouvé…_”
 
 ## Personnages
 
@@ -41,3 +41,10 @@ Pendant la soirée, les grands parents viennent et des cadeaux sont offerts, alo
 En rentrant, Cliff va vers sa chambre et entend un bruit : des battements de cœur. Après une grande hésitation et l'envie de laisser un message au cas où il meurt, il rentre finalement, pour constater que l'œuf est toujours là, mais plus chaud, et battant plus fort.
 
 Il va se coucher malgré tout et rêve d'un bateau qui l'embarque et qui coule, mais dont le moteur tourne toujours sous l'eau. Il se réveille en sursaut. L'œuf est légèrement fissuré. Cliff veut le décrire précisément, et le regarde de près, mais tout d'un coup, la coquille s'ouvre d'un coup ! Elle révèle une créature gélatineuse avec des yeux noirs et une frange jaune.
+
+Il court chez ses parents mais ils sont partis. La créature le suit et le mord à la jambe. (En fait c'est le chien.) Anne rejoint Cliff et ils décident de montrer la créature à un scientifique. Le professeur regarde la bestiole dans le tiroir et ne semble pas à l'aise.
+
+> Alors, vous l'avez retrouvé…
+Source: …murmura le scientifique, avant de les enfermer hors de la chambre.
+
+Le scientifique demande où l'œuf a été trouvé, et si d'autres enfants l'ont vu (non).
