@@ -9,17 +9,27 @@ homepage:
 
 *[TW]: Trigger Warning
 
-**RÉSUMÉ RAPIDE  —** Pour son dixième anniversaire, Cyndie demande une chasse aux œufs à ses parents. Le ou la gagnant·e gagne une poupée.
+**RÉSUMÉ RAPIDE  —** Pour son dixième anniversaire, Cyndie demande une chasse aux œufs à ses parents. Peu après le début de la chasse, une bataille d'œuf éclate parmi les enfants. Cliff (narrateur) s'apprête à lancer un œuf quand il réalise qu'il est beaucoup trop gros, vert, bizarre, avec des veines violettes… qu'il sent *battre*, et qui semble conscient de sa situation. Il rentre dans sa chambre, rejoint peu après par Anne, pour l'étudier.
 
 ## Personnages
 
 - **Cyndie** (10 ans), petite fille gâtée, à qui personne ne dit non car elle est trop mignonne
 - **Cliff** (12 ans, narrateur), passionné de sciences, a des tarentules, des fourmis et un microscope. Il veut être chercheur.
 - **Anne** (12 ans), amie de Cliff, sa compagne de “recherches scientifiques”, et aussi sa voisine.
-- **Les sœurs coiffeuses** (enfants, env. 12 ans), camarades de Cyndie.
+- **Les sœurs coiffeuses** (enfants, env. 12 ans), camarades de Cyndie, appelées ainsi par Cliff car elles se coiffent tout le temps après l'école.
 
 ## Résumé
 
 Pour son dixième anniversaire, Cyndie demande une chasse aux œufs à ses parents, qui acceptent. Des camarades de classe de Cyndie et Anne sont invitées. Une poupée est offerte à celui ou celle qui récupère le plus grand nombre d'œufs, ce qui déçoit les garçons.
 
 La chasse est filmée par le père de Cyndie & Cliff, qui adore filmer tout ce qu'il peut.
+
+Au début de la course, Anne parie $5 à Cliff qu'elle trouverait plus d'œufs. _Pari tenu !_ La course est lancée, tout le monde court partout, et Cliff commence une stratégie d'exploration pour gagner le pari. L'une des sœurs coiffeuses avait crié et semblait blessée. Cliff accourt pour l'aider, avant de réaliser que ce qu'il prenait pour du sang gluant était… de l'œuf pas cuit !
+
+Suite à cet événement, car les parents n'avaient pas eu le temps de cuire les œufs, un des enfants lance un œuf sur un mur et propose une bataille d'œufs. Ça dégénère très vite, ça fuse. Quand tout d'un coup, alors que Cliff s'apprête à lancer un œuf, il se rend compte qu'il est… beaucoup trop gros… vert… étrange… avec des veines violettes…
+
+La bataille continue mais Cliff est totalement absorbé par son œuf, dont il sent soudainement les veines… battre. Régulièrement. _Mais, mais… il est vivant !_ Il veut le montrer à Anne mais cette dernière le lance comme un projectile, Cliff arrive à le rattraper in extremis et court vers la maison.
+
+Il s'enferme à double tours dans sa chambre et pose l'œuf sur son lit.
+
+La bataille et la chasse se finissent, Cyndie râle auprès de ses parents car si les œufs avaient été cuits rien ne se serait passé. Anne rejoint Cliff pour étudier l'œuf.
