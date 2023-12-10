@@ -11,7 +11,9 @@ homepage:
 
 **RÉSUMÉ RAPIDE  —** Cliff, son frère (narrateur), pendant une chasse à l'œuf pour les 10 ans de sa sœur Cyndie, réalise que l'un d'eux est beaucoup trop gros, vert, bizarre, avec des veines violettes… qu'il sent *battre*, et qui semble conscient de sa situation. Il rentre dans sa chambre, rejoint peu après par Anne, pour l'étudier.
 
-Le lendemain matin, alors que Cliff se réveille en sursaut, l'œuf est légèrement fissuré. Alors que Cliff essaie de regarder, la coquille explose et révèle deux grands yeux noirs sous une frange jaune dans une gelée tel une crème à la vanille. Anne vient le rejoindre, ils montrent la créature à un scientifique, qui semble la reconnaître : “_Alors, vous l'avez retrouvé…_”
+Le lendemain matin, alors que Cliff se réveille en sursaut, l'œuf est légèrement fissuré. Alors que Cliff essaie de regarder, la coquille explose et révèle deux grands yeux noirs sous une frange jaune dans une gelée tel une crème à la vanille.
+
+Anne vient le rejoindre, ils montrent la créature à un scientifique, qui semble la reconnaître : “_Alors, vous l'avez retrouvé…_”. Le scientifique leur montre sa collection, avec 287 autres créatures similaires, puis leur annonce que ces créatures — les œufs de Grey, du nom du scientifique lui-même — viennent de Mars.
 
 ## Personnages
 
@@ -47,4 +49,14 @@ Il court chez ses parents mais ils sont partis. La créature le suit et le mord 
 > Alors, vous l'avez retrouvé…
 Source: …murmura le scientifique, avant de les enfermer hors de la chambre.
 
-Le scientifique demande où l'œuf a été trouvé, et si d'autres enfants l'ont vu (non).
+Le scientifique demande où l'œuf a été trouvé, et si d'autres enfants l'ont vu (non). Rassuré, le professeur leur montre sa collection, où l'on retrouve 287 autres créatures similaires, en précisant que la leur était la seule qui manquait pour former 24 douzaines.
+
+Le professeur leur annonce que ces êtres viennent de la planète Mars et qu'il s'agit d'Œufs de Grey, du nom de Georges Grey… ce professeur.
+
+Il les invite à le suivre pour leur montrer de plus près dans une chambre froide — car _les martiens n'aiment pas la chaleur_. Les créatures semblent toutes excitées de les voir.
+
+> Ne vous inquiétez pas, je ne sais pas trop ce que ça veut dire mais elles sont souvent comme ça !
+> 
+> Elles forment parfois des triangles ou des cercles…
+Source: Le Professeur Grey
+
