@@ -15,7 +15,7 @@ published: true
 
 *[TW]: Trigger Warning
 
-_**RÉSUMÉ GÉNÉRAL  —** Carter rêve par trois fois d’une majestueuse cité au coucher de soleil, mais est chaque fois brutalement arraché du rêve avant d’en voir plus. Il se résigne à aller à Kadath, la demeure des dieux, pour les implorer en personne. Nous suivons sa quête dans ses rêves vers Kadath…_
+**RÉSUMÉ GÉNÉRAL  —** _Carter rêve par trois fois d’une majestueuse cité au coucher de soleil, mais est chaque fois brutalement arraché du rêve avant d’en voir plus. Il se résigne à aller à Kadath, la demeure des dieux, pour les implorer en personne. Nous suivons sa quête dans ses rêves vers Kadath…_
 
 [[s|Résumé du 24 septembre (par Vincent Chabrette)]]
 | Randolph Carter rêve par trois fois d’une majestueuse cité au coucher de soleil, mais chaque fois il est brutalement arraché du rêve avant d’en voir plus. Aussi prie-t-il les dieux du rêve de lui révéler des alentours de cette ville fantastique. Non seulement ceux-ci ne répondent pas, mais les rêves de la cité disparaissent en même temps.
