@@ -9,7 +9,23 @@ homepage:
 
 *[TW]: Trigger Warning
 
-**RÉSUMÉ RAPIDE  —** Cliff (narrateur) trouve un œuf trop gros, vert, bizarre, avec des veines violettes… qu'il sent *battre*. Il l'étudie avec Anne, une amie. Le lendemain matin, l'œuf explose et révèle deux grands yeux noirs sous une frange jaune dans une gelée tel une crème à la vanille.
+## Résumé express
+
+- Cliff, 12 ans et passionné de sciences, trouve **un œuf vert avec des veines violettes qu'il sent battre**. Avec son amie Anne, ils l'étudient mais l'œuf explose et révèle une bestiole jaune gélatineuse.
+- **Ils le montrent au Professeur Grey**, qui par hasard étudie et collectionne ces créatures, les _Œufs de Mars_, venues de la planète. **Il séquestre les deux enfants**, prétextant un risque pour leur santé, en réalité pour faire des expériences sur eux.
+- **Les bestioles défendent collectivement les enfants** jusqu'à réussir à les libérer de force. Leurs parents ne les croient pas mais revenant sur place, ils voient les bestioles assemblées sous la forme d'un gigantesque œuf vert qui se révèle être un véhicule spatial, et ils s'en vont dans l'espace.
+- Après leur départ, ils retrouvent la pipe du Professeur Gray.
+
+## Personnages
+
+- **Cindy** (10 ans), petite fille gâtée, à qui personne ne dit non car elle est trop mignonne.
+- **Cliff** (12 ans, narrateur), passionné de sciences, a des tarentules, des fourmis et un microscope. Il veut être chercheur.
+- **Anne** (12 ans), amie de Cliff, sa compagne de “recherches scientifiques”, et aussi sa voisine.
+- **Professeur Georges Grey**, découvreur des Œufs de Grey et faisant passer la science avant les comités d'éthique.
+
+## Résumé
+
+Cliff (narrateur) trouve un œuf trop gros, vert, bizarre, avec des veines violettes… qu'il sent *battre*. Il l'étudie avec Anne, une amie. Le lendemain matin, l'œuf explose et révèle deux grands yeux noirs sous une frange jaune dans une gelée tel une crème à la vanille.
 
 Avec Anne, ils montrent la créature à un scientifique, qui la reconnaît, l'ajoute à sa collection de 287 autres créatures similaires — les œufs de Grey, du nom du scientifique lui-même, qui viennent de Mars — puis séquestre les enfants “de peur qu'ils aient une maladie de Mars et pour des expériences scientifiques”.
 
@@ -21,14 +37,7 @@ Ils tentent d'expliquer la situation à leurs parents qui ne les croient pas. An
 
 Les parents n'y croient pas non plus, car non témoins. Mais en observant l'endroit où avaient décollé les martiens, ils retrouvent la pipe du professeur Grey.
 
-## Personnages
-
-- **Cindy** (10 ans), petite fille gâtée, à qui personne ne dit non car elle est trop mignonne.
-- **Cliff** (12 ans, narrateur), passionné de sciences, a des tarentules, des fourmis et un microscope. Il veut être chercheur.
-- **Anne** (12 ans), amie de Cliff, sa compagne de “recherches scientifiques”, et aussi sa voisine.
-- **Professeur Georges Grey**, découvreur des Œufs de Grey et faisant passer la science avant les comités d'éthique.
-
-## Résumé intégral
+## Résumé long et détaillé
 
 Pour son dixième anniversaire, Cindy demande une chasse aux œufs à ses parents, qui acceptent.^[Des camarades de classe de Cindy et Anne sont invitées. Une poupée est offerte à celui ou celle qui récupère le plus grand nombre d'œufs, ce qui déçoit les garçons.] Un des enfants lance un œuf sur un mur et propose une bataille d'œufs. Ça dégénère très vite, ça fuse. Quand tout d'un coup, alors que Cliff s'apprête à lancer un œuf, il se rend compte qu'il est… beaucoup trop gros… vert… étrange… avec des veines violettes…
 
