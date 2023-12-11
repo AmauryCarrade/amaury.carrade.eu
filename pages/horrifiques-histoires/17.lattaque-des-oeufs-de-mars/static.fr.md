@@ -9,11 +9,11 @@ homepage:
 
 *[TW]: Trigger Warning
 
-**RÉSUMÉ RAPIDE  —** Cliff, son frère (narrateur), pendant une chasse à l'œuf pour les 10 ans de sa sœur Cyndie, réalise que l'un d'eux est beaucoup trop gros, vert, bizarre, avec des veines violettes… qu'il sent *battre*, et qui semble conscient de sa situation. Il rentre dans sa chambre, rejoint peu après par Anne, pour l'étudier.
+**RÉSUMÉ RAPIDE  —** Cliff (narrateur) trouve un œuf trop gros, vert, bizarre, avec des veines violettes… qu'il sent *battre*. Il l'étudie avec Anne, une amie. Le lendemain matin, l'œuf explose et révèle deux grands yeux noirs sous une frange jaune dans une gelée tel une crème à la vanille.
 
-Le lendemain matin, alors que Cliff se réveille en sursaut, l'œuf est légèrement fissuré. Alors que Cliff essaie de regarder, la coquille explose et révèle deux grands yeux noirs sous une frange jaune dans une gelée tel une crème à la vanille.
+Avec Anne, ils montrent la créature à un scientifique, qui la reconnaît. Le scientifique leur montre sa collection, avec 287 autres créatures similaires, puis leur annonce que ces créatures — les œufs de Grey, du nom du scientifique lui-même — viennent de Mars.
 
-Anne vient le rejoindre, ils montrent la créature à un scientifique, qui semble la reconnaître : “_Alors, vous l'avez retrouvé…_”. Le scientifique leur montre sa collection, avec 287 autres créatures similaires, puis leur annonce que ces créatures — les œufs de Grey, du nom du scientifique lui-même — viennent de Mars.
+Alors que le professeur leur montre la salle où sont entreposées les créatures, le professeur les y séquestre sans aucune explication. Quand Cliff semble être agressif avec Anne, les créatures se précipitent sur lui et il tombe sans connaissance… avant de la reprendre, totalement gelé. Anne a laissé les chaussettes de Cliff tel le petit Poucet dans l'espoir d'être retrouvés.
 
 ## Personnages
 
@@ -22,7 +22,7 @@ Anne vient le rejoindre, ils montrent la créature à un scientifique, qui sembl
 - **Anne** (12 ans), amie de Cliff, sa compagne de “recherches scientifiques”, et aussi sa voisine.
 - **Les sœurs coiffeuses** (enfants, env. 12 ans), camarades de Cyndie, appelées ainsi par Cliff car elles se coiffent tout le temps après l'école.
 
-## Résumé
+## Résumé intégral
 
 Pour son dixième anniversaire, Cyndie demande une chasse aux œufs à ses parents, qui acceptent. Des camarades de classe de Cyndie et Anne sont invitées. Une poupée est offerte à celui ou celle qui récupère le plus grand nombre d'œufs, ce qui déçoit les garçons.
 
@@ -60,3 +60,8 @@ Il les invite à le suivre pour leur montrer de plus près dans une chambre froi
 > Elles forment parfois des triangles ou des cercles…
 Source: Le Professeur Grey
 
+Soudain, alors que Cliff se demande s'ils pourraient revenir voir leur créature, le professeur leur annonce qu'ils ne repartent pas et les séquestrent. Cliff essaie de rassurer Anne (sans succès) et de frapper la porte (sans succès).
+
+Alors qu'il parle d'eux en parlant fort à Anne, Cliff est assailli par les créatures et perd connaissance. Il reprend connaissance alors qu'il est en train de geler vivant… Les créatures semblent avoir défendu Anne.
+
+Anne détruit le discours sexiste de Cliff et lui explique qu'elle a anticipé et laissé des chaussettes tel le petit poucet pour qu'on puisse les retrouver, les parents ayant l'adresse du scientifique dans un mot laissé en partant.
