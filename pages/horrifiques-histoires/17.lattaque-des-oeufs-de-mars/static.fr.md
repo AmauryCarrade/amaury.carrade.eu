@@ -17,7 +17,9 @@ Quand Cliff semble être agressif avec Anne, les créatures se précipitent sur 
 
 Alors que les deux enfants tombent de fatigue, les bestioles fusionnent en un seul tapis jaune et leur glissent dessus, afin de leur faire une couverture chaude, ce qui provoque l'ire du professeur, affirmant que le contact ruinait les expériences. En retour les créatures se mettent en colère contre le professeur… et d'autant plus quand il annonçait rendre les expériences encore plus douloureuses. Dans la bataille, le professeur laisse échapper la télécommande pour ouvrir la porte et les enfants s'échappent, alors que le professeur git sous la couche gélatineuse des créatures.
 
-Ils tentent d'expliquer la situation à leurs parents qui ne les croient pas. Anne tente d'expliquer leur point de vue pour les convaincre. Ils vont au labo pour le découvrir vide, en ordre, sans professeur ni créatures jaunes. Sauf… à la fenêtre, où ils retrouvent toutes les bestioles agglutinées… en forme de l'œuf trouvé par Cliff…
+Ils tentent d'expliquer la situation à leurs parents qui ne les croient pas. Anne tente d'expliquer leur point de vue pour les convaincre. Ils vont au labo pour le découvrir vide, en ordre, sans professeur ni créatures jaunes. Sauf… à la fenêtre, où ils retrouvent toutes les bestioles agglutinées… en forme de l'œuf trouvé par Cliff… avant de partir dans l'espace, dans ce qui était en fait leur véhicule.
+
+Les parents n'y croient pas non plus, car non témoins. Mais en observant l'endroit où avaient décollé les martiens, ils retrouvent la pipe du professeur Grey.
 
 ## Personnages
 
@@ -78,4 +80,10 @@ Ils ouvrent la porte en appuyant sur la touche verte, et sortent dehors alors qu
 
 Alors qu'ils retrouvent la liberté, Cliff saute au coup d'Anne, qui rougit.
 
-En arrivant chez leurs parents, ils ne les croient pas et tentent de les envoyer au lit. Anne essaye de les convaincre en leur expliquant leur point de vue pour leur prouver la véracité de leurs propos, en mentionnant la chaussette et Cindy. Ça fonctionne, ils vont voir, et découvrent… un labo vide, en ordre, sans professeur ni créatures jaunes. Sauf…
+En arrivant chez leurs parents, ils ne les croient pas et tentent de les envoyer au lit. Anne essaye de les convaincre en leur expliquant leur point de vue pour leur prouver la véracité de leurs propos, en mentionnant la chaussette et Cindy. Ça fonctionne, ils vont voir, et découvrent… un labo vide, en ordre, sans professeur ni créatures jaunes. Sauf… à la fenêtre où il vit toutes les créatures assemblées en une forme d'œuf verte tel l'œuf trouvé par Cliff.
+
+Cet œuf était en fait leur véhicule de voyage, et les créatures s'en vont dans l'espace 🚀 .
+
+Leur parents n'ont jamais vu ça et ne le croient pas, mais cette fois Cindy est dans la confidence.
+
+En observant l'endroit où avaient décollé les martiens, ils retrouvent la pipe du professeur Grey.
