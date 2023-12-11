@@ -13,27 +13,20 @@ homepage:
 
 Avec Anne, ils montrent la créature à un scientifique, qui la reconnaît, l'ajoute à sa collection de 287 autres créatures similaires — les œufs de Grey, du nom du scientifique lui-même, qui viennent de Mars — puis séquestre les enfants “de peur qu'ils aient une maladie de Mars et pour des expériences scientifiques”.
 
-Quand Cliff semble être agressif avec Anne, les créatures se précipitent sur lui jusqu'à ce qu'ils tombe, comme pour la défendre.
-
-Le père et la sœur de Cliff viennent au labo et Cindy arrive à se faufiler et maîtriser le professeur.
+Quand Cliff semble être agressif avec Anne, les créatures se précipitent sur lui jusqu'à ce qu'ils tombe, comme pour la défendre. Le père et la sœur de Cliff viennent au labo et Cindy arrive à se faufiler et frapper le professeur… et d'être mise dehors par ce dernier.
 
 ## Personnages
 
-- **Cyndie** (10 ans), petite fille gâtée, à qui personne ne dit non car elle est trop mignonne.
+- **Cindy** (10 ans), petite fille gâtée, à qui personne ne dit non car elle est trop mignonne.
 - **Cliff** (12 ans, narrateur), passionné de sciences, a des tarentules, des fourmis et un microscope. Il veut être chercheur.
 - **Anne** (12 ans), amie de Cliff, sa compagne de “recherches scientifiques”, et aussi sa voisine.
+- **Professeur Grey**, découvreur des Œufs de Grey et faisant passer la science avant les comités d'éthique.
 
 ## Résumé intégral
 
-Pour son dixième anniversaire, Cyndie demande une chasse aux œufs à ses parents, qui acceptent. Des camarades de classe de Cyndie et Anne sont invitées. Une poupée est offerte à celui ou celle qui récupère le plus grand nombre d'œufs, ce qui déçoit les garçons.
+Pour son dixième anniversaire, Cindy demande une chasse aux œufs à ses parents, qui acceptent.^[Des camarades de classe de Cindy et Anne sont invitées. Une poupée est offerte à celui ou celle qui récupère le plus grand nombre d'œufs, ce qui déçoit les garçons.] Un des enfants lance un œuf sur un mur et propose une bataille d'œufs. Ça dégénère très vite, ça fuse. Quand tout d'un coup, alors que Cliff s'apprête à lancer un œuf, il se rend compte qu'il est… beaucoup trop gros… vert… étrange… avec des veines violettes…
 
-Un des enfants lance un œuf sur un mur et propose une bataille d'œufs. Ça dégénère très vite, ça fuse. Quand tout d'un coup, alors que Cliff s'apprête à lancer un œuf, il se rend compte qu'il est… beaucoup trop gros… vert… étrange… avec des veines violettes…
-
-La bataille continue mais Cliff est totalement absorbé par son œuf, dont il sent soudainement les veines… battre. Régulièrement. _Mais, mais… il est vivant !_ Il veut le montrer à Anne mais cette dernière le lance comme un projectile ; Cliff arrive à le rattraper in extremis et court vers la maison.
-
-Il s'enferme à double tours dans sa chambre et pose l'œuf sur son lit.
-
-La bataille et la chasse se finissent, Cyndie râle auprès de ses parents car si les œufs avaient été cuits rien ne se serait passé. Anne rejoint Cliff pour étudier l'œuf. L'affaire cause une crise familiale, ça chauffe, la mère ne veut plus voir d'œuf, et Anne doit partir. Elle promet de revenir le lendemain.
+La bataille continue mais Cliff est totalement absorbé par son œuf, dont il sent soudainement les veines… battre.^[Il veut le montrer à Anne mais cette dernière le lance comme un projectile ; Cliff arrive à le rattraper in extremis et court vers la maison.] Il s'enferme à double tours dans sa chambre et pose l'œuf sur son lit. Anne rejoint Cliff pour étudier l'œuf.^[La bataille et la chasse se finissent, Cindy râle auprès de ses parents car si les œufs avaient été cuits rien ne se serait passé.  L'affaire cause une crise familiale, ça chauffe, la mère ne veut plus voir d'œuf, et Anne doit partir.] Quelques temps plus tard, elle promet de revenir le lendemain.
 
 Pendant la soirée, les grands parents viennent et des cadeaux sont offerts, alors que les enfants se plaignent discrètement des cadeaux datés. La mère raconte la journée aux grands parents. Ça discute.
 
@@ -61,8 +54,10 @@ Soudain, alors que Cliff se demande s'ils pourraient revenir voir leur créature
 
 Alors qu'il parle d'eux en parlant fort à Anne, Cliff est assailli par les créatures et perd connaissance. Il reprend connaissance alors qu'il est en train de geler vivant… Les créatures semblent avoir défendu Anne.
 
-Anne détruit le discours sexiste de Cliff et lui explique qu'elle a anticipé et laissé des chaussettes tel le petit poucet pour qu'on puisse les retrouver, les parents ayant l'adresse du scientifique dans un mot laissé en partant.
+Anne détruit le discours sexiste de Cliff et lui explique qu'elle a anticipé et laissé des chaussettes tel le petit Poucet pour qu'on puisse les retrouver, les parents ayant l'adresse du scientifique dans un mot laissé en partant.
 
 Le professeur annonce qu'il a peur qu'ils aient une maladie venue de Mars — même si les enfants essaient de se défendre du contraire — et qu'il compte faire des expériences sur eux “pour la Science”.
 
-Alors que Cliff se convainc de manger un peu, le père et la sœur de Cliff passent au labo. Ils trouvent les chaussettes et demandent des explications au professeur, qui nie, mais Cindy se glisse entre ses jambes pour les retrouver, et arrive à maîtriser le professeur d'un coup de pied dans ses jambes…
+Alors que Cliff se convainc de manger un peu, le père et la sœur de Cliff passent au labo. Ils trouvent les chaussettes et demandent des explications au professeur, qui nie, mais Cindy se glisse entre ses jambes pour les retrouver, et arrive à frapper le professeur d'un coup de pied dans ses jambes… avant d'être mise dehors par ce dernier.
+
+Le professeur place un appareil contre la vitre pour communiquer avec eux et leur explique que la vitre est isolante à tous les sons même forts, qu'il n'a pas le choix, et qu'il va leur dire la vérité.
