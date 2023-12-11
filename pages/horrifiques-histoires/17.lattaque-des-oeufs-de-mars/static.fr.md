@@ -2,26 +2,29 @@
 title: 'L’attaque des œufs de Mars'
 homepage:
     invite: "Robert Lawrence Stine\_\_·\_\_Collection Chair de poule"
+abstract: 'Résumé court et détaillé de L’attaque des œufs de Mars, de Robert Lawrence Stine dans la collection Chair de Poule !'
 ---
 
 [[a]]
-| Cette page résume [l'_Horrifique Histoire_ diffusée en live actuellement](https://www.twitch.tv/vchabrette). Le résumé est écrit au fur et à mesure : pas de risque de spoil ! Pour avoir une version à jour, actualisez la page.
+| Cette page résume [l'_Horrifique Histoire Hors Série “Chaire de poule”_](https://www.twitch.tv/videos/2000708744?t=01h32m15s) diffusée par Vincent Chabrette le dimanche 10 décembre 2023.
+|
+| **Si vous souhaitez écouter la rediffusion ou lire la nouvelle, ne lisez pas ce qui suit, toute l’histoire vous y est divulgâchée !**
 
 *[TW]: Trigger Warning
 
 ## Résumé express
 
-- Cliff, 12 ans et passionné de sciences, trouve **un œuf vert avec des veines violettes qu'il sent battre**. Avec son amie Anne, ils l'étudient mais l'œuf explose et révèle une bestiole jaune gélatineuse.
-- **Ils le montrent au Professeur Grey**, qui par hasard étudie et collectionne ces créatures, les _Œufs de Mars_, venues de la planète. **Il séquestre les deux enfants**, prétextant un risque pour leur santé, en réalité pour faire des expériences sur eux.
-- **Les bestioles défendent collectivement les enfants** jusqu'à réussir à les libérer de force. Leurs parents ne les croient pas mais revenant sur place, ils voient les bestioles assemblées sous la forme d'un gigantesque œuf vert qui se révèle être un véhicule spatial, et ils s'en vont dans l'espace.
-- Après leur départ, ils retrouvent la pipe du Professeur Gray.
+- Cliff, 12 ans et passionné de sciences, trouve un œuf vert avec des veines violettes qu'il sent battre. **L'œuf explose et révèle une bestiole jaune gélatineuse.**
+- **Avec son amie Anne, ils la montrent au Professeur Grey**, qui par hasard étudie et collectionne ces créatures, les _Œufs de Grey_, venues de Mars. **Il séquestre les deux enfants avec les centaines d'autres bestioles**, prétextant un risque pour leur santé, en réalité pour faire des expériences sur eux et car les bestioles sont classées secret-défense.
+- **Les bestioles défendent collectivement les enfants** jusqu'à réussir à les libérer de force. Leurs parents ne les croient pas. Revenant sur place, les enfants voient les bestioles assemblées sous la forme d'un gigantesque œuf vert qui se révèle être un véhicule spatial, qui s'en va dans l'espace.
+- Après leur décollage, ils retrouvent la pipe du Professeur Grey.
 
 ## Personnages
 
 - **Cindy** (10 ans), petite fille gâtée, à qui personne ne dit non car elle est trop mignonne.
-- **Cliff** (12 ans, narrateur), passionné de sciences, a des tarentules, des fourmis et un microscope. Il veut être chercheur.
+- **Cliff** (12 ans, narrateur), son frère, grand passionné de sciences. Il veut être chercheur.
 - **Anne** (12 ans), amie de Cliff, sa compagne de “recherches scientifiques”, et aussi sa voisine.
-- **Professeur Georges Grey**, découvreur des Œufs de Grey et faisant passer la science avant les comités d'éthique.
+- **Professeur Georges Grey**, chercheur sur les _Œufs de Grey_ et faisant passer la science avant les comités d'éthique.
 
 ## Résumé
 
@@ -37,7 +40,7 @@ Ils tentent d'expliquer la situation à leurs parents qui ne les croient pas. An
 
 Les parents n'y croient pas non plus, car non témoins. Mais en observant l'endroit où avaient décollé les martiens, ils retrouvent la pipe du professeur Grey.
 
-## Résumé long et détaillé
+## Résumé long et (beaucoup trop) détaillé
 
 Pour son dixième anniversaire, Cindy demande une chasse aux œufs à ses parents, qui acceptent.^[Des camarades de classe de Cindy et Anne sont invitées. Une poupée est offerte à celui ou celle qui récupère le plus grand nombre d'œufs, ce qui déçoit les garçons.] Un des enfants lance un œuf sur un mur et propose une bataille d'œufs. Ça dégénère très vite, ça fuse. Quand tout d'un coup, alors que Cliff s'apprête à lancer un œuf, il se rend compte qu'il est… beaucoup trop gros… vert… étrange… avec des veines violettes…
 
