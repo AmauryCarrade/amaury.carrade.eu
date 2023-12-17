@@ -17,15 +17,15 @@ process:
 
 ## Résumé express
 
-- Lorsque Jacob entre en 5^ème^, le professeur Krey l’accueille en classe de _trillième_.
-- Il ne connaît plus personne, ne comprends plus l'alphabet (qui ressemble à `▼ ◬ ැ ⌇ ·`), ni ne reconnaît les cartes. Ni le collège.
-- Tout le monde sauf lui mange via une bouche placée _sous leurs aisselles_.
+- Lorsque Jacob entre en 5^ème^, il ne connaît plus personne, ne comprends plus l'alphabet (qui ressemble à `▼ ◬ ැ ⌇ ·`), ni ne reconnaît les cartes. Ni le collège. Tout le monde sauf lui mange via une bouche placée _sous leurs aisselles_.
+- Il fuit le collège vers une forêt, mais découvre qu'il a été suivi. Il continue de fuir^[se blesse à la jambe en chemin et réaliste que de gros insectes remontent sa jambe et boivent son sang, qu'il enlève tant bien que mal], et finit par rentrer dans une fille de son collège avec qui il avait échangé un regard, qui elle aussi semble “normale” comme lui.
 
 
 ## Personnages
 
 - **Jacob Miller** (5^ème^, environ 12 ans), garçon.
 - **Monsieur Krey**, le professeur principal de Jacob.
+- **Arlène**, une fille de la nouvelle classe de Jacob, aux cheveux bleus, elle aussi différente.
 
 
 ## Résumé
