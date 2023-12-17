@@ -17,8 +17,9 @@ process:
 
 ## Résumé express
 
-- Lorsque Jacob Miller entre en 5^ème^, il se voit souhaiter la bienvenue en classe de trillième.
-- Il ne connaît plus personne, ne comprends plus l'alphabet (`▼ ◬ ැ ⌇ · …`), ni ne reconnaît les cartes.
+- Lorsque Jacob entre en 5^ème^, le professeur Krey l’accueille en classe de _trillième_.
+- Il ne connaît plus personne, ne comprends plus l'alphabet (qui ressemble à `▼ ◬ ැ ⌇ ·`), ni ne reconnaît les cartes. Ni le collège.
+- Tout le monde sauf lui mange via une bouche placée _sous leurs aisselles_.
 
 
 ## Personnages
@@ -31,10 +32,11 @@ process:
 
 Jacob Miller est un ado normal de cinquième, mais récemment, à sa rentrée en cinquième, tout a changé dans sa vie. Quand il retourne au collège, il ne connaît plus personne, et son professeur, M. Krey, leur annonce la bienvenue en classe de _trillième_.
 
-Le professeur écrit dans un alphabet inconnu mais tout le monde semble comprendre sauf lui. Il pense rêver, mais il semblerait que non. Il est convoqué au tableau mais ne sait répondre, contrairement au reste de la classe. En manque d'inspiration pour un devoir, le professeur Krey lui montre une carte, dont il ne reconnaît aucune région ou continent.
+Le professeur écrit dans un alphabet inconnu mais tout le monde semble comprendre sauf lui. Il pense rêver, mais il semblerait que non. Il est convoqué au tableau mais ne sait répondre, contrairement au reste de la classe. En manque d'inspiration pour un devoir, le professeur Krey lui montre une carte, dont il ne reconnaît aucune région ou continent. Il a peur que les autres ados le trouvent bizarre, ou idiot.
 
+Allant déjeuner, il ne reconnaît pas le collège non plus. Quand il s'apprête à manger son sandwich, il découvre que les autres élèves mangent sous leurs aisselles et le dévisagent, dégoûté·es.
 
-
+Jacob fuit le collège jusqu'à une forêt, mais se rend compte qu'il a été suivi.
 
 
 
