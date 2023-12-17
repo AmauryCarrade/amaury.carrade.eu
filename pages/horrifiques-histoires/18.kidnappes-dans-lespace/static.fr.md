@@ -18,8 +18,9 @@ process:
 ## Résumé express
 
 - Lorsque Jacob entre en 5^ème^, il ne connaît plus personne, ne comprends plus l'alphabet (qui ressemble à `▼ ◬ ැ ⌇ ·`), ni ne reconnaît les cartes. Ni le collège. Tout le monde sauf lui mange via une bouche placée _sous leurs aisselles_.
-- Il fuit le collège vers des bois^[Pendant sa fuite, il se blesse à la jambe en chemin et réaliste que de gros insectes remontent sa jambe et boivent son sang, qu'il enlève tant bien que mal.], et retrouve Arlène, une fille de son collège qui semble elle aussi “normale”, et qui a également perdu la mémoire.^[Ils sont attaqués par des _scrabules_, insectes poilus suceurs de sang, alors que certains des collégiens les rejoignent, et sifflent de plus en plus fort pour les faire fuir.]
-- Le principal leur rappelle que les bois sont interdits (car “dangereux”) et que manger avec sa bouche est interdit (car “dégoûtant”).
+- Il découvre qu'une fille du collège, Arlène, semble “normale” comme lui.^[Il le découvre alors qu'il lui rentre dedans, pendant qu'il fuiayt du collège suite à des brimades au déjeuner car il ne mange pas comme les autres. Il se blesse à la jambe en chemin et réaliste que de gros insectes remontent sa jambe et boivent son sang, qu'il enlève tant bien que mal. Après s'être retrouvés, ils sont attaqués par des _scrabules_, ces mêmes insectes poilus suceurs de sang, alors que certains des collégien·nes les rejoignent, et sifflent de plus en plus fort pour les faire fuir, en expliquant que “tout le monde sait” que ça les fait fuir.] Elle ne se souvient plus de son nom de famille. Ils réalisent qu'ils ont oublié leurs parents.
+- Jacob a un flash de sa maison ; ils partent à sa recherche.^[Après avoir été harangués pour faire une partie d'un sport dont ils ne comprennent rien, et prétextent un rendez-vous pour décliner.] Ils passent devant une bibliothèque et tentent d'y trouver des informations… mais réalisent rapidement que tout est écrit avec cet alphabet inconnu.
+- Réalisant qu'ils sont suivis par un inconnu depuis le matin, ils fuient, mais l'inconnu finit par disparaître.
 
 
 ## Personnages
@@ -43,7 +44,11 @@ C'est une fille du collège qui l'avait regardée quand il a essayé de manger a
 
 Soudain ils sont attaqués par les mêmes insectes poilus, en bien plus grand nombre : des _scrabules_, alors que des élèves du collège les rejoignent et regardent.
 
+Ils sont ramenés au collège chez le principal par les élèves qui veulent se dédouaner, car aller dans ces bois est interdit. Le principal leur rappelle et leur dit que manger avec la bouche est dégoûtant.
 
+Après les cours pas glorieux de la journée, ils sont harangués pour faire une partie d'un sport dont ils ne comprennent rien mais prétextent un rendez-vous pour décliner. Arlène essaie de se souvenir tant bien que mal de son nom mais sans succès.
+
+Jacob a un flash de l'image de sa maison. Alors qu'il propose d'y aller pour avoir des informations auprès de ses parents, les deux ados réalisent… qu'ils n'ont aucun souvenir d'eux.
 
 {#[[a]]
 | Cette page résume [l'_Horrifique Histoire Hors Série “Chaire de poule”_](https://www.twitch.tv/videos/2000708744?t=01h32m15s) diffusée par Vincent Chabrette le dimanche 17 décembre 2023.
