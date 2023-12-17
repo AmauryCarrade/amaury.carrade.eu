@@ -18,14 +18,15 @@ process:
 ## Résumé express
 
 - Lorsque Jacob entre en 5^ème^, il ne connaît plus personne, ne comprends plus l'alphabet (qui ressemble à `▼ ◬ ැ ⌇ ·`), ni ne reconnaît les cartes. Ni le collège. Tout le monde sauf lui mange via une bouche placée _sous leurs aisselles_.
-- Il fuit le collège vers une forêt, mais découvre qu'il a été suivi. Il continue de fuir^[se blesse à la jambe en chemin et réaliste que de gros insectes remontent sa jambe et boivent son sang, qu'il enlève tant bien que mal], et finit par rentrer dans une fille de son collège avec qui il avait échangé un regard, qui elle aussi semble “normale” comme lui.
+- Il fuit le collège vers des bois^[Pendant sa fuite, il se blesse à la jambe en chemin et réaliste que de gros insectes remontent sa jambe et boivent son sang, qu'il enlève tant bien que mal.], et retrouve Arlène, une fille de son collège qui semble elle aussi “normale”, et qui a également perdu la mémoire.^[Ils sont attaqués par des _scrabules_, insectes poilus suceurs de sang, alors que certains des collégiens les rejoignent, et sifflent de plus en plus fort pour les faire fuir.]
+- Le principal leur rappelle que les bois sont interdits (car “dangereux”) et que manger avec sa bouche est interdit (car “dégoûtant”).
 
 
 ## Personnages
 
 - **Jacob Miller** (5^ème^, environ 12 ans), garçon.
 - **Monsieur Krey**, le professeur principal de Jacob.
-- **Arlène**, une fille de la nouvelle classe de Jacob, aux cheveux bleus, elle aussi différente.
+- **Arlène**, une fille du collège, aux cheveux bleus, elle aussi comme Jacob. Elle a oublié son nom de famille.
 
 
 ## Résumé
@@ -36,8 +37,11 @@ Le professeur écrit dans un alphabet inconnu mais tout le monde semble comprend
 
 Allant déjeuner, il ne reconnaît pas le collège non plus. Quand il s'apprête à manger son sandwich, il découvre que les autres élèves mangent sous leurs aisselles et le dévisagent, dégoûté·es.
 
-Jacob fuit le collège jusqu'à une forêt, mais se rend compte qu'il a été suivi.
+Jacob fuit le collège jusqu'à une forêt, mais se rend compte qu'il a été suivi. Il se blesse en courant, et se rend compte que des insectes envahissent sa jambe pour lui sucer le sang. Il réussit à s'en débarrasser puis continue de courir avant de rentrer dans quelqu'un.
 
+C'est une fille du collège qui l'avait regardée quand il a essayé de manger avec sa bouche, et qui lui révèle être “normale” comme lui, en lui montrant ses aisselles, et ne rien comprendre à l'alphabet non plus.
+
+Soudain ils sont attaqués par les mêmes insectes poilus, en bien plus grand nombre : des _scrabules_, alors que des élèves du collège les rejoignent et regardent.
 
 
 
