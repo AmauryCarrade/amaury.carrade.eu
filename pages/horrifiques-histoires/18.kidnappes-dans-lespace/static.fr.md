@@ -15,21 +15,26 @@ process:
 
 *[TW]: Trigger Warning
 
+TW : torture.
+
 ## Résumé express
 
-- Lorsque **Jacob** entre en ~~5^ème^~~ _trillième_, **il ne connaît plus personne, ne comprends plus l'alphabet** (qui ressemble à `▼ ◬ ැ ⌇ ·`), ni ne reconnaît les cartes. Tout le monde sauf lui mange via une bouche placée _sous leurs aisselles_.
-- Il découvre qu’**une fille du collège, Arlène, semble “normale” comme lui**. Elle ne se souvient plus de son nom de famille. Ils réalisent qu'ils ont oublié leurs parents.
-- Alors qu'ils regardent la télévision pour essayer d'obtenir des informations, ils allument la TV. « _**Les Terriens Malsains ont débarqué**, l'état d'urgence est lancé. Notre but : **tous les éliminer**._ ». Soudain, un inconnu les retrouvent dans la maison et se révèle être _leur_ père.
-- Le lendemain en sport, Jacob et Arlène sont démasqués en avouant ne pas connaître pas les règles d'un sport extrêmement connu. Ils sont conduits vers le directeur du collège. Ils nient être des _terriens malsains_, mais un test de connaissances les démasque à coup sûr.
+- Lorsque **Jacob** entre en ~~5^ème^~~ _trillième_, **il ne connaît plus personne, ne comprends plus l'alphabet** (`▼ ◬ ැ ⌇ ·`), ni ne reconnaît les cartes. Tout le monde sauf lui mange via une bouche placée _sous leurs aisselles_. Il découvre qu’**une fille du collège, Arlène, semble “normale” comme lui**.
+- Ils entendent à la TV : « _**Les Terriens Malsains ont débarqué**, l'état d'urgence est lancé. Notre but : **tous les éliminer**._ ». Un inconnu les retrouvent et se révèle être _leur_ père.
+- Le lendemain en sport, Jacob et Arlène sont démasqués en avouant ne pas connaître pas les règles d'un sport. Ils deviennent la cible publique № 1. Ils retrouvent leur père et tentent de fuir en voiture, mais rentrent un mur de plein fouet.
+- Quand Jacob se réveille, on les emmène, avec Arlène et leur père, dans une salle d'interrogatoire. Le gouverneur suprême pense qu'ils ont une arme et exige qu'ils lui donnent. Ils répètent ne rien comprendre. Ils sont pendus par les pieds pour les convaincre.
+
+{# 
+Lorsque Jacob entre en 5è, il ne connaît plus personne, ne comprends plus l’alphabet, ni ne reconnaît les cartes. Tout le monde sauf lui mange via une bouche placée sous leurs aisselles. Il découvre qu’une fille du collège, Arlène, semble “normale” comme lui. Ils entendent à la TV : « Les Terriens Malsains ont débarqué, l’état d’urgence est lancé. Notre but : tous les éliminer. ». Le lendemain, ils sont démasqués en avouant ne pas connaître pas les règles d’un sport.
+#}
 
 
-## Personnages
+## Personnages principaux
 
 - **Jacob Miller** (5^ème^, environ 12 ans), garçon.
 - **Monsieur Krey**, le professeur principal de Jacob.
-- **Arlène**, une fille du collège, aux cheveux bleus, elle aussi comme Jacob. Elle a oublié son nom de famille.
-- **Le père** d'Arlène et Jacob, M. Miller, sans prénom connu. Il ne semble savoir où est leur mère.
-- **Monsieur Tragger**, directeur du collège.
+- **Arlène Miller**, une fille du collège, aux cheveux bleus, elle aussi comme Jacob. Elle a oublié son nom de famille.
+- **Éric Miller**, le père d'Arlène et Jacob. Il ne semble savoir où est leur mère.
 
 
 ## Résumé
@@ -70,6 +75,9 @@ Arlène avoue ne pas connaître les règles au professeur de sport. En retour, t
 
 Ils s'assoient en tremblant face au bureau du directeur du collège. Ils nient être des _terriens malsains_. Le directeur du collège les teste pour vérifier, ce qui les démasque à coup sûr, car Jacob n'a pas réalisé que _sept_ n'est qu'un nombre terrien (et il l'a compris), et Arlène n'a pas su citer l'actuel gouverneur suprême. _Faites venir des forces de sécurité !_
 
+Ils tentent de fuir par la fenêtre, rejoignent leur père pour le prévenir. Tous prennent une voiture, tentent tant bien que mal de comprendre sont fonctionnement, mais entrent de plein fouet dans un mur de briques. À son réveil, Jacob se retrouve avec Arlène et leur père dans une cellule. Ils ont été hospitalisés et sont tout en bandages.
+
+Un garde vient les chercher pour les emmener dans une salle d'interrogatoire, sans répondre à aucune question.
 
 {#[[a]]
 | Cette page résume [l'_Horrifique Histoire Hors Série “Chaire de poule”_](https://www.twitch.tv/videos/2000708744?t=01h32m15s) diffusée par Vincent Chabrette le dimanche 17 décembre 2023.
