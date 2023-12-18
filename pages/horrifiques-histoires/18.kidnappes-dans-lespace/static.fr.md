@@ -22,7 +22,8 @@ TW : torture.
 - Lorsque **Jacob** entre en ~~5^ème^~~ _trillième_, **il ne connaît plus personne, ne comprends plus l'alphabet** (`▼ ◬ ැ ⌇ ·`), ni ne reconnaît les cartes. Tout le monde sauf lui mange via une bouche placée _sous leurs aisselles_. Il découvre qu’**une fille du collège, Arlène, semble “normale” comme lui**.
 - Ils entendent à la TV : « _**Les Terriens Malsains ont débarqué**, l'état d'urgence est lancé. Notre but : **tous les éliminer**._ ». Un inconnu les retrouvent et se révèle être _leur_ père.
 - Le lendemain en sport, Jacob et Arlène sont démasqués en avouant ne pas connaître pas les règles d'un sport. Ils deviennent la cible publique № 1. Ils retrouvent leur père et tentent de fuir en voiture, mais rentrent un mur de plein fouet.
-- Quand Jacob se réveille, on les emmène, avec Arlène et leur père, dans une salle d'interrogatoire. Le gouverneur suprême pense qu'ils ont une arme et exige qu'ils lui donnent. Ils répètent ne rien comprendre. Ils sont pendus par les pieds pour les convaincre.
+- Quand Jacob se réveille, on les emmène, avec Arlène et leur père, dans une salle d'interrogatoire. Le gouverneur suprême pense qu'ils ont une arme et exige qu'ils lui donnent. Ils répètent ne rien comprendre. Ils sont pendus par les pieds au dessus d'un chaudron pour les convaincre.
+- Jacob entend des voix : _nous ne vous feront aucun mal, faites semblant de coopérer avec Dermart_. Son père s'exclame : _arrêtez ! Je vais vous la donner !_, et le chaudron est basculé pour les laisser en sortir.
 
 {# 
 Lorsque Jacob entre en 5è, il ne connaît plus personne, ne comprends plus l’alphabet, ni ne reconnaît les cartes. Tout le monde sauf lui mange via une bouche placée sous leurs aisselles. Il découvre qu’une fille du collège, Arlène, semble “normale” comme lui. Ils entendent à la TV : « Les Terriens Malsains ont débarqué, l’état d’urgence est lancé. Notre but : tous les éliminer. ». Le lendemain, ils sont démasqués en avouant ne pas connaître pas les règles d’un sport.
@@ -35,6 +36,7 @@ Lorsque Jacob entre en 5è, il ne connaît plus personne, ne comprends plus l’
 - **Monsieur Krey**, le professeur principal de Jacob.
 - **Arlène Miller**, une fille du collège, aux cheveux bleus, elle aussi comme Jacob. Elle a oublié son nom de famille.
 - **Éric Miller**, le père d'Arlène et Jacob. Il ne semble savoir où est leur mère.
+- **Le Général Dermart**, le gouverneur suprême.
 
 
 ## Résumé
@@ -77,7 +79,9 @@ Ils s'assoient en tremblant face au bureau du directeur du collège. Ils nient �
 
 Ils tentent de fuir par la fenêtre, rejoignent leur père pour le prévenir. Tous prennent une voiture, tentent tant bien que mal de comprendre sont fonctionnement, mais entrent de plein fouet dans un mur de briques. À son réveil, Jacob se retrouve avec Arlène et leur père dans une cellule. Ils ont été hospitalisés et sont tout en bandages.
 
-Un garde vient les chercher pour les emmener dans une salle d'interrogatoire, sans répondre à aucune question.
+Un garde vient les chercher pour les emmener dans une salle d'interrogatoire, sans répondre à aucune question. Le gouverneur suprême les y attend et leur demande pourquoi ils sont venus (ils ne savent pas) et de leur donner l'arme secrète (ils ignorent de quoi il s'agit). Alors qu'ils répètent qu'ils n'en savent rien, le gouverneur les fait pendre par les pieds au dessus d'un chaudron de scrabules, et les fait descendre dedans petit à petit.
+
+Jacob entend une voix alors qu'il plonge entièrement dans les scrabules : _nous ne vous feront aucun mal, faites semblant de coopérer avec Dermart_
 
 {#[[a]]
 | Cette page résume [l'_Horrifique Histoire Hors Série “Chaire de poule”_](https://www.twitch.tv/videos/2000708744?t=01h32m15s) diffusée par Vincent Chabrette le dimanche 17 décembre 2023.
