@@ -17,10 +17,10 @@ process:
 
 ## Résumé express
 
-- Lorsque **Jacob** entre en 5^ème^, **il ne connaît plus personne, ne comprends plus l'alphabet** (qui ressemble à `▼ ◬ ැ ⌇ ·`), ni ne reconnaît les cartes. Ni le collège. Tout le monde sauf lui mange via une bouche placée _sous leurs aisselles_.
+- Lorsque **Jacob** entre en ~~5^ème^~~ _trillième_, **il ne connaît plus personne, ne comprends plus l'alphabet** (qui ressemble à `▼ ◬ ැ ⌇ ·`), ni ne reconnaît les cartes. Tout le monde sauf lui mange via une bouche placée _sous leurs aisselles_.
 - Il découvre qu’**une fille du collège, Arlène, semble “normale” comme lui**. Elle ne se souvient plus de son nom de famille. Ils réalisent qu'ils ont oublié leurs parents.
-- Alors qu'ils regardent la télévision pour essayer d'obtenir des informations, ils entendent un présentateur TV qui leur fait prendre peur. « _**Les Terriens Malsains ont débarqué**, l'état d'urgence est lancé. Notre but : **tous les éliminer**._ »
-- Alors qu'ils explorent une maison déserte pouvant ressembler à la sienne, Jacob se souvient soudainement qu'il est du Wisconsin. Soudain, un inconnu les retrouvent dans la maison et se révèle être _leur_ père ! Sans mère connue.
+- Alors qu'ils regardent la télévision pour essayer d'obtenir des informations, ils allument la TV. « _**Les Terriens Malsains ont débarqué**, l'état d'urgence est lancé. Notre but : **tous les éliminer**._ ». Soudain, un inconnu les retrouvent dans la maison et se révèle être _leur_ père.
+- Le lendemain en sport, Jacob et Arlène sont démasqués en avouant ne pas connaître pas les règles d'un sport extrêmement connu. Ils sont conduits vers le directeur du collège. Ils nient être des _terriens malsains_, mais un test de connaissances les démasque à coup sûr.
 
 
 ## Personnages
@@ -28,6 +28,8 @@ process:
 - **Jacob Miller** (5^ème^, environ 12 ans), garçon.
 - **Monsieur Krey**, le professeur principal de Jacob.
 - **Arlène**, une fille du collège, aux cheveux bleus, elle aussi comme Jacob. Elle a oublié son nom de famille.
+- **Le père** d'Arlène et Jacob, M. Miller, sans prénom connu. Il ne semble savoir où est leur mère.
+- **Monsieur Tragger**, directeur du collège.
 
 
 ## Résumé
@@ -58,7 +60,16 @@ Alors qu'ils regardent la télévision pour essayer d'obtenir des informations, 
 
 Ils explorent la maison pour trouver des informations. Jacob se souvient soudainement être du Wisconsin, aux États-Unis.
 
-Ils envisagent de cambrioler le collège pour retrouver leurs dossiers scolaires (espérant que ce soit écrit dans un alphabet connu) lorsqu'ils sont interrompus par un bruit soudain puis des bruits de pas dans l'escalier puis le couloir.
+Ils envisagent de cambrioler le collège pour retrouver leurs dossiers scolaires (espérant que ce soit écrit dans un alphabet connu) lorsqu'ils sont interrompus par un bruit soudain puis des bruits de pas dans l'escalier puis le couloir. Cette personne se révèle être leur… père (ils sont donc frères et sœurs !), ce qu'il prouve en connaissant le surnom de Jacob et son absence de bouche d'aisselle.
+
+Il leur informe qu'ils sont probablement les Terriens Malsains, et qu'ils n'ont aucune mère connue. Leur père ignore pourquoi ils ont perdu la mémoire.
+
+Le lendemain en sport, Jacob est désigné premier blatteur alors qu'il n'a aucune idée de ce que cela veut dire, et tente de le lancer, malheureusement vers sa sœur Arlène.
+
+Arlène avoue ne pas connaître les règles au professeur de sport. En retour, tout le monde se rapproche, regarde, et soupçonne. Ils réalisent que ce sont des “Terriens Malsains”, et les emmène de force vers les bureaux de l'administration en chantant : _les terriens malsains ! les terriens malsains !_.
+
+Ils s'assoient en tremblant face au bureau du directeur du collège. Ils nient être des _terriens malsains_. Le directeur du collège les teste pour vérifier, ce qui les démasque à coup sûr, car Jacob n'a pas réalisé que _sept_ n'est qu'un nombre terrien (et il l'a compris), et Arlène n'a pas su citer l'actuel gouverneur suprême. _Faites venir des forces de sécurité !_
+
 
 {#[[a]]
 | Cette page résume [l'_Horrifique Histoire Hors Série “Chaire de poule”_](https://www.twitch.tv/videos/2000708744?t=01h32m15s) diffusée par Vincent Chabrette le dimanche 17 décembre 2023.
