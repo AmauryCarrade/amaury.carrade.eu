@@ -9,9 +9,15 @@ process:
     markdown: false
 ---
 
-[[a]]
+{#[[a]]
 | Cette page résume [l'_Horrifique Histoire Hors Série “Chaire de poule”_](https://www.twitch.tv/vchabrette) diffusée par Vincent Chabrette actuellement sur Twitch.  
-| Ce résumé est écrit au fur et à mesure, il est donc **garanti sans _spoil_** !
+| Ce résumé est écrit au fur et à mesure, il est donc **garanti sans _spoil_** !#}
+
+[[a]]
+| Cette page résume [l'_Horrifique Histoire Hors Série “Chaire de poule”_](https://www.twitch.tv/videos/2006860424?t=01h30m01s) diffusée par Vincent Chabrette le dimanche 17 décembre 2023.
+|
+| **Si vous souhaitez écouter la rediffusion ou lire la nouvelle, ne lisez pas ce qui suit, toute l’histoire vous y est divulgâchée !**
+
 
 *[TW]: Trigger Warning
 
@@ -21,9 +27,9 @@ TW : torture.
 
 - Lorsque **Jacob** entre en ~~5^ème^~~ _trillième_, **il ne connaît plus personne, ne comprends plus l'alphabet** (`▼ ◬ ැ ⌇ ·`), ni ne reconnaît les cartes. Tout le monde sauf lui mange via une bouche placée _sous leurs aisselles_. Il découvre qu’**une fille du collège, Arlène, semble “normale” comme lui**.
 - Ils entendent à la TV : « _**Les Terriens Malsains ont débarqué**, l'état d'urgence est lancé. Notre but : **tous les éliminer**._ ». Un inconnu les retrouvent et se révèle être _leur_ père.
-- Jacob et Arlène sont démasqués en avouant ne pas connaître pas les règles d'un sport. Ils deviennent la cible publique № 1 et sont interrogés par le gouverneur suprême avec leur père, qui pense qu'ils ont une arme et exige qu'ils lui donnent. Alors qu'ils sont pendus par les pieds dans un chaudron plein de scrabules^[Des insectes poilus et urticants qui grouillent sur cette planète.], Jacob entend : _nous ne vous feront aucun mal, faites semblant de coopérer avec Dermart_. Son père s'exclame : _arrêtez ! Je vais vous la donner !_ En bluffant et avec l'aide des scrabules, ils réussissent à faire fuir Dermart.
-- Les **scrabules** leur parlent et leur expliquent qu'**ils les ont amenés sur cette planète**, comme porteurs d'une arme, et qu'ils veulent détruire la civilisation de la planète car ils les considèrent comme des insectes, les méprisent, et les tuent par amusement. Ils annoncent que **la montre du père contient une bombe**. Alors que son père s'apprête à donner la montre aux scrabules, Jacob la prend par réflexe et la détruit contre un mur, ce qui déclenche l'alarme, qui… tue tous les scrabules, super sensibles au bruit.
-- On fête la victoire car les scrabules, ennemi № 1 du peuple, ont été anéantis, mais ils apprennent que seuls les scrabules avaient la technologie du voyage intersidéral… sauf un savant, Pr. Phil, depuis peu. Ils tentent, et partent avec le vaisseau expérimental… avec succès !
+- Jacob et Arlène sont démasqués en avouant ne pas connaître pas les règles d'un sport. Ils deviennent la cible publique № 1 et sont interrogés avec leur père par le gouverneur suprême, Dermart, qui pense qu'ils ont une arme et exige qu'ils lui donnent. Alors qu'ils sont pendus par les pieds dans un chaudron plein de scrabules^[Des insectes poilus et urticants qui grouillent sur cette planète.], Jacob entend : _nous ne vous feront aucun mal, faites semblant de coopérer avec Dermart_. Son père s'exclame : _arrêtez ! Je vais vous la donner !_ En bluffant et avec l'aide des scrabules, ils réussissent à faire fuir Dermart.
+- Les **scrabules** leur parlent et leur expliquent qu'**ils les ont amenés sur cette planète**, comme porteurs d'une arme, et qu'ils veulent détruire la civilisation de la planète car ils les considèrent comme des insectes, les méprisent, et les tuent par amusement. Ils annoncent que **la montre du père contient une bombe**. Alors que son père s'apprête à donner la montre aux scrabules, Jacob la prend par réflexe et la détruit contre un mur, ce qui déclenche l'alarme, qui… **tue tous les scrabules, super sensibles au bruit**.
+- On fête la victoire car les scrabules, ennemi № 1 du peuple, ont été anéantis, mais souhaitant rentrer chez eux, les trois terriens apprennent que seuls les scrabules avaient la technologie du voyage intersidéral… sauf un savant, Pr. Phil, depuis peu. Ils tentent, et partent avec le vaisseau très expérimental… avec succès !
 - Quand ils arrivent à destination, ils rencontrent un couple qui, pour les saluer… retirent naturellement leur têtes pour révéler leur nature lézarde.
 
 {# 
@@ -86,10 +92,6 @@ Jacob entend une voix alors qu'il plonge entièrement dans les scrabules : _nous
 
 Jacob explique qu'il a pu entrer dans les pensées des scrabules de la même façon qu'ils ont communiqué avec lui, et qu'ils avaient pour intention de les tuer après s'être servis d'eux, expliquant son geste. Dermart les retrouve et les remercie, organisant une fête.
 
-Ils y apprennent qu'ils ne peuvent retourner sur Terre car seuls les scrabules avaient la technologie du voyage intersidéral. Même s'il y a un prototype expérimental.
+Ils y apprennent qu'ils ne peuvent retourner sur Terre car seuls les scrabules avaient la technologie du voyage intersidéral. Même s'il y a un prototype expérimental par le Professeur Phil. Ils tentent de le prendre quand même, malgré les propositions de leur greffer un tube à nourriture sous les aisselles.
 
-{#[[a]]
-| Cette page résume [l'_Horrifique Histoire Hors Série “Chaire de poule”_](https://www.twitch.tv/videos/2000708744?t=01h32m15s) diffusée par Vincent Chabrette le dimanche 17 décembre 2023.
-|
-| **Si vous souhaitez écouter la rediffusion ou lire la nouvelle, ne lisez pas ce qui suit, toute l’histoire vous y est divulgâchée !**
-#}
+Le vaisseau fonctionne ! En arrivant à destination, ils vont vers un village où ils saluent un couple âgé. Pour leur répondre, ils soulèvent tout naturellement leurs têtes tel des masques pour révéler leur nature lézarde.
