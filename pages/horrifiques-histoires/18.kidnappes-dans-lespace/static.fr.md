@@ -20,7 +20,8 @@ process:
 - Lorsque Jacob entre en 5^ème^, il ne connaît plus personne, ne comprends plus l'alphabet (qui ressemble à `▼ ◬ ැ ⌇ ·`), ni ne reconnaît les cartes. Ni le collège. Tout le monde sauf lui mange via une bouche placée _sous leurs aisselles_.
 - Il découvre qu'une fille du collège, Arlène, semble “normale” comme lui.^[Il le découvre alors qu'il lui rentre dedans, pendant qu'il fuiayt du collège suite à des brimades au déjeuner car il ne mange pas comme les autres. Il se blesse à la jambe en chemin et réaliste que de gros insectes remontent sa jambe et boivent son sang, qu'il enlève tant bien que mal. Après s'être retrouvés, ils sont attaqués par des _scrabules_, ces mêmes insectes poilus suceurs de sang, alors que certains des collégien·nes les rejoignent, et sifflent de plus en plus fort pour les faire fuir, en expliquant que “tout le monde sait” que ça les fait fuir.] Elle ne se souvient plus de son nom de famille. Ils réalisent qu'ils ont oublié leurs parents.
 - Jacob a un flash de sa maison ; ils partent à sa recherche.^[Après avoir été harangués pour faire une partie d'un sport dont ils ne comprennent rien, et prétextent un rendez-vous pour décliner.] Ils passent devant une bibliothèque et tentent d'y trouver des informations… mais réalisent rapidement que tout est écrit avec cet alphabet inconnu.
-- Réalisant qu'ils sont suivis par un inconnu depuis le matin, ils fuient, mais l'inconnu finit par disparaître.
+- Réalisant qu'ils sont suivis par un inconnu depuis le matin, ils fuient, mais l'inconnu finit par disparaître. Ils arrivent à une maison ressemblante mais Jacob ne se souvient de rien de plus. Par contre, cela semble familier à Arlène…
+- Alors qu'ils regardent la télévision pour essayer d'obtenir des informations, ils entendent un présentateur TV affirmer : _information inquiétante : les Terriens Malsains ont débarqué, le gouvernement a lancé l'état d'urgence_.
 
 
 ## Personnages
