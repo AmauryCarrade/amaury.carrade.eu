@@ -14,3 +14,6 @@ date: '05-02-2023 23:00'
 
 *[TW]: Trigger Warning
 
+Le narrateur, un jeune chasseur, a entendu parler d'une « peur qui rôde » sur le mont des Tempêtes, dans les Catskills. Il emmène des hommes pour enquêter, et rejoint des journalistes dans un village à proximité immédiate du mont.
+
+À leur départ, il lance une expédition vers le sommet. Ils campent à l'intérieur du manoir Martense déserté.
