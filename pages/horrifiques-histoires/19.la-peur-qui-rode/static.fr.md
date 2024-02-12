@@ -10,13 +10,17 @@ date: '05-02-2023 23:00'
 ---
 
 [[a]]
-| Cette page résume [l'_Horrifique Histoire_ diffusée en live actuellement](https://www.twitch.tv/vchabrette). Le résumé est écrit au fur et à mesure : pas de risque de spoil ! Pour avoir une version à jour, actualisez la page.
+| Cette page résume [l'_Horrifique Histoire_ diffusée par Vincent Chabrette le 11 février 2024](https://www.twitch.tv/videos/2060153129?t=01h32m12s).
+|
+| **Si vous souhaitez écouter la rediffusion ou lire la nouvelle, ne lisez pas ce qui suit, toute l’histoire vous y est divulgâchée !**
 
 *[TW]: Trigger Warning
 
-_Un chasseur de monstres entend parler d'une « peur qui rôde » sur le mont Tempête. Il enquête au sein du manoir Martense, alors qu'un orage approche. Ses deux compagnons disparaissent mystérieusement, suivis du journaliste qui l'a ensuite accompagné._
+**TW : mort, meurtres, traumatisme.**
 
-_En creusant la tombe de Jan Martense, le narrateur tombe dans un souterrain où deux yeux l'observent, avant de remonter et d'apercevoir une cabane enflammée par les squatters du mont, avec une bête à l'intérieur._
+_Un chasseur de monstres entend parler d'une « peur qui rôde » sur le mont Tempête. Il enquête au sein du manoir des Martense pour comprendre d'où viennent ces créatures mystérieuses et dangereuses, alors qu'un orage approche. Ses deux compagnons disparaissent mystérieusement, suivis du journaliste qui l'a ensuite accompagné._
+
+_Il trouve l'entrée d'un terrier dans lequel d'innombrables créatures grouillent, s'entre-tuent. Il fait détruire ce terrier à la dynamite, après avoir réalisé, traumatisé durablement, que ces créatures sont en réalité les membres de la famille Martense, déformés physiquement et mentalement par de nombreuses années d'isolement._
 
 ---
 
@@ -47,3 +51,7 @@ Le narrateur apprend qu'un meurtre a eu lieu pendant que les yeux le regardaient
 Le narrateur continue à chercher d'autres indices, jusqu'à ce qu'il s'aperçoive que d'étranges monticules de terre partent en ligne droite du manoir. Il trouve l'entrée d'un terrier dans le sous-sol… alors qu'une nouvelle tempête approche.
 
 Il se cache et observe d'innombrables créatures qui sortent du trou en rampant. Le narrateur voit alors l'un des membres les plus faibles de la foule se faire attaquer et dévorer par l'un des siens.
+
+Il tire sur l'une des créatures pour l'étudier — le coup de feu ayant été couvert par le tonnerre. Ce qu'il voit le fait faire détruire tout le complexe souterrain à la dynamite et lui créa un traumatisme durable.
+
+Il réalise que la créature, difforme, est un membre de la famille Martense.

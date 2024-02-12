@@ -9,10 +9,6 @@ process:
     markdown: false
 ---
 
-{#[[a]]
-| Cette page résume [l'_Horrifique Histoire Hors Série “Chaire de poule”_](https://www.twitch.tv/vchabrette) diffusée par Vincent Chabrette actuellement sur Twitch.  
-| Ce résumé est écrit au fur et à mesure, il est donc **garanti sans _spoil_** !#}
-
 [[a]]
 | Cette page résume [l'_Horrifique Histoire Hors Série “Chaire de poule”_](https://www.twitch.tv/videos/2006860424?t=01h30m01s) diffusée par Vincent Chabrette le dimanche 17 décembre 2023.
 |
