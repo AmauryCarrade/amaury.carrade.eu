@@ -42,4 +42,8 @@ Il aperçoit au loin une lueur rouge… qu'il apprend être une cabane à laquel
 
 ### IV. L'horreur dans les yeux
 
-_(Ce chapitre vient de commencer.)_
+Le narrateur apprend qu'un meurtre a eu lieu pendant que les yeux le regardaient, ce qui le terrorise.
+
+Le narrateur continue à chercher d'autres indices, jusqu'à ce qu'il s'aperçoive que d'étranges monticules de terre partent en ligne droite du manoir. Il trouve l'entrée d'un terrier dans le sous-sol… alors qu'une nouvelle tempête approche.
+
+Il se cache et observe d'innombrables créatures qui sortent du trou en rampant. Le narrateur voit alors l'un des membres les plus faibles de la foule se faire attaquer et dévorer par l'un des siens.
