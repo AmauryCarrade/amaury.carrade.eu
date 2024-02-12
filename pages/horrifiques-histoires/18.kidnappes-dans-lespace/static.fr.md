@@ -7,6 +7,8 @@ process:
     twig: true
     zmarkdown: true
     markdown: false
+publish_date: '17-12-2023 23:00'
+date: '17-12-2023 23:00'
 ---
 
 [[a]]

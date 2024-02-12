@@ -1,12 +1,12 @@
 ---
 title: 'La peur qui rôde'
-abstract: 'Résumé court et détaillé du Maître des Crabes, de Clark Ashton Smith !'
+abstract: 'Résumé court et détaillé de La peur qui rôde, de Howard Phillips Lovecraft !'
 homepage:
     invite: 'Howard Phillips Lovecraft'
 admin:
     children_display_order: default
-publish_date: '05-02-2023 23:00'
-date: '05-02-2023 23:00'
+publish_date: '11-02-2024 23:00'
+date: '11-02-2024 23:00'
 ---
 
 [[a]]
