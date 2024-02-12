@@ -28,4 +28,4 @@ Arthur regarde par la fenêtre pour observer les dégâts d'un éclair lumineux.
 
 ### III. La vérité sur la lueur rouge
 
-Le narrateur creuse la tombe de Jan Martense.
+Le narrateur creuse la tombe de Jan Martense tout en développant une obsession pour la recherche d'explications. Il nous explique que l'on sait très peu de choses sur la famille Martense.
