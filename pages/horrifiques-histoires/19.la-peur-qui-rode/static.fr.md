@@ -14,6 +14,12 @@ date: '05-02-2023 23:00'
 
 *[TW]: Trigger Warning
 
+_Un chasseur de monstres entend parler d'une « peur qui rôde » sur le mont Tempête. Il enquête au sein du manoir Martense, alors qu'un orage approche. Ses deux compagnons disparaissent mystérieusement, suivis du journaliste qui l'a ensuite accompagné._
+
+_En creusant la tombe de Jan Martense, le narrateur tombe dans un souterrain où deux yeux l'observent, avant de remonter et d'apercevoir une cabane enflammée par les squatters du mont, avec une bête à l'intérieur._
+
+---
+
 ### I. L'ombre sur la cheminée
 
 Le narrateur, un chasseur de monstres, a entendu parler d'une « peur qui rôde » sur le mont Tempête, dans les Catskills, et emmène ses deux hommes forts pour enquêter. Ils campent à l'intérieur du manoir Martense déserté alors qu'un orage approche, et se sentant étrangement somnolents, ils s'endorment tous.
@@ -29,3 +35,11 @@ Arthur regarde par la fenêtre pour observer les dégâts d'un éclair lumineux.
 ### III. La vérité sur la lueur rouge
 
 Le narrateur creuse la tombe de Jan Martense tout en développant une obsession pour la recherche d'explications. Il nous explique que l'on sait très peu de choses sur la famille Martense.
+
+Après avoir atteint le cercueil, il continue à creuser et tombe dans un souterrain. Il rampe jusqu'à ce qu'il aperçoive deux yeux reflétant la lumière de sa torche dans l'obscurité. Un autre coup de foudre fait céder le tunnel au-dessus de la bête et le narrateur doit se frayer un chemin jusqu'à la surface.
+
+Il aperçoit au loin une lueur rouge… qu'il apprend être une cabane à laquelle les squatters du mont ont embrasée, avec l'une des bêtes à l'intérieur.
+
+### IV. L'horreur dans les yeux
+
+_(Ce chapitre vient de commencer.)_
