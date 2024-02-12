@@ -22,4 +22,10 @@ Le narrateur se réveille et constate que ses deux compagnons ont disparu. Dans 
 
 ### II. Un passant dans la tempête
 
-Il fait équipe avec Arthur Munroe, un journaliste, pour se rassurer. Ils tentent de recueillir des informations sur le manoir et ses environs… jusqu'à se retrouver pris au piège d'une nouvelle tempête.
+Il fait équipe avec Arthur Munroe, un journaliste, pour se rassurer. Ils tentent de recueillir des informations sur le manoir et ses environs… jusqu'à se retrouver pris au piège d'une nouvelle tempête. Ils se réfugient dans une petite cabane.
+
+Arthur regarde par la fenêtre pour observer les dégâts d'un éclair lumineux. Alors qu'il mettait longtemps à s'en détacher, le narrateur se tourne vers lui et constate qu'il est mort… et qu'il n'a _plus de visage_.
+
+### III. La vérité sur la lueur rouge
+
+Le narrateur creuse la tombe de Jan Martense.
