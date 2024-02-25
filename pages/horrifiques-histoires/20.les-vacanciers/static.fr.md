@@ -15,4 +15,4 @@ date: '05-02-2023 23:00'
 *[TW]: Trigger Warning
 
 
-Janet et Robert Allison, un vieux couple, passe ses vacances dans un chalet au confort spartiate, sans électricité ou eau courante.
+Janet et Robert Allison, un vieux couple, passent leurs étés dans un chalet au confort spartiate, sans électricité ou eau courante, perdu dans la campagne.
