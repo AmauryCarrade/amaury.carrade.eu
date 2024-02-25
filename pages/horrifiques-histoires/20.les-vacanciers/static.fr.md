@@ -19,3 +19,5 @@ date: '05-02-2023 23:00'
 
 
 Janet et Robert Allison, un vieux couple, passent leurs étés dans un chalet au confort spartiate, sans électricité ou eau courante, perdu dans la campagne. Une année, **ils décident de ne pas rentrer à New York et restent au chalet après la fête du Travail**^[Ils ne travaillent plus, leurs enfants vont désormais en vacances avec leurs familles, et regrettent à chaque fois de partir ou de ne pas revenir plus tôt… Ils se disent qu'ils n'ont rien à perdre à rester un mois de plus.]. Les locaux les en découragent, notamment M. Babcock, l'épicier — sans succès^[Le lendemain, ils descendent au village pour leurs courses hebdomadaires, et annoncent aux commerçants qu'ils restent un mois de plus. Mr. Babcock, épicier, leur dit que c'est la première fois ; Mr. Charley Walpole, propriétaire de la droguerie-quincaillerie, leur avoue qu'il pense que c'est soit une mauvaise idée.].
+
+Le lendemain, ils profitent de leurs vacances mais constatent qu'ils n'ont pas reçu le courrier qu'ils attendaient de leurs enfants. Le surlendemain, leur livreur de pétrole leur explique qu'il ne peut les livrer après la fête du Travail.
