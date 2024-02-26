@@ -1,16 +1,18 @@
 ---
-title: 'Shirley Jackson'
-abstract: 'Résumé court et détaillé du Maître des Crabes, de Clark Ashton Smith !'
+title: 'Les Vacanciers'
+abstract: 'Résumé court et détaillé des Vacanciers, de Shirley Jackson !'
 homepage:
-    invite: "Clark Ashton Smith\_\_·\_\_Zothique"
+    invite: 'Shirley Jackson'
 admin:
     children_display_order: default
-publish_date: '05-02-2023 23:00'
-date: '05-02-2023 23:00'
+publish_date: '25-02-2024 23:00'
+date: '25-02-2024 23:00'
 ---
 
 [[a]]
-| Cette page résume [l'_Horrifique Histoire_ diffusée en live actuellement](https://www.twitch.tv/vchabrette). Le résumé est écrit au fur et à mesure : pas de risque de spoil ! Pour avoir une version à jour, actualisez la page.
+| Cette page résumé [l'_Horrifique Histoire_ diffusée en live le 25 février 2024 par VChabrette sur Twitch](https://www.twitch.tv/videos/2073710002?t=01h32m52s).
+|
+| **Ce résumé divulgâche toute l'histoire. Si vous voulez lire l'œuvre, ou écouter la rediffusion, ne lisez surtout pas ci-dessous !**
 
 *[TW]: Trigger Warning
 
@@ -21,6 +23,8 @@ _M. et Mme Allison, un vieux couple, passent leurs étés dans un chalet perdu d
 
 _Dés le lendemain de la fête du Travail, les changements s'accumulent : le courrier n'arrive plus, le pétrole ne peut plus être livré, la livraison à domicile de l'épicier s'arrête, leur voiture se casse, suivie de leur téléphone, et ils reçoivent une lettre de leur fils qui ne semble pas normale._
 
+_Le soir, le couple s'avoue que la voiture et le téléphone ont été sabotés, que les Halls leur ont menti et que la lettre est très probablement fausse. L'orage frappe leur chalet et s'abat sur le couple impuissant et résigné._
+
 
 # Résumé détaillé
 
@@ -30,6 +34,8 @@ Le lendemain, ils profitent de leurs vacances mais constatent qu'ils n'ont pas r
 
 Le lendemain, M. Allison s'aperçoit que sa voiture ne démarre pas. La station service ne répond pas. Anxieuse, sa femme lui propose d'aller chercher le courrier pour se changer les idées : lorsque Robert revient, joyeux, c'est avec une lettre de Jerry, son fils. Mais la lettre semble étrange à Mme Allison, sans précisément qu'elle n'identifie pourquoi.
 
-M. Allison décide d'appeler Jerry pour découvrir que le téléphone ne fonctionne plus.
+M. Allison décide d'appeler Jerry, pour découvrir que le téléphone ne fonctionne plus.
 
-Le soir, attendant l'orage en écoutant la radio, M. Allison avoue à Mme que la voiture a été sabotée, et Mme à M. que les fils du téléphone ont été coupés.
+Le soir, attendant l'orage en écoutant la radio, M. Allison avoue à Mme que la voiture a été sabotée, et Mme à M. que les fils du téléphone ont été coupés. Mme Allison affirme qu'elle se sent mieux vis-à-vis de la lettre, mais M. Allison lui répond qu'il a vu de la lumière chez les Hall^[Censés être partis.]
+
+L'orage frappe soudain fortement le chalet du couple, résigné à attendre leur sort.
