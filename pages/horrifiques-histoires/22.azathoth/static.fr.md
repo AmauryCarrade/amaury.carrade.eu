@@ -1,5 +1,5 @@
 ---
-title: Azatoth
+title: Azathoth
 abstract: 'Résumé court et détaillé des Vacanciers, de Shirley Jackson !'
 homepage:
     invite: 'Howard Phillips Lovecraft'
