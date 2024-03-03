@@ -17,4 +17,8 @@ published: true
 
 *[TW]: Trigger Warning
 
-_L'histoire n'a pas encore commencé. Vous n'avez rien raté, installez-vous confortablement !_
+**TW : drogues, suicide.**
+
+_L'histoire commence à peine. Vous n'avez rien raté, installez-vous confortablement !_
+
+L'histoire est racontée par un homme torturé et morphinomane qui envisage de se suicider, suite à un incident survenu au début de la Première Guerre mondiale, alors qu'il était officier de la marine marchande.
