@@ -17,4 +17,6 @@ published: true
 
 *[TW]: Trigger Warning
 
-_L'histoire n'a pas encore commencé. Vous n'avez rien raté, installez-vous confortablement !_
+Le monde moderne a été dépouillé de l'imagination et de la croyance en la magie.
+
+Le protagoniste est un homme sans nom qui vit dans une ville terne et laide. Chaque nuit, il a pour habitude de se pencher vers le ciel pour voir autre chose.
