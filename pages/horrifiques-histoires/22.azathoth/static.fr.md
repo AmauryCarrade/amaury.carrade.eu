@@ -11,12 +11,12 @@ published: true
 ---
 
 [[a]]
-| Cette page résumé [l'_Horrifique Histoire_ diffusée en live le 3 mars 2024 par VChabrette sur Twitch](https://www.twitch.tv/vchabrette).
+| Cette page résumé [l'_Horrifique Histoire_ diffusée en live le 3 mars 2024 par VChabrette sur Twitch](https://www.twitch.tv/videos/2080573373?t=01h58m38s).
 |
 | **Ce résumé divulgâche toute l'histoire. Si vous voulez lire l'œuvre, ou écouter la rediffusion, ne lisez surtout pas ci-dessous !**
 
 *[TW]: Trigger Warning
-*[DÉBUT-HH]: 1h55 environ
+*[DÉBUT-HH]: 01h58m38s
 
 Le monde moderne a été dépouillé de l'imagination et de la croyance en la magie.
 
