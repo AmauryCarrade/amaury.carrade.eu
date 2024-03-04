@@ -11,11 +11,12 @@ published: true
 ---
 
 [[a]]
-| Cette page résume [l'_Horrifique Histoire_ diffusée en live actuellement](https://www.twitch.tv/vchabrette). Le résumé est écrit au fur et à mesure : pas de risque de spoil ! Pour avoir une version à jour, actualisez la page.
+| Cette page résumé [l'_Horrifique Histoire_ diffusée en live le 3 mars 2024 par VChabrette sur Twitch](https://www.twitch.tv/vchabrette).
 |
-| Ce live est réalisé en collaboration (non-commerciale) avec les [Éditions Bragelonne](https://www.bragelonne.fr/) !
+| **Ce résumé divulgâche toute l'histoire. Si vous voulez lire l'œuvre, ou écouter la rediffusion, ne lisez surtout pas ci-dessous !**
 
 *[TW]: Trigger Warning
+*[DÉBUT-HH]: 2h30 environ
 
 **TW : drogues, suicide.**
 
@@ -48,4 +49,8 @@ Alors que le narrateur contemple le monolithe, une créature émerge soudainemen
 
 Terrorisé, le marin s'enfuit vers son canot échoué, et se souvient vaguement d'une « _grande tempête_ ».
 
-Il se réveille dans un hôpital à San Francisco.
+Il se réveille dans un hôpital à San Francisco. Il ne s'attend à ce que personne ne le croit, et aucune tempête n'a été signalée.
+
+Il est hanté par les visions de la créature, notamment les nuits de lune gibbeuse, qui le font craindre pour l'avenir de l'humanité.
+
+Sans médicament, il se déclare prêt à se suicider, et le récit se révèle être une lettre de suicide. Le narrateur se précipite à la fenêtre en entendant « _un bruit à la porte, comme celui d'un immense corps glissant qui s'y heurterait_ ».

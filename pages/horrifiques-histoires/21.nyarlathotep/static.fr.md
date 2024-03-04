@@ -11,14 +11,11 @@ published: true
 ---
 
 [[a]]
-| Cette page résumé [l'_Horrifique Histoire_ diffusée en live le 3 mars 2024 par VChabrette sur Twitch](https://www.twitch.tv/videos/2080399560?t=1h06m45s).
-|
-| Le live est toujours en cours ! À suivre, [_Azatoth_](https://amaury.carrade.eu/horrifiques-histoires/azatoth)…
+| Cette page résumé [l'_Horrifique Histoire_ diffusée en live le 3 mars 2024 par VChabrette sur Twitch](https://www.twitch.tv/videos/2080399560?t=01h05m52s).
 |
 | **Ce résumé divulgâche toute l'histoire. Si vous voulez lire l'œuvre, ou écouter la rediffusion, ne lisez surtout pas ci-dessous !**
 
 *[TW]: Trigger Warning
-*[DÉBUT]: 1h06m45 environ
 
 _En bref._
 

@@ -11,13 +11,12 @@ published: true
 ---
 
 [[a]]
-| Cette page résumé [l'_Horrifique Histoire_ diffusée en live le 3 mars 2024 par VChabrette sur Twitch](https://www.twitch.tv/videos/2080399560?t=1h55m45s).
-|
-| Le live est toujours en cours ! À suivre, [_Dagon_](https://amaury.carrade.eu/horrifiques-histoires/dagon)…
+| Cette page résumé [l'_Horrifique Histoire_ diffusée en live le 3 mars 2024 par VChabrette sur Twitch](https://www.twitch.tv/vchabrette).
 |
 | **Ce résumé divulgâche toute l'histoire. Si vous voulez lire l'œuvre, ou écouter la rediffusion, ne lisez surtout pas ci-dessous !**
 
 *[TW]: Trigger Warning
+*[DÉBUT-HH]: 1h55 environ
 
 Le monde moderne a été dépouillé de l'imagination et de la croyance en la magie.
 
