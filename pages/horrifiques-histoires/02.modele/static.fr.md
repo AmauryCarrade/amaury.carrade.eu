@@ -14,10 +14,6 @@ published: false
 | Cette page résume [l'_Horrifique Histoire_ diffusée en live actuellement](https://www.twitch.tv/vchabrette). Le résumé est écrit au fur et à mesure : pas de risque de spoil ! Pour avoir une version à jour, actualisez la page.
 
 *[TW]: Trigger Warning
+*[DÉBUT-HH]: Mettre l'horodatage de début ici
 
-# En bref
-
-
-
-# Résumé détaillé
-
+_L'histoire n'a pas encore commencée : vous n'avez rien raté ! Installez-vous confortablement._

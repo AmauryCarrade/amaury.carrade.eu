@@ -1,6 +1,6 @@
 ---
 title: Dagon
-abstract: 'Résumé court et détaillé des Vacanciers, de Shirley Jackson !'
+abstract: 'Résumé court et détaillé de Dagon, de Howard Phillips Lovecraft, en collaboration non-commerciale avec Bragelonne !'
 homepage:
     invite: 'Howard Phillips Lovecraft'
 admin:
@@ -11,7 +11,7 @@ published: true
 ---
 
 [[a]]
-| Cette page résumé [l'_Horrifique Histoire_ diffusée en live le 3 mars 2024 par VChabrette sur Twitch](https://www.twitch.tv/videos/2080573373?t=02h16m57s).
+| Cette page résumé [l'_Horrifique Histoire_ diffusée par Vincent Chabrette le 3 mars 2024](https://www.twitch.tv/videos/2080573373?t=02h16m57s), en collaboration non-rémunérée avec les [Éditions Bragelonne](https://www.bragelonne.fr).
 |
 | **Ce résumé divulgâche toute l'histoire. Si vous voulez lire l'œuvre, ou écouter la rediffusion, ne lisez surtout pas ci-dessous !**
 
