@@ -17,4 +17,8 @@ date: '03-03-2024 21:00'
 *[TW]: Trigger Warning
 *[DÉBUT-HH]: ~02h04m30s
 
-Héritier de la famille De la Poer, le narrateur du récit, M. Delapore, quitte le Massachusetts pour retourner dans son ancestral État d'Angleterre, en le _Prieuré d'Exham_.
+**TW : mort mentionnée.**
+
+- Héritier de la famille De la Poer, le narrateur du récit, M. Delapore, vit dans la grisaille du Massachusetts après avoir évité la guerre civile américaine.
+- Après le décès de son fils suite à la première guerre mondiale, il quitte le Massachusetts pour s'installer au Prieuré d'Exham, dans son ancestrale Angleterre.
+- Les habitant·es du village n'aiment guère ce prieuré, ni son propriétaire, ni sa famille entière. Ils considèrent la bâtisse comme un « _repère de démons_ ».
