@@ -19,6 +19,6 @@ date: '03-03-2024 21:00'
 
 **TW : mort mentionnée.**
 
-- Héritier de la famille De la Poer, le narrateur du récit, M. Delapore, vit dans la grisaille du Massachusetts après avoir évité la guerre civile américaine.
-- Après le décès de son fils suite à la première guerre mondiale, il quitte le Massachusetts pour s'installer au Prieuré d'Exham, dans son ancestrale Angleterre.
-- Les habitant·es du village n'aiment guère ce prieuré, ni son propriétaire, ni sa famille entière. Ils considèrent la bâtisse comme un « _repère de démons_ ».
+- Héritier de la famille De la Poer, le narrateur du récit, M. Delapore, quitte le Massachusetts pour s'installer au Prieuré d'Exham^[Il vivait dans la grisaille du Massachusetts après avoir évité la guerre civile américaine. Il a décidé de retourner sur les terres de ses ancêtres suite au décès de son fils des conséquences de la première guerre mondiale.], dans l’Angleterre de ses ancêtres.
+- Les habitant·es du village n'aiment guère ce prieuré, ni son propriétaire, ni sa famille entière. Ils considèrent la bâtisse comme un « _repère de démons_ ». Le narrateur découvre qu'il est sur un ancien site druidique.
+- Il apprend que selon une légende, une armée de rats aurait envahi la demeure quelques mois après un drame et auraient tout dévoré, y compris deux humains. Il n'y croit guère… et continue la restauration.
