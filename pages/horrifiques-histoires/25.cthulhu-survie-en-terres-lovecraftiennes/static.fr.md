@@ -15,4 +15,9 @@ date: '10-03-2024 21:00'
 | Le résumé est écrit au fur et à mesure : pas de risque de spoil ! Pour avoir une version à jour, actualisez la page.
 
 *[TW]: Trigger Warning
-*[DÉBUT-HH]: ~02h25m00s
+*[DÉBUT-HH]: ~02h30m00s
+
+_Contrairement à d'habitude, [l'œuvre du jour est un roman](https://www.bragelonne.fr/catalogue/9791028107468-cthulhu-survie-en-terres-lovecraftiennes/), et non une nouvelle. La lecture concerne des morceaux choisis._
+
+_La lecture n'a pas encore commencé. Installez-vous confortablement !_
+
