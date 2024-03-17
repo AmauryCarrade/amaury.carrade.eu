@@ -13,15 +13,12 @@ date: '10-03-2024 21:00'
 | Cette page résume [l'_Horrifique Histoire_ diffusée par Vincent Chabrette](https://www.twitch.tv/vchabrette), en collaboration non-rémunérée avec les [Éditions Bragelonne](https://www.bragelonne.fr).
 |
 | Le résumé est écrit au fur et à mesure : pas de risque de spoil ! Pour avoir une version à jour, actualisez la page.
+|
+| _Contrairement à d'habitude, [l'œuvre du jour est un roman](https://www.bragelonne.fr/catalogue/9791028107468-cthulhu-survie-en-terres-lovecraftiennes/), et non une nouvelle. La lecture concerne des morceaux choisis._
 
 *[TW]: Trigger Warning
 *[DÉBUT-HH]: ~02h37m35s, reboot à 2h42m00s et 2h44m23s
 
-_Contrairement à d'habitude, [l'œuvre du jour est un roman](https://www.bragelonne.fr/catalogue/9791028107468-cthulhu-survie-en-terres-lovecraftiennes/), et non une nouvelle. La lecture concerne des morceaux choisis._
+Ian Arzhel, le narrateur^[Sauf de l'introduction, narrée par son neveu.], est un ancien journaliste et investigateur de l’occulte et de l'indicible. Après avoir parcouru et étudié les mondes occultes, il se prend pour mission d'écrire un guide, autant qu'un avertissement, de ces terres. Il s'agit du _Guide de Survie en Terres Lovecraftiennes_.
 
-[[i]]
-| La lecture commence à peine. Installez-vous confortablement !
-
-Ian Arzhel, le narrateur^[Sauf de l'introduction, narrée par son neveu.], a fait parvenir à son neveu une malle plein de croquis, de manuscrits et de bibelots. Ce dernier publie à titre posthume le manuscrit de son oncle, pour respecter sa dernière volonté.
-
-Ian est un ancien journaliste, et investigateur de l’occulte et de l'indicible.
+Il fait parvenir à son neveu une malle plein de croquis, de manuscrits et de bibelots. Ce dernier publie à titre posthume le manuscrit de son oncle, pour respecter sa dernière volonté.
