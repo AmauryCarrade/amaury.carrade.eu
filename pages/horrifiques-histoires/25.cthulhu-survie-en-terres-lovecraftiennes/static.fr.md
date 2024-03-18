@@ -24,12 +24,30 @@ Ian Arzhel, le narrateur^[Sauf de l'introduction, narrée par son neveu.], est u
 > Il n'y a nulle fiction derrière le mythe…
 > Source: Ian Arzhel
 
+Il fait parvenir à son neveu une malle plein de croquis, de manuscrits et de bibelots. Ce dernier publie à titre posthume le manuscrit de son oncle, pour respecter sa dernière volonté.
+
+## Les grands mythes
+
+[[s|Le mythe du Culte de Cthulhu]]
+| _Mythe non-lu, car il sera l'objet de l'émission de la semaine suivante._
+
+
 [[s|Le mythe de Whateley]]
 | Le fils de Whateley, Wilbur, grandit à une très grande vitesse, ayant déjà une barbe et une taille adulte à 10 ans. Le père est tué et son fils est soupçonné… On découvre que Wilbur avait un frère, un second fils caché issu d'une créature démoniaque, le _Dunwich Horror_, réel coupable.
 
-[[n|L’affaire de la lande du Diable]]
+[[s|L’affaire de la lande du Diable (ou _lande foudroyée_)]]
 | Le mythe de la [couleur tombée du ciel](https://www.twitch.tv/videos/2023114923?collection=q-f5A1ZxchYVQg) ([résumé](https://amaury.carrade.eu/horrifiques-histoires/la-couleur-tombee-du-ciel)). Une étrange météorite est tombée en 1880 dans le champ du paysan Nahum Gardner. Ses propriétés stupéfiantes sont étudiées par des scientifiques. On y voyait des couleurs inconnues de notre spectre lumineux… Mais la pierre rétrécit à vue d'œil et disparu avant d'avoir pu être étudiée.
 |
-| Elle influença les couleurs de la faune et de la flore des environs. Les plantes se desséchèrent et s'effritèrent… ainsi que la famille Gardner. Leurs enfants sont retrouvés morts dans un puits… où une créature se cachait depuis la chute.
+| Elle influença les couleurs de la faune et de la flore des environs. Les plantes se desséchèrent et s'effritèrent… ainsi que la famille Gardner. Leurs enfants sont retrouvés morts dans un puits… où une créature se cachait depuis la chute…
 
-_Il fait parvenir à son neveu une malle plein de croquis, de manuscrits et de bibelots. Ce dernier publie à titre posthume le manuscrit de son oncle, pour respecter sa dernière volonté._
+Ian Arzhel affirme que si notre esprit n'est pas ouvert à ce moment, alors il ne le sera jamais et autant revendre le livre à quelqu'un qui saura le comprendre…
+
+## Les sept commandements pour survivre aux Mythes
+
+1. **Respecter le mythe.** Non s'agenouiller, mais le traiter avec « le respect accordé à un vieil ennemi ».
+2. **Faites de la connaissance votre alliée.** Avant même d'entreprendre quelqu'action. Lisez, beaucoup. Intéressez-vous à tout… afin de savoir à quoi vous devrez survivre.
+3. **Ne laissez pas la peur vous dominer.** Elle engendre panique et précipitation, des réactions néfastes. Préparez-vous minutieusement.
+4. **Soyez préparé·e au pire à tout moment.** Car vous connaissez la puissance apocalyptique du mythe. Ne négligez pas votre entraînement physique, ni mental.
+5. **Devenez imperturbable face à la mort.** Soyez préparé·e au pire… littéralement. Craignez la mort, mais « prenez conscience qu'elle deviendra votre quotidien ».
+6. **Soyez discret (discrète) en toute circonstance.** Vous pourriez être pris pour un fou ou devenir la cible de personnes malveillantes… ou de cultes obscurs. Vous pouvez en parler à vos proches mais n'oubliez pas : « nos proches nous tournent le dos plus vite qu'on ne l'imagine ».
+7. **De l'Homme, tu dois te méfier.** L'humain est aisément corruptible, et peut se laisser séduire par les promesses du Mythe.
