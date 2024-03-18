@@ -24,4 +24,12 @@ Ian Arzhel, le narrateur^[Sauf de l'introduction, narrée par son neveu.], est u
 > Il n'y a nulle fiction derrière le mythe…
 > Source: Ian Arzhel
 
+[[s|Le mythe de Whateley]]
+| Le fils de Whateley, Wilbur, grandit à une très grande vitesse, ayant déjà une barbe et une taille adulte à 10 ans. Le père est tué et son fils est soupçonné… On découvre que Wilbur avait un frère, un second fils caché issu d'une créature démoniaque, le _Dunwich Horror_, réel coupable.
+
+[[n|L’affaire de la lande du Diable]]
+| Le mythe de la [couleur tombée du ciel](https://www.twitch.tv/videos/2023114923?collection=q-f5A1ZxchYVQg) ([résumé](https://amaury.carrade.eu/horrifiques-histoires/la-couleur-tombee-du-ciel)). Une étrange météorite est tombée en 1880 dans le champ du paysan Nahum Gardner. Ses propriétés stupéfiantes sont étudiées par des scientifiques. On y voyait des couleurs inconnues de notre spectre lumineux… Mais la pierre rétrécit à vue d'œil et disparu avant d'avoir pu être étudiée.
+|
+| Elle influença les couleurs de la faune et de la flore des environs. Les plantes se desséchèrent et s'effritèrent… ainsi que la famille Gardner. Leurs enfants sont retrouvés morts dans un puits… où une créature se cachait depuis la chute.
+
 _Il fait parvenir à son neveu une malle plein de croquis, de manuscrits et de bibelots. Ce dernier publie à titre posthume le manuscrit de son oncle, pour respecter sa dernière volonté._
