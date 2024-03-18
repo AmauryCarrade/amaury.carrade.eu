@@ -44,10 +44,18 @@ Ian Arzhel affirme que si notre esprit n'est pas ouvert à ce moment, alors il n
 
 ## Les sept commandements pour survivre aux Mythes
 
-1. **Respecter le mythe.** Non s'agenouiller, mais le traiter avec « le respect accordé à un vieil ennemi ».
+1. **Respectez le mythe.** Non s'agenouiller, mais le traiter avec « le respect accordé à un vieil ennemi ».
 2. **Faites de la connaissance votre alliée.** Avant même d'entreprendre quelqu'action. Lisez, beaucoup. Intéressez-vous à tout… afin de savoir à quoi vous devrez survivre.
 3. **Ne laissez pas la peur vous dominer.** Elle engendre panique et précipitation, des réactions néfastes. Préparez-vous minutieusement.
 4. **Soyez préparé·e au pire à tout moment.** Car vous connaissez la puissance apocalyptique du mythe. Ne négligez pas votre entraînement physique, ni mental.
 5. **Devenez imperturbable face à la mort.** Soyez préparé·e au pire… littéralement. Craignez la mort, mais « prenez conscience qu'elle deviendra votre quotidien ».
 6. **Soyez discret (discrète) en toute circonstance.** Vous pourriez être pris pour un fou ou devenir la cible de personnes malveillantes… ou de cultes obscurs. Vous pouvez en parler à vos proches mais n'oubliez pas : « nos proches nous tournent le dos plus vite qu'on ne l'imagine ».
 7. **De l'Homme, tu dois te méfier.** L'humain est aisément corruptible, et peut se laisser séduire par les promesses du Mythe.
+
+Vous pouvez compléter cette liste afin qu'elle soit personnelle, tant que vos ajouts ne rentrent pas en conflit avec ces principes initiaux.
+
+Le Mythe peut venir de partout, y compris d'endroits insoupçonnés ou insoupçonnables.
+
+## Le vertige du Mythe
+
+Un sentiment découvert lors du premier contact — souvent mortel — avec le Mythe. Une apathie de plusieurs jours ou nuits^[Le narrateur dit avoir frôlé l'internement, après sept jours et sept nuits plongé dans cet état.].
