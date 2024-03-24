@@ -16,3 +16,8 @@ date: '10-03-2024 21:00'
 
 *[TW]: Trigger Warning
 *[DÉBUT-HH]: ~03h09m
+
+_Nous lisons un ensemble de papiers du défunt Francis Wayland Thurston, un anthropologue qui a enquêté sur un culte obscur._
+
+### Chapitre 1 – L'horreur d'argile
+
