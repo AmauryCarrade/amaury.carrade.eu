@@ -31,14 +31,17 @@ _Nous lisons un ensemble de papiers de Francis Wayland Thurston, un anthropologu
 
 _Ce n'est pas la première fois que le Professeur Angell s'intéresse aux étranges événements autour de Cthulhu._
 
+**TW : mention de sacrifices humains.**
+
 - En 1908, à la réunion annuelle de la Société américaine d'archéologie, l'inspecteur John Legrasse demande de l'aide pour **identifier une statuette présumée vaudou**.^[Elle attire le vif intérêt des participants à la réunion.] Elle représente un monstre à tête de pieuvre^[Et à corps écaillé, pourvu de petites ailes.], et inclut des inscriptions hiéroglyphiques inconnues sur son socle.
-- L'inspecteur raconte la soirée du 1^er^ novembre 1907, où un assaut est mené suite à des disparitions, des chants terrifiants et des flammes infernales, dans les marais du sud de la Nouvelle-Orléans.
+- L'inspecteur raconte la soirée du 1^er^ novembre 1907, où un assaut est mené suite à des disparitions, des chants terrifiants et des flammes infernales, dans les marais du sud de la Nouvelle-Orléans. Ils y découvrent une sorte de **culte intense** incluant des sacrifices humains. Un attroupement d'une centaine de personnes autour d'un monolithe au sommet duquel se trouve la statuette. Ils font 47 prisonniers^[Mais aussi 5 morts et plusieurs grièvement blessés.].
+- Les prisonniers affirment que la secte vénère les « Grands Anciens », des dieux venus du ciel et aujourd'hui endormis au cœur des terres ou sous les eaux. Le grand prête, Cthulhu, communique avec les fidèles via les rêves et attend dans sa demeure de _R’lyeh_ avant de régner à nouveau sur le monde.
 
 
 ---
 
 
-[[s|Chapitre 1 – L'horreur d'argile]]
+[[s|Chapitre I^er^ – L'horreur d'argile]]
 | 
 | **TW : délires, mention du suicide.**
 | 
