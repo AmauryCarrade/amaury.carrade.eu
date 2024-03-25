@@ -22,7 +22,8 @@ _Nous lisons un ensemble de papiers de Francis Wayland Thurston, un anthropologu
 - **Chapitre I^er^ – L'horreur d'argile**  
   Un étrange bas-relief représentant un monstre aurait été sculpté par un jeune artiste pendant un rêve angoissant. Alors que l'artiste fait une crise de délires, plein d'événements étranges se produisent de part le monde, dans les rêves des artistes et ailleurs.
 
-- **Chapitre II — Le récit de l'inspecteur Legrasse**
+- **Chapitre II — Le récit de l'inspecteur Legrasse**  
+  [» _En cours_](#chapitre-iile-récit-de-linspecteur-legrasse)
 
 [[s|Chapitre 1 – L'horreur d'argile]]
 | 
@@ -35,4 +36,6 @@ _Nous lisons un ensemble de papiers de Francis Wayland Thurston, un anthropologu
 
 ### Chapitre II — Le récit de l'inspecteur Legrasse
 
-_(lecture non commencée)_
+_Ce n'est pas la première fois que le Professeur Angell s'intéresse aux étranges événements autour de Cthulhu._
+
+- En 1908, à la réunion annuelle de la Société américaine d'archéologie, l'inspecteur John Legrasse demande de l'aide pour **identifier une statuette présumée vaudou**.^[Elle attire le vif intérêt des participants à la réunion.] Elle représente un monstre à tête de pieuvre^[Et à corps écaillé, pourvu de petites ailes.], et inclut des inscriptions hiéroglyphiques inconnues sur son socle.
