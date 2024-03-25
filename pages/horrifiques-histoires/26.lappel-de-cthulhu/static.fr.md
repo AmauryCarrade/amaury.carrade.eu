@@ -13,6 +13,8 @@ date: '10-03-2024 21:00'
 | Cette page résume [l'_Horrifique Histoire_ diffusée par Vincent Chabrette](https://www.twitch.tv/vchabrette), en collaboration non-rémunérée avec les [Éditions Bragelonne](https://www.bragelonne.fr).
 |
 | Le résumé est écrit au fur et à mesure : pas de risque de spoil ! Pour avoir une version à jour, actualisez la page.
+|
+| _On reprend la semaine prochaine…_
 
 *[TW]: Trigger Warning
 *[DÉBUT-HH]: ~03h09m
