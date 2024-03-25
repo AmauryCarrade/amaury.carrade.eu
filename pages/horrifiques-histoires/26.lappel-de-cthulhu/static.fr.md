@@ -23,7 +23,20 @@ _Nous lisons un ensemble de papiers de Francis Wayland Thurston, un anthropologu
   Un étrange bas-relief représentant un monstre aurait été sculpté par un jeune artiste pendant un rêve angoissant. Alors que l'artiste fait une crise de délires, plein d'événements étranges se produisent de part le monde, dans les rêves des artistes et ailleurs.
 
 - **Chapitre II — Le récit de l'inspecteur Legrasse**  
-  [» _En cours_](#chapitre-iile-récit-de-linspecteur-legrasse)
+  _En cours_
+
+---
+
+### Chapitre II — Le récit de l'inspecteur Legrasse
+
+_Ce n'est pas la première fois que le Professeur Angell s'intéresse aux étranges événements autour de Cthulhu._
+
+- En 1908, à la réunion annuelle de la Société américaine d'archéologie, l'inspecteur John Legrasse demande de l'aide pour **identifier une statuette présumée vaudou**.^[Elle attire le vif intérêt des participants à la réunion.] Elle représente un monstre à tête de pieuvre^[Et à corps écaillé, pourvu de petites ailes.], et inclut des inscriptions hiéroglyphiques inconnues sur son socle.
+- L'inspecteur raconte la soirée du 1^er^ novembre 1907, où un assaut est mené suite à des disparitions, des chants terrifiants et des flammes infernales, dans les marais du sud de la Nouvelle-Orléans.
+
+
+---
+
 
 [[s|Chapitre 1 – L'horreur d'argile]]
 | 
@@ -33,9 +46,3 @@ _Nous lisons un ensemble de papiers de Francis Wayland Thurston, un anthropologu
 | - Georges Angell rencontre Henry Wilcox, un jeune artiste de Rhode Island, qui lui assure avoir sculpté le bas-relief pendant un rêve angoissant^[Où il s'imagina des cités perdues recouvertes de vase.]. Ils se retrouvent quotidiennement pour suivre ses rêves, qui deviennent plus précis^[Il discerne les sons _Cthulhu_, _fhtagn_ ou _R'lyeh_…].
 | - Le 23 mars, Wilcox est transféré chez ses parents suite à des crises de délire où il parle d'une créature « _de plusieurs kilomètres_ », à la démarche « _lourde et traînante_ ». Le 2 avril, tous ses symptômes disparaissent brusquement, et avec eux, ses visions nocturnes.
 | - Angell découvre, après des recherches, qu'entre le 23 mars et le 2 avril, des rêves oppressants, des visions de terreur, de créatures immenses, se sont répandues… ainsi que des tremblements de terre, suicides, orgies vaudou, révoltes…
-
-### Chapitre II — Le récit de l'inspecteur Legrasse
-
-_Ce n'est pas la première fois que le Professeur Angell s'intéresse aux étranges événements autour de Cthulhu._
-
-- En 1908, à la réunion annuelle de la Société américaine d'archéologie, l'inspecteur John Legrasse demande de l'aide pour **identifier une statuette présumée vaudou**.^[Elle attire le vif intérêt des participants à la réunion.] Elle représente un monstre à tête de pieuvre^[Et à corps écaillé, pourvu de petites ailes.], et inclut des inscriptions hiéroglyphiques inconnues sur son socle.
