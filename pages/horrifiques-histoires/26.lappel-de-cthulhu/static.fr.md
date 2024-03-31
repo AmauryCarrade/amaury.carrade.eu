@@ -27,22 +27,17 @@ _Nous lisons un ensemble de papiers de Francis Wayland Thurston, un anthropologu
   Un étrange bas-relief représentant un monstre aurait été sculpté par un jeune artiste pendant un rêve angoissant. Alors que l'artiste fait une crise de délires, plein d'événements étranges se produisent de part le monde, dans les rêves des artistes et ailleurs.
 
 - **Chapitre II — Le récit de l'inspecteur Legrasse**  
+  Une idole à tête de poulpe est confisquée à une secte vénérant les _Grands Anciens_, dieux venus des étoiles et aujourd'hui endormis au cœur de la terre. Le Grand Prêtre Cthulhu attend de réveiller ses fidèles avec qui il communique via les rêves. Thurston soupçonne que son grand-oncle est mort car il en savait trop, et commence à s'inquiéter pour lui-même.
+  
+- **Chapitre III – L’aberration surgit des flots**  
   _En cours_
 
 ---
 
-### Chapitre II — Le récit de l'inspecteur Legrasse
+### Chapitre III – L’aberration surgit des flots
 
-_Ce n'est pas la première fois que le Professeur Angell s'intéresse aux étranges événements autour de Cthulhu._
-
-**TW : mention de sacrifices humains.**
-
-- En 1908, à la réunion annuelle de la Société américaine d'archéologie, l'inspecteur John Legrasse demande de l'aide pour **identifier une statuette présumée vaudou**.^[Elle attire le vif intérêt des participants à la réunion.] Elle représente un monstre à tête de pieuvre^[Et à corps écaillé, pourvu de petites ailes.], et inclut des inscriptions hiéroglyphiques inconnues sur son socle.
-- L'inspecteur raconte la soirée du 1^er^ novembre 1907, où un assaut est mené suite à des disparitions, des chants terrifiants et des flammes infernales, dans les marais du sud de la Nouvelle-Orléans. Ils y découvrent une sorte de **culte intense** incluant des sacrifices humains. Un attroupement d'une centaine de personnes autour d'un monolithe au sommet duquel se trouve la statuette. Ils font 47 prisonniers^[Mais aussi 5 morts et plusieurs grièvement blessés.].
-- Les prisonniers affirment que la secte vénère les « Grands Anciens », des dieux venus du ciel et aujourd'hui endormis au cœur des terres ou sous les eaux. Le grand prête, Cthulhu, communique avec les fidèles via les rêves et attend dans sa demeure de _R’lyeh_ avant de régner à nouveau sur le monde.
-
-> N’est pas mort, ce qui à jamais dort  
-> Et au fil des âges, peut mourir même la mort
+- Un an après avoir lu le manuscrit, Thurston découvre une épopée marine dans un journal australien. Un naufrage dans une tempête extrêmement violente, avec un survivant, sombré dans la folie et serrant une _statuette_ dans ses bras.
+- 
 
 ---
 
@@ -55,3 +50,19 @@ _Ce n'est pas la première fois que le Professeur Angell s'intéresse aux étran
 | - Georges Angell rencontre Henry Wilcox, un jeune artiste de Rhode Island, qui lui assure avoir sculpté le bas-relief pendant un rêve angoissant^[Où il s'imagina des cités perdues recouvertes de vase.]. Ils se retrouvent quotidiennement pour suivre ses rêves, qui deviennent plus précis^[Il discerne les sons _Cthulhu_, _fhtagn_ ou _R'lyeh_…].
 | - Le 23 mars, Wilcox est transféré chez ses parents suite à des crises de délire où il parle d'une créature « _de plusieurs kilomètres_ », à la démarche « _lourde et traînante_ ». Le 2 avril, tous ses symptômes disparaissent brusquement, et avec eux, ses visions nocturnes.
 | - Angell découvre, après des recherches, qu'entre le 23 mars et le 2 avril, des rêves oppressants, des visions de terreur, de créatures immenses, se sont répandues… ainsi que des tremblements de terre, suicides, orgies vaudou, révoltes…
+
+
+[[s|Chapitre II — Le récit de l'inspecteur Legrasse]]
+| _Ce n'est pas la première fois que le Professeur Angell s'intéresse aux étranges événements autour de Cthulhu._
+| 
+| **TW : mention de sacrifices humains.**
+| 
+| - En 1908, à la réunion annuelle de la Société américaine d'archéologie, l'inspecteur John Legrasse demande de l'aide pour **identifier une statuette présumée vaudou**.^[Elle attire le vif intérêt des participants à la réunion.] Elle représente un monstre à tête de pieuvre^[Et à corps écaillé, pourvu de petites ailes.], et inclut des inscriptions hiéroglyphiques inconnues sur son socle.
+| - L'inspecteur raconte la soirée du 1^er^ novembre 1907, où un assaut est mené suite à des disparitions, des chants terrifiants et des flammes infernales, dans les marais du sud de la Nouvelle-Orléans. Ils y découvrent une sorte de **culte intense** incluant des sacrifices humains. Un attroupement d'une centaine de personnes autour d'un monolithe au sommet duquel se trouve la statuette. Ils font 47 prisonniers^[Mais aussi 5 morts et plusieurs grièvement blessés.].
+| - Les prisonniers affirment que la secte vénère les « Grands Anciens », des dieux venus du ciel et aujourd'hui endormis au cœur des terres ou sous les eaux. Le grand prête, Cthulhu, communique avec les fidèles via les rêves et attend dans sa demeure de _R’lyeh_ avant de régner à nouveau sur le monde.
+| 
+| > N’est pas mort, ce qui à jamais dort  
+| > Et au fil des âges, peut mourir même la mort
+| 
+| - Il semblerait que ce culte se répande aux quatre coins du monde, d'après Castro.
+| - Thurston décide de continuer l'enquête du Professeur Angell. Il soupçonne qu'il est en réalité mort car il en savait trop… Maintenant qu'il en sait lui-même beaucoup, il s'interroge sur sa propre survie.
