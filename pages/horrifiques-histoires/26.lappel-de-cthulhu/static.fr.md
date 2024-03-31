@@ -18,6 +18,8 @@ date: '10-03-2024 21:00'
 
 *[TW]: Trigger Warning
 *[DÉBUT-HH]: ~03h09m
+*[DÉBUT-HH-2]: ~04h02m
+
 
 _Nous lisons un ensemble de papiers de Francis Wayland Thurston, un anthropologue qui a enquêté sur un culte obscur, pour la plupart hérités de son grand-oncle, George Gammell Angell, professeur renommé^[Il a enseigné les langues sémitiques à l'université Brown.] et décédé dans des circonstances mystérieuses^[« Pendant l'hiver 1926-1927 ».]._
 
@@ -39,6 +41,8 @@ _Ce n'est pas la première fois que le Professeur Angell s'intéresse aux étran
 - L'inspecteur raconte la soirée du 1^er^ novembre 1907, où un assaut est mené suite à des disparitions, des chants terrifiants et des flammes infernales, dans les marais du sud de la Nouvelle-Orléans. Ils y découvrent une sorte de **culte intense** incluant des sacrifices humains. Un attroupement d'une centaine de personnes autour d'un monolithe au sommet duquel se trouve la statuette. Ils font 47 prisonniers^[Mais aussi 5 morts et plusieurs grièvement blessés.].
 - Les prisonniers affirment que la secte vénère les « Grands Anciens », des dieux venus du ciel et aujourd'hui endormis au cœur des terres ou sous les eaux. Le grand prête, Cthulhu, communique avec les fidèles via les rêves et attend dans sa demeure de _R’lyeh_ avant de régner à nouveau sur le monde.
 
+> N’est pas mort, ce qui à jamais dort  
+> Et au fil des âges, peut mourir même la mort
 
 ---
 
