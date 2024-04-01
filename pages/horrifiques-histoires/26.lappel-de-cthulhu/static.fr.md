@@ -36,7 +36,9 @@ _Nous lisons un ensemble de papiers de Francis Wayland Thurston, un anthropologu
 
 - Un an après avoir lu le manuscrit, Thurston découvre une épopée marine dans un journal australien. Le naufrage de dans une tempête extrêmement violente ; un survivant, sombré dans la folie, et serrant une _statuette_ dans ses bras.
 - Le 22 mars, l'_Emma_ croise l'_Alert_ en mer. Ce dernier tente de l'attaquer, l'_Emma_ résiste et gagne. Les survivants décident de voir où allaient leurs agresseurs. Ils arrivent sur une île où six matelots périrent, sans qu'on ne sache comment à ce stade du récit. 
-- Thurston se rend à Oslo pour retrouver le récit d'un survivant, Gustaf Johansen, mais découvre qu'il est mort plus tard. Il met cela dit la main sur son journal.
+- Thurston se rend à Oslo pour retrouver le récit d'un survivant, Gustaf Johansen, mais découvre qu'il est mort plus tard. Il met cela dit la main sur son journal, où il apprend ce qu'il s'est vraiment passé.
+- Les matelots ont découvert une cité sous-marine monstrueuse, qu'est soulevée par un tremblement de terre. Ils ont réveillé Cthulhu par accident. Deux sont morts de peur, trois par Cthulhu lui-même. Un quatrième est devenu fou, avec lequel Johansen parvient à fuir. Ici s'arrête le récit de Johansen, qui n'est plus capable de naviguer par la suite.
+- Johansen n'ose publier son récit à quelque audience, de peur de n'être cru. Il finit assassiné… et Thurston, faisant le lien entre toutes les informations à sa disposition, se dit qu'il est définitivement le prochain.
 
 ---
 
