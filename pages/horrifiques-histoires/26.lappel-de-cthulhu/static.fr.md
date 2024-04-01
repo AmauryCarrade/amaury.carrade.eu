@@ -13,8 +13,6 @@ date: '10-03-2024 21:00'
 | Cette page résume [l'_Horrifique Histoire_ diffusée par Vincent Chabrette](https://www.twitch.tv/vchabrette), en collaboration non-rémunérée avec les [Éditions Bragelonne](https://www.bragelonne.fr).
 |
 | Le résumé est écrit au fur et à mesure : pas de risque de spoil ! Pour avoir une version à jour, actualisez la page.
-|
-| _On reprend la semaine prochaine…_
 
 *[TW]: Trigger Warning
 *[DÉBUT-HH]: ~03h09m
@@ -30,14 +28,15 @@ _Nous lisons un ensemble de papiers de Francis Wayland Thurston, un anthropologu
   Une idole à tête de poulpe est confisquée à une secte vénérant les _Grands Anciens_, dieux venus des étoiles et aujourd'hui endormis au cœur de la terre. Le Grand Prêtre Cthulhu attend de réveiller ses fidèles avec qui il communique via les rêves. Thurston soupçonne que son grand-oncle est mort car il en savait trop, et commence à s'inquiéter pour lui-même.
   
 - **Chapitre III – L’aberration surgit des flots**  
-  _En cours_
+  _En cours… Voir ci-dessous._
 
 ---
 
 ### Chapitre III – L’aberration surgit des flots
 
-- Un an après avoir lu le manuscrit, Thurston découvre une épopée marine dans un journal australien. Un naufrage dans une tempête extrêmement violente, avec un survivant, sombré dans la folie et serrant une _statuette_ dans ses bras.
-- 
+- Un an après avoir lu le manuscrit, Thurston découvre une épopée marine dans un journal australien. Le naufrage de dans une tempête extrêmement violente ; un survivant, sombré dans la folie, et serrant une _statuette_ dans ses bras.
+- Le 22 mars, l'_Emma_ croise l'_Alert_ en mer. Ce dernier tente de l'attaquer, l'_Emma_ résiste et gagne. Les survivants décident de voir où allait leur agresseur.
+- Ils arrivent sur une île où six matelots périrent, sans qu'on ne sache comment à ce stade du récit.
 
 ---
 
