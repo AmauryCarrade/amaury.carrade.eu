@@ -35,11 +35,10 @@ _Nous lisons un ensemble de papiers de Francis Wayland Thurston, un anthropologu
 ### Chapitre III – L’aberration surgit des flots
 
 - Un an après avoir lu le manuscrit, Thurston découvre une épopée marine dans un journal australien. Le naufrage de dans une tempête extrêmement violente ; un survivant, sombré dans la folie, et serrant une _statuette_ dans ses bras.
-- Le 22 mars, l'_Emma_ croise l'_Alert_ en mer. Ce dernier tente de l'attaquer, l'_Emma_ résiste et gagne. Les survivants décident de voir où allait leur agresseur.
-- Ils arrivent sur une île où six matelots périrent, sans qu'on ne sache comment à ce stade du récit.
+- Le 22 mars, l'_Emma_ croise l'_Alert_ en mer. Ce dernier tente de l'attaquer, l'_Emma_ résiste et gagne. Les survivants décident de voir où allaient leurs agresseurs. Ils arrivent sur une île où six matelots périrent, sans qu'on ne sache comment à ce stade du récit. 
+- Thurston se rend à Oslo pour retrouver le récit d'un survivant, Gustaf Johansen, mais découvre qu'il est mort plus tard. Il met cela dit la main sur son journal.
 
 ---
-
 
 [[s|Chapitre I^er^ – L'horreur d'argile]]
 | 
@@ -51,14 +50,14 @@ _Nous lisons un ensemble de papiers de Francis Wayland Thurston, un anthropologu
 | - Angell découvre, après des recherches, qu'entre le 23 mars et le 2 avril, des rêves oppressants, des visions de terreur, de créatures immenses, se sont répandues… ainsi que des tremblements de terre, suicides, orgies vaudou, révoltes…
 
 
-[[s|Chapitre II — Le récit de l'inspecteur Legrasse]]
+[[s|Chapitre II – Le récit de l'inspecteur Legrasse]]
 | _Ce n'est pas la première fois que le Professeur Angell s'intéresse aux étranges événements autour de Cthulhu._
 | 
 | **TW : mention de sacrifices humains.**
 | 
 | - En 1908, à la réunion annuelle de la Société américaine d'archéologie, l'inspecteur John Legrasse demande de l'aide pour **identifier une statuette présumée vaudou**.^[Elle attire le vif intérêt des participants à la réunion.] Elle représente un monstre à tête de pieuvre^[Et à corps écaillé, pourvu de petites ailes.], et inclut des inscriptions hiéroglyphiques inconnues sur son socle.
 | - L'inspecteur raconte la soirée du 1^er^ novembre 1907, où un assaut est mené suite à des disparitions, des chants terrifiants et des flammes infernales, dans les marais du sud de la Nouvelle-Orléans. Ils y découvrent une sorte de **culte intense** incluant des sacrifices humains. Un attroupement d'une centaine de personnes autour d'un monolithe au sommet duquel se trouve la statuette. Ils font 47 prisonniers^[Mais aussi 5 morts et plusieurs grièvement blessés.].
-| - Les prisonniers affirment que la secte vénère les « Grands Anciens », des dieux venus du ciel et aujourd'hui endormis au cœur des terres ou sous les eaux. Le grand prête, Cthulhu, communique avec les fidèles via les rêves et attend dans sa demeure de _R’lyeh_ avant de régner à nouveau sur le monde.
+| - Les prisonniers affirment que la secte vénère les « Grands Anciens », des dieux venus du ciel et aujourd'hui endormis au cœur des terres ou sous les eaux. Le grand prêtre, Cthulhu, communique avec les fidèles via les rêves et attend dans sa demeure de _R’lyeh_ avant de régner à nouveau sur le monde.
 | 
 | > N’est pas mort, ce qui à jamais dort  
 | > Et au fil des âges, peut mourir même la mort
