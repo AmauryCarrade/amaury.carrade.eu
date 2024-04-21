@@ -19,9 +19,16 @@ _Horrifiques Histoires Communautaires № 2_
 
 ---
 
+> Ma femme a acheté une maison connue pour être hantée.
+Source: Ariane, la narratrice
+
 La femme de la narratrice a acheté une maison connue pour être hantée. Plusieurs personnes sont mortes ici, on le ressent, et ce sont eux qui hantent les lieux et rient froidement dans les murs.
 
-La narratrice explore la maison, monte dans les étages glacés.
+La narratrice explore la maison, monte dans les étages glacés et plongés dans le noir. Le froid devient oppressant, comme s'il était un être à part entière.
+
+La maison est hantée. Elle cherche à sortir mais les portes sont fermées. On l'effleure. Et les voix dans les murs… Et sa femme n'est plus là.
+
+[Sa] femme a acheté une maison connue pour être hantée.
 
 ---
 
