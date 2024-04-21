@@ -15,7 +15,9 @@ date: '21-04-2024 22:00'
 *[TW]: Trigger Warning — /announceorange ⚠ TW : ENFANCE, HÔPITAUX PSYCHIATRIQUES
 *[DÉBUT-HH]: Mettre l'horodatage de début ici
 
-**TW : enfance, hôpitaux psychiatriques.**
+_Horrifiques Histoires Communautaires № 2_   ·   **TW : enfance, hôpitaux psychiatriques.**
 
-_L'histoire n'a pas encore commencée : vous n'avez rien raté ! Installez-vous confortablement._
+> Viens jouer !… Viens jouer !… Allez, viens jouer…
+Source: L’ombre
 
+Un enfant, allongé puis recroquevillé dans son lit, attend la venue d'une ombre avec une grande angoisse. Plusieurs de ses amis semblent avoir disparus.
