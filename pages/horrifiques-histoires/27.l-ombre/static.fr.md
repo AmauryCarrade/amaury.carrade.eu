@@ -15,7 +15,7 @@ date: '21-04-2024 22:00'
 *[TW]: Trigger Warning
 *[DÉBUT-HH]: 1h50 environ — /announceorange ⚠ TW : ENFANCE, HÔPITAUX PSYCHIATRIQUES
 
-_Horrifiques Histoires Communautaires № 2_   ·   **TW : enfance, hôpitaux psychiatriques.**
+_Horrifiques Histoires Communautaires № 2_   ·   **TW : [enfance](https://www.allo119.gouv.fr/), hôpitaux psychiatriques.**
 
 > Viens jouer !… Viens jouer !… Allez, viens jouer…
 Source: L’ombre

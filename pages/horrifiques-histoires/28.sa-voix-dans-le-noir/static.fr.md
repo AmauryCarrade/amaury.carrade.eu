@@ -15,6 +15,15 @@ date: '21-04-2024 22:00'
 *[TW]: Trigger Warning
 *[DÉBUT-HH]: 1h50 environ — /announceorange ⚠ TW : ENFANCE, HÔPITAUX PSYCHIATRIQUES
 
-_Horrifiques Histoires Communautaires № 2_   ·   **TW : […].**
+_Horrifiques Histoires Communautaires № 2_
 
-_L'histoire n'a pas encore commencée : vous n'avez rien raté ! Installez-vous confortablement._
+---
+
+La femme de la narratrice a acheté une maison connue pour être hantée. Plusieurs personnes sont mortes ici, on le ressent, et ce sont eux qui hantent les lieux et rient froidement dans les murs.
+
+La narratrice explore la maison, monte dans les étages glacés.
+
+---
+
+> (lisez shirley jackson)
+Source: nova
