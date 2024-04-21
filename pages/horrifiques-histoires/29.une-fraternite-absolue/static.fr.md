@@ -13,6 +13,8 @@ date: '21-04-2024 22:00'
 | Cette page résume [l'_Horrifique Histoire_ diffusée en live actuellement](https://www.twitch.tv/vchabrette). Le résumé est écrit au fur et à mesure : pas de risque de spoil ! Pour avoir une version à jour, actualisez la page.
 
 *[TW]: Trigger Warning
-*[DÉBUT-HH]: Mettre l'horodatage de début ici
+*[DÉBUT-HH]: 3h30
 
-_L'histoire n'a pas encore commencée : vous n'avez rien raté ! Installez-vous confortablement._
+Dans un village du Moyen-Âge, deux jeunes gens (Aurore, ~16 ans, et Marc, 25) sont mariés de force, tentent d'avoir une descendance sans succès. Cela fait naître des superstitions autour de leur infertilité.
+
+Finalement, après avoir eu des visions, Aurore tombe enceinte — inespéré — puis donne naissance… à un enfant aveugle, Karl.
