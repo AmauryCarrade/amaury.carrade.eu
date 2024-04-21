@@ -13,7 +13,7 @@ date: '21-04-2024 22:00'
 | Cette page résume [l'_Horrifique Histoire_ diffusée en live actuellement](https://www.twitch.tv/vchabrette). Le résumé est écrit au fur et à mesure : pas de risque de spoil ! Pour avoir une version à jour, actualisez la page.
 
 *[TW]: Trigger Warning
-*[DÉBUT-HH]: 1h50 environ — /announceorange ⚠ TW : ENFANCE, HÔPITAUX PSYCHIATRIQUES
+*[DÉBUT-HH]: jsp 2h40 environ
 
 _Horrifiques Histoires Communautaires № 2_
 

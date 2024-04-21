@@ -1,8 +1,8 @@
 ---
-title: HH-Commu-3
+title: 'Une fraternité absolue'
 abstract: 'Horrifiques Histoires Communautaire ! Résumé du Maître des Crabes, de Lulalulina (Encelade) !'
 homepage:
-    invite: Karcad
+    invite: 'Hugo a.k.a. Karcad'
 admin:
     children_display_order: default
 publish_date: '05-02-2023 23:00'
