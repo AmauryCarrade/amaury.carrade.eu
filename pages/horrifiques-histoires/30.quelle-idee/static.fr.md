@@ -15,6 +15,10 @@ date: '05-02-2023 23:00'
 *[TW]: Trigger Warning
 *[DÉBUT-HH]: Mettre l'horodatage de début ici
 
-**TW : violences conjugales** (potentiellement)
+**TW : violences conjugales**
 
 Margaret, en voyant son mari, a des pensées intrusives la poussant à l'assassiner.
+
+Elle tente d'y résister, et lutte contre elle-même tout en tenant de n'y laisser rien paraître — mais son mari voit bien qu'elle est troublée. Les idées persistent.
+
+_La chute tient en une phrase et n'est volontairement pas résumée ici._
