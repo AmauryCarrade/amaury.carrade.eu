@@ -6,10 +6,10 @@ taxonomy:
     category:
         - Accessibilité
     tag:
-        - contraste
-        - normes
-        - WCAG
-        - APCA
+        - ChatGPT
+        - LLM
+        - 'accessibilité automatisée'
+        - 'texte alternatif'
 media_order: 'divazus-fabric-store-87wQJJu85Fs-unsplash - Grande.jpeg'
 header_image:
     image: divazus-fabric-store-87wQJJu85Fs-unsplash.jpeg
@@ -17,9 +17,11 @@ header_image:
     author: 'Divazus Fabric Store'
     link: 'https://unsplash.com/fr/photos/textile-vert-sur-textile-blanc-87wQJJu85Fs?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash'
     vertical_centering: 50
+page-toc:
+    active: false
 ---
 
-C’est effectivement mieux que ce qui se faisait avant pour générer des descriptions d’images, mais ce n’est pas encore parfait pour autant. Yep, je viens encore faire le rabat-joie, mais partez pas, j’ai des arguments :p
+C’est effectivement mieux que ce qui se faisait avant pour générer des descriptions d’images, mais ce n’est pas encore parfait pour autant. Yep, je viens encore faire le rabat-joie, mais partez pas, j’ai des arguments !
 
 # Contexte ?
 
