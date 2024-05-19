@@ -16,7 +16,8 @@ date: '05-02-2023 23:00'
 *[DÉBUT-HH]: 1h25 environ
 
 [[i]]
-| Le texte complet est [disponible sur Wikisource](https://fr.wikisource.org/wiki/Boule_de_Suif_-_Correspondance/La_Main_d%E2%80%99%C3%A9corch%C3%A9), dans le domaine public. **Il est court ; j’en recommande grandement la lecture en lieu et place de ce résumé qu’était surtout pertinent lors de l’émission !**
+| Le texte complet est [disponible sur Wikisource](https://fr.wikisource.org/wiki/Boule_de_Suif_-_Correspondance/La_Main_d%E2%80%99%C3%A9corch%C3%A9), dans le domaine public.  
+| **Il est court ; j’en recommande grandement la lecture en lieu et place de ce résumé qu’était surtout pertinent lors de l’émission !**
 
 _TW : agression, strangulation, folie, mort._
 

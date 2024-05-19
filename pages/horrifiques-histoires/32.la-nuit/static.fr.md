@@ -16,7 +16,8 @@ date: '05-02-2023 23:00'
 *[DÉBUT-HH]: 3h15 environ
 
 [[i]]
-| Le texte complet est [disponible sur Wikisource](https://fr.wikisource.org/wiki/Clair_de_lune_(recueil,_1905)/La_Nuit), dans le domaine public.
+| Le texte complet est [disponible sur Wikisource](https://fr.wikisource.org/wiki/Clair_de_lune_(recueil,_1905)/La_Nuit), dans le domaine public.  
+| **Il est court ; j’en recommande grandement la lecture en lieu et place de ce résumé qu’était surtout pertinent lors de l’émission !**
 
 Le narrateur « _aime la nuit avec passion_ », par opposition au jour qu'il déteste. Mais… « _ce qu'on aime avec violence finit par vous tuer_ »… 
 
@@ -24,7 +25,7 @@ Hier^[« _Donc hier — était-ce hier ? — oui, sans doute, à moins que ce n
 
 Il est 2h. Le narrateur **n'a jamais vu une nuit si sombre**. Les becs de gaz étaient tous éteints^[« _Je sais qu’on les supprime de bonne heure, avant le jour, en cette saison, par économie ; mais le jour était encore loin, si loin de paraître !_ »]. Il tente de rejoindre, difficilement dans la ville déserte et noire, les Halles^[Au centre de Paris, près de la Seine.]. Personne pour répondre à ses cris, aux sonnettes déclenchées avec obstination.
 
-Les Halles étaient vides, mortes, noires^[En temps normal, à l'époque, les Halles grouillent de vie la nuit, pour préparer l'immense marché de la capitale, depuis déplacé à [Rungis](https://fr.wikipedia.org/wiki/March%C3%A9_d%27int%C3%A9r%C3%AAt_national_de_Rungis).]. Le narrateur se demande si la Seine coule encore.
+Les Halles étaient vides, mortes, noires^[En temps normal, à l'époque, les Halles grouillent de vie la nuit, pour préparer l'immense marché couvert de la capitale, depuis déplacé à [Rungis](https://fr.wikipedia.org/wiki/March%C3%A9_d%27int%C3%A9r%C3%AAt_national_de_Rungis).]. Le narrateur se demande si la Seine coule encore.
 
 Il n'entend pas le courant. Il y plonge son bras… « _elle coulait… elle coulait… froide… froide… froide… presque gelée… presque tarie… presque morte._ »
 
