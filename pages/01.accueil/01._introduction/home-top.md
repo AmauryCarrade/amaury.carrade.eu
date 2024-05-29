@@ -17,7 +17,7 @@ associations:
         icon_background: '#ffffff'
     -
         name: RéPIC
-        title: 'Membre du <strong>RéPIC</strong>'
+        title: 'Vice-secrétaire du <strong>RéPIC</strong>'
         link: 'https://amaury.carrade.eu'
         icon: 'Électrons libres de la CSTI Petite.png'
         icon_background: '#ffffff'
