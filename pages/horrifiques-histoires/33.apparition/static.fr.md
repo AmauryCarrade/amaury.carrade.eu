@@ -19,4 +19,12 @@ date: '05-02-2023 23:00'
 | Le texte complet est [disponible sur Wikisource](https://fr.wikisource.org/wiki/Clair_de_lune_(recueil,_1884)/Apparition), dans le domaine public.  
 | **Il est court ; j’en recommande grandement la lecture en lieu et place de ce résumé qu’était surtout pertinent lors de l’émission !**
 
-Le vieux marquis de la Tour-Samuel, 82 ans, a vécu une _aventure étrange_ il y a 56 ans, et avoue avoir suite à cela peur de la nuit.
+En 1827, le vieux marquis de la Tour-Samuel croise un vieil ami — qu’a perdu sa femme après un an d’un merveilleux mariage —, qui lui demande pour service d'aller lui chercher quelque papiers dans sa demeure. Le marquis accepte et s’y rend le lendemain.
+
+Lorsqu'il informe le jardinier qu'il compte aller dans le chateau, dans la chambre, ce dernier est mal à l'aise.
+
+> — Non… monsieur… mais c’est que… c’est qu’elle n’a pas été ouverte depuis… depuis la… la mort.
+
+Il se rend dans la chambre, sombre et laissée en désordre. Cherchant les lettres, il sent un frôlement derrière lui… et entend un soupir… Une grande femme vêtue de blanc le regardait. Il défaillit.
+
+La femme lui demande de le peigner pour la « guérir ». Surpris de ses propres actes, il s'exécute.
