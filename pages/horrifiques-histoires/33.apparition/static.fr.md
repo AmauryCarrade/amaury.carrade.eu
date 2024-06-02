@@ -27,4 +27,8 @@ Lorsqu'il informe le jardinier qu'il compte aller dans le chateau, dans la chamb
 
 Il se rend dans la chambre, sombre et laissée en désordre. Cherchant les lettres, il sent un frôlement derrière lui… et entend un soupir… Une grande femme vêtue de blanc le regardait. Il défaillit.
 
-La femme lui demande de le peigner pour la « guérir ». Surpris de ses propres actes, il s'exécute.
+La femme lui demande de le peigner pour la « guérir », ce qu'il fait malgré la sensation de froid intense. Elle semblait heureuse. Une fois satisfaite, elle fuit sans demander son reste. Elle sorti par la porte, entr’ouverte ; il trouva la même porte, fermée.
+
+Le marquis s'en alla avec les lettres le plus rapidement possible, et s'isola à Rouen pour réfléchir à tout ce qui venait de se passer. Il voulu en parler à son ami le lendemain à l'aube. L’ami n'était plus là.
+
+On ne l'a plus jamais revu. « _Et, depuis cinquante-six ans, je n’ai rien appris. Je ne sais rien de plus._ » 
