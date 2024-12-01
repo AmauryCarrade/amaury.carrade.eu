@@ -20,3 +20,5 @@ published: true
 *[TW]: Trigger Warning
 
 **Halpin Chalmers** est un chercheur peu conventionnel, qui croit que les alchimistes et les sorciers détiennent la vérité (et non les biologistes). Il affirme avoir découvert **une nouvelle drogue, _Liao_, permettant de voir l'intégralité du temps**.
+
+Malgré les réprobations de son assistant, il avale la drogue. De son point de vue, le monde s'efface autour de lui. Il affirme voir les mers et les terres, mille peuples de mille époques, ce qu'il raconte à un rythme effréné. « _Je perçois tout, simultanément._ » Il dit percevoir la nature du temps elle-même, « étrange à l'extrême ».
