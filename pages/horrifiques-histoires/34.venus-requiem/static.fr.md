@@ -18,4 +18,4 @@ sitemap:
 *[TW]: Trigger Warning
 *[DÉBUT-HH]: Mettre l'horodatage de début ici
 
-_L'histoire n'a pas encore commencée : vous n'avez rien raté ! Installez-vous confortablement._
+Vénus, escorte de son métier, que l'on suit, croise un homme, Tyros, qui semble capable de prédire l'avenir.
