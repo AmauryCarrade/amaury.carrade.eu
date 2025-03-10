@@ -26,5 +26,7 @@ Elle cherche à trouver une idée pour exploiter les capacités de cet oracle da
 
 L’émission marche du tonnerre. Mais attire les critiques.
 
+_Un journaliste lui reprochant l'immoralité de son émission, Vénus lui répond qu'il s'agit de la nature humaine de vouloir de la stimulation forte ; puis le contraint à prendre des stimulants virtuels, le faisant vivre une mort simulée mais dramatiquement réaliste._
+
 [[s|Contexte de Vénus]]
 | Selon Vénus, la vie se résume au _sexe_ et à la _mort_. On apprend qu'elle n'avait que 10 ans lorsqu’elle a réchappé de peu à la destruction et à la mort au sein d'une base ; ce qui la rend égérie des survivant·es. Elle raconte la mort à la télévision afin de sensibiliser. Mariée à un puissant rapidement décédé, elle devient extrêmement puissante dans les médias.
