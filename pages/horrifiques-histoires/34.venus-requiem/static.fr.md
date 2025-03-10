@@ -20,13 +20,19 @@ sitemap:
 
 **TW : sexe, mort.** _Cette nouvelle se place dans un univers de science-fiction._
 
-Vénus, escorte ancienne star ultra-influenceuse de la télé-réalité utilisant cette dernière pour mettre la mort en scène, croise un homme, Tyros, qui semble connaître une oracle capable de prédire l'avenir.
+Vénus, escorte mais surtout star ultra-influenceuse de la télé-réalité, utilisant cette dernière pour mettre la mort en scène, croise un homme, Tyros, qui semble connaître une oracle capable de prédire l'avenir.
 
 Elle cherche à trouver une idée pour exploiter les capacités de cet oracle dans un format télé-réalité ; et imagine un jeu où, sur 12 participant·es, une oracle garantie qu’une au moins va mourir sous 30 jours ; et où les téléspectateurices parient sur qui il s’agit.
 
 L’émission marche du tonnerre. Mais attire les critiques.
 
-_Un journaliste lui reprochant l'immoralité de son émission, Vénus lui répond qu'il s'agit de la nature humaine de vouloir de la stimulation forte ; puis le contraint à prendre des stimulants virtuels, le faisant vivre une mort simulée mais dramatiquement réaliste._
+_Un journaliste lui reprochant l'immoralité de son émission, Vénus lui répond qu'il s'agit de la nature humaine de vouloir de la stimulation forte ; puis le contraint à prendre des stimulants virtuels, le faisant vivre une mort simulée mais dramatiquement réaliste. Le journaliste se suicide trois semaines plus tard._
+
+Peu après, Vénus découvre peu à peu que tout est un canular. L’oracle est un hologramme, l'émission manipulée. Elle insulte puis s'éloigne de Tyros qui venait lui apprendre. « _Toutes ces angoisses pour un canular !_ »
+
+À Tyros qui lui propose de prendre leur retraite de ce monde, elle accepte à condition de mener sa vengeance envers ceux qui l'ont manipulée. Une émission. Populaire. _Mort aux Rats_.
+
+_« Ce n’était pas demain la veille que Vénus Djanwa, la plus puissante veuve de l’univers civilisé, passerait l’arme à gauche ! »_
 
 [[s|Contexte de Vénus]]
 | Selon Vénus, la vie se résume au _sexe_ et à la _mort_. On apprend qu'elle n'avait que 10 ans lorsqu’elle a réchappé de peu à la destruction et à la mort au sein d'une base ; ce qui la rend égérie des survivant·es. Elle raconte la mort à la télévision afin de sensibiliser. Mariée à un puissant rapidement décédé, elle devient extrêmement puissante dans les médias.
