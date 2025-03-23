@@ -2,7 +2,7 @@
 title: 'Le manoir aux urnes'
 abstract: 'Résumé court et détaillé du Maître des Crabes, de Clark Ashton Smith !'
 homepage:
-    invite: "Clark Ashton Smith\_\_·\_\_Zothique"
+    invite: NokomisM
 admin:
     children_display_order: default
 publish_date: '05-02-2023 23:00'
@@ -18,4 +18,4 @@ sitemap:
 *[TW]: Trigger Warning
 *[DÉBUT-HH]: Mettre l'horodatage de début ici
 
-Un voyageur arrive dans le _Manoir aux Urnes_ et se voit amené dans une chambre un peu triste par la propriétaire Madame Fusette.
+Un voyageur arrive un matin dans le _Manoir aux Urnes_, qu'a la réputation d'être hanté, ce qui attire bien des curieux^[Dont la professeur Verussi, spécialiste incontestée des corbeaux].
