@@ -8,6 +8,8 @@ admin:
 publish_date: '05-02-2023 23:00'
 date: '05-02-2023 23:00'
 published: true
+sitemap:
+    lastmod: '23-03-2025 23:00'
 ---
 
 [[a]]
@@ -16,4 +18,4 @@ published: true
 *[TW]: Trigger Warning
 *[DÉBUT-HH]: Mettre l'horodatage de début ici
 
-_L'histoire n'a pas encore commencée : vous n'avez rien raté ! Installez-vous confortablement._
+Un voyageur arrive dans le _Manoir aux Urnes_ et se voit amené dans une chambre un peu triste par la propriétaire Madame Fusette.
