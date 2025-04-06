@@ -18,6 +18,8 @@ sitemap:
 *[TW]: Trigger Warning
 *[DÉBUT-HH]: Mettre l'horodatage de début ici
 
-On suit Marina Kozlov dans un monde futuriste où des androïdes aident les humains, et où ces derniers sont augmentés par la technologie.
+Dans un monde futuriste où les humains sont augmentés et des androïdes les aident, nous suivons Marina et John Kozlov. John travaille sur de nouveaux modèles d’androïdes plus intelligents, « _avec qui un échange relationnel est possible_ » ; l’un d’eux, Martin, a tué leur chien par accident. L’androïde souhaiterait réparer son erreur.
 
-Son mari, John, travaille sur de nouveaux modèles d’androïdes plus intelligents, « _avec qui un échange relationnel est possible_ » ; l’un d’eux, Martin, a tué le chien de John et Marina. L’androïde souhaiterait réparer son erreur.
+Martin l’androïde est rallumé quelques années plus tard face à Marina ; John ne semble plus être dans les parages. Martin demande à appeler Marina “Mère”, ce qui lui est accordé.
+
+Martin apprend que John n’est plus là car leur mariage s’est dégradé.
