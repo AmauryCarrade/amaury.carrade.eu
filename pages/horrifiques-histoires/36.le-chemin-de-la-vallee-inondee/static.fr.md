@@ -2,12 +2,14 @@
 title: 'Le chemin de la vallée inondée'
 abstract: 'Résumé court et détaillé du Maître des Crabes, de Clark Ashton Smith !'
 homepage:
-    invite: "Clark Ashton Smith\_\_·\_\_Zothique"
+    invite: Diane
 admin:
     children_display_order: default
 publish_date: '05-02-2023 23:00'
 date: '05-02-2023 23:00'
 published: true
+sitemap:
+    lastmod: '06-04-2025 23:20'
 ---
 
 [[a]]
@@ -16,4 +18,6 @@ published: true
 *[TW]: Trigger Warning
 *[DÉBUT-HH]: Mettre l'horodatage de début ici
 
-_L'histoire n'a pas encore commencée : vous n'avez rien raté ! Installez-vous confortablement._
+On suit Marina Kozlov dans un monde futuriste où des androïdes aident les humains, et où ces derniers sont augmentés par la technologie.
+
+Son mari, John, travaille sur de nouveaux modèles d’androïdes plus intelligents, « _avec qui un échange relationnel est possible_ » ; l’un d’eux, Martin, a tué le chien de John et Marina. L’androïde souhaiterait réparer son erreur.
