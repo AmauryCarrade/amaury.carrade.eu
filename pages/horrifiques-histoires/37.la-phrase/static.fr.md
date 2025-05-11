@@ -17,4 +17,16 @@ sitemap:
 *[TW]: Trigger Warning
 *[DÉBUT-HH]: Mettre l'horodatage de début ici
 
-_L'histoire n'a pas encore commencée : vous n'avez rien raté ! Installez-vous confortablement._
+Le narrateur doit estimer la valeur d’une collection privée de livres suisses, dans un vieux manoir usé par le temps et les éléments du canton de Neuchâtel. En se coupant sur une page d’un livre, il tombe sur une phrase qui le perturbe grandement :
+
+> Quand les larmes sèmeront les champs de carcasses entre les vents noirs des orchidées moribondes, sonnera l’avènement des entrailles empoisonnées sous le joug des crânes cancéreux
+Source: Extrait d’un ouvrage de Denis de Rougemont
+
+Il cherche à retrouver l’extrait pour le montrer : il avait disparu.
+
+Le lendemain, il découvre une tache de sang près d'une brûlure du parquet. Puis d’autres, alignées avec la première. Il ouvre un livre de Gottfried Keller, proche de la dernière goutte de sang, et y trouve un passage presque identique :
+
+> Quand les larmes sèmeront les champs de carcasses entre les vents noirs des orchidées moribondes, sonnera l’avènement des entrailles empoisonnées sous le joug des crânes cancéreux, jouxtant les allées d’âmes torsadées autour des fruits obscènes, logées au cœur des chatoiements ternes des saignements crépusculaires
+Source: Extrait d’un ouvrage de Gottfried Keller
+
+Voulant photographier la page… le texte avait de nouveau disparu.
