@@ -19,7 +19,7 @@ sitemap:
 
 Le narrateur doit estimer une collection de livres suisses. Il découvre une phrase mystérieuse dans l’un des livres, après s’être blessé sur du papier ; puis dans un autre, proche d’autres gouttes de sang mystérieuses ; puis encore, dans d’autres livres… À chaque fois, la phrase est légèrement plus longue ; à chaque fois, la phrase disparaît dés lors qu’il cherche à la retrouver ou photographier…
 
-Il commence à voir la phrase partout et à se terrer chez lui, avant de tenter de retrouver l’identité de l’ancienne propriétaire du manoir.
+Il commence à voir la phrase partout et à se terrer chez lui, avant de retrouver l’identité de l’ancienne propriétaire du manoir.
 
 > Quand les larmes sèmeront les champs de carcasses entre les vents noirs des orchidées moribondes, sonnera l’avènement des entrailles empoisonnées sous le joug des crânes cancéreux, jouxtant les allées d’âmes torsadées autour des fruits obscènes, logées au cœur des chatoiements ternes des saignements crépusculaires qui terrassent les ténèbres endeuillées par une exquise strangulation des espérances ramifiées par des promesses meurtrières qui n’ont jamais suinté les vaines ardeurs d’un suif tremblotant sous l’effet des héritages effroyables portés par les bulbes d’époques anémiques, et
 Source: Dernière version connue de la phrase
